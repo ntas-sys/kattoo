@@ -1,8 +1,8 @@
 {
   "id": "org.seninadın.katalog",
   "version": "1.0.0",
-  "name": "Film Koleksiyonum",
-  "description": "900 film",
+  "name": "Türk Film",
+  "description": "filmler.",
   "logo": "https://raw.githubusercontent.com/Stremio/stremio-shell/master/images/stremio_logo.png",
   "catalogs": [
     {
