@@ -1,0 +1,16 @@
+{
+  "id": "com.custom.static.catalog",
+  "version": "1.0.0",
+  "name": "My Static Catalog",
+  "description": "Prebuilt TMDb catalog from CSV",
+  "resources": ["catalog"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "my-movies",
+      "name": "My Movies"
+    }
+  ],
+  "idPrefixes": ["tmdb:"]
+}
