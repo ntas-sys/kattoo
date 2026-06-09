@@ -1,0 +1,625 @@
+{
+  "metas": [
+    {
+      "id": "tt2670226",
+      "type": "movie",
+      "name": "Jîn",
+      "poster": "https://image.tmdb.org/t/p/w500/7BO2cTgI1EWd8OJTV9KXZ3Xjug1.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6tcN1gd0osHVW1UFaUOHfFr8HPR.jpg",
+      "genres": [
+        "Dram",
+        "Savaş"
+      ],
+      "releaseInfo": "2013",
+      "description": "Jîn, 17 yaşlarında, hayata katılmak için çıkışları zorlayan ve bu yolda karanlık ormanları cesurca aşmaya çalışan, sanki bir ‘Kırmızı Başlıklı Kız’dır.Film, Jîn’in bilmediğimiz bir nedenle, dağdaki silahlı bir örgütten kaçmasıyla başlar. Hem kaçtığı örgüt elemanlarından, hem de kolluk kuvvetlerinden gizlenerek, dağlarda, ormanlarda yapayalnız günler ve geceler geçirir. Amacı bir büyük şehre, hayata, belki de hiç görüp bilmediği büyük dünyaların hayallerine ulaşmaktır.",
+      "runtime": "122 min"
+    },
+    {
+      "id": "tt0481354",
+      "type": "movie",
+      "name": "The İmam",
+      "poster": "https://image.tmdb.org/t/p/w500/nBkmr0DY4D8eJoBIYJaa6GSYp5A.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rwhturN9AlacvKEJKMcg1IDbZMt.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2005",
+      "description": "Bilgisayar mühendisi Emrullah, imam hatip lisesinden mezun olduğunu arkadaşlarından gizler. Adını Emre olarak değiştirerek iş hayatına başlar. Bir gün Emre'yi liseden arkadaşı Mehmet Hoca ziyaret eder. Mehmet, kanser tedavisi gördüğü için imamlık görevini yerine getiremeyecektir. Bu yüzden Emrullah'tan Ramazan ayı boyunca yerine geçmesini ister. Emre, Mehmet'in ricasını kabul ederek köye gider. Köyde kurduğu ilişkiler, Emre'nin yeniden kendisiyle yüzleşmesine neden olacaktır.",
+      "runtime": "119 min"
+    },
+    {
+      "id": "tt1330591",
+      "type": "movie",
+      "name": "Sonbahar",
+      "poster": "https://image.tmdb.org/t/p/w500/1Sodd4wfqX49R7PBOrl9hxavXf7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sYZ8Csc9OjfNsFPcPnH8he7oZNo.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2008",
+      "description": "Yusuf, 1997 yılında 22 yaşında üniversite öğrencisiyken girdiği cezaevinden 10 yıl sonra sağlık nedenleriyle tahliye edilir. Yusuf’u, cezaevinden çıkıp geldiği Doğu Karadeniz’deki köyünde bir tek yaşlı ve hasta annesi karşılar. O cezaevindeyken babası ölmüş, ablası ise evlenip büyük bir kente taşınmıştır. Ekonomik nedenlerle sadece yaşlıların kaldığı bu dağ köyünde Yusuf, sadece çocukluk arkadaşı Mikail ile görüşmektedir. Sonbaharın kendini yavaş yavaş kışa teslim ettiği günlerde Yusuf, Mikail ile gittiği bir meyhanede fahişelik yapan genç ve güzel Gürcü kızı Eka ile karşılaşır. Farklı dünyalardan gelen bu 2 insanın birlikteliği için ne zaman ne de koşullar uygundur. Yine de Yusuf için aşk son bir kez hayata tutunma ve kendi yalnızlığından sıyrılma çabasına dönüşür.",
+      "runtime": "102 min"
+    },
+    {
+      "id": "tt1537717",
+      "type": "movie",
+      "name": "Acı Aşk",
+      "poster": "https://image.tmdb.org/t/p/w500/jFOsxJ6cQ8H4LvnOhhGl4IGct9m.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2MG1NLxWaA3IDWJMhCf1W25QR6j.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2009",
+      "description": "Eskişehir’de bir üniversitede edebiyat öğretmenliği yapmakta olan Orhan, evlenmeyi planladığı Ayşe’yle beklenmedik bir anda yollarını ayırıp İstanbul’a gelir ve Oya ile tanışır. Fotoğrafçılık yapan Oya ile belki de hayatının en mutlu günlerini geçirirken daha evliklerinin ilk günlerinde yaşadıkları kötü olaylar ile birlikte kendini zor bir aşk üçgeninin ortasında bulur. Bir yandan da yeni tanıştığı öğrencisi Seda, Orhan’ı çıkılması güç bir yola sürüklemektedir. Üç kadın arasında kalan ve hayatı alt üst olan Orhan’ı zor günler bekler...",
+      "runtime": "92 min"
+    },
+    {
+      "id": "tt1700494",
+      "type": "movie",
+      "name": "Türkler Çıldırmış Olmalı",
+      "poster": "https://image.tmdb.org/t/p/w500/XSvRXJdfJffcIWxVvg36LixvMv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gvyQBlNTO5DTIabdlAo6yBZH36U.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2009",
+      "description": "Ünlü işadamı Fahri ve ailesi Somalili korsanlar tarafından kaçırılır. Korsanlar, işadamı ve ailesinin serbest bırakılması için Türkiye’den yüklü bir miktar fidye ister. Türk hükümeti bu iş için illegal bir ekip kurmaya karar verir. Uzun süredir hapis yatan Albay Mehmet’e tahliye olması karşılığında bu görev teklif edilir. Mehmet, mahkûmlar arasından seçilen altı kişiyle beraber Fahri ve ailesini kurtarmaya çalışacaktır.",
+      "runtime": "99 min"
+    },
+    {
+      "id": "tt2186873",
+      "type": "movie",
+      "name": "Lal Gece",
+      "poster": "https://image.tmdb.org/t/p/w500/2qEa3qfYHXLfnMPg6HyQaSDGfFV.jpg",
+      "background": "",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2012",
+      "description": "Henüz ergenliğe girmiş küçük bir kız olan \"gelin\", uzun yıllar hapis yattıktan sonra memleketi olan köyüne geri dönen ve kendisinden 50 küsur yaş büyük \"damada\" sorgusuz sualsiz verilir. Başta korkar, ağlar; hatta direnir; başına ne geleceğinden hem habersiz hem de yarım yamalak kulaktan dolma laflar donanmıştır. Gerdek odasında tüm korkusuyla oturan gelin, dedesi yaşındaki damadın odaya adım atmasıyla gerçeklerle yüzleşmeye başlayacaktır.",
+      "runtime": "92 min"
+    },
+    {
+      "id": "tt3283754",
+      "type": "movie",
+      "name": "Ayas",
+      "poster": "https://image.tmdb.org/t/p/w500/mhUlWXpQSQ8skIYUPrWPfIVnnYQ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dfDpcjMSAvaMPvKeLi6ivuRb2z6.jpg",
+      "genres": [
+        "Animasyon",
+        "Aile"
+      ],
+      "releaseInfo": "2013",
+      "description": "Altı yaşındaki Ayas'ın başından geçen maceraları konu alan filmde, Ayas'ın akrabalarıyla dolu apartmanına ve İstanbul sokaklarında yaşadığı eğlenceli maceralara konuk oluyoruz. Film, seyirciyi Ayas'ın en sevdiği arkadaşları olan kuzenleri Mustafa ve Özgür'ün yanı sıra, annesi ve babası başta olmak üzere tüm ailesiyle tanıştırıyor ve geleneksel sokak kültürü ve oyunlarına davet ediyor.  Karanlıkta parlayan ay ışığı anlamına gelen Ayas, Düşyeri tarafından beyaz perde için hazırlanan ilk Türk çocuk çizgi sinema filmidir.",
+      "runtime": "82 min"
+    },
+    {
+      "id": "tt4558362",
+      "type": "movie",
+      "name": "Bizim Hikaye",
+      "poster": "https://image.tmdb.org/t/p/w500/oCGg8H9oDIxFMKM3cOT9KooUiPE.jpg",
+      "background": "",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2015",
+      "description": "Haksızlığa uğramış, ailesi, yuvası, geleceği elinden alınmış bir adam ile hayata karşı tek başına mücadele etmek zorunda kalan, çocuklarıyla bu koca dünyada bir başına kalmış bir kadının öyküsünü perdeye taşıyor Bizim Hikaye. Başka kimler yok ki bu öyküde: ailesinin itibarını kurtarmak için çabalayan bir genç, yanlış zamanın ve yanlış davanın kurbanı olan eski bir aşık... Yarınlardan bu günlere kadar gelmeyi başarabilmiş bir aşk hikayesi. 80 darbesinde gururu, itibarı zedelenen, inancı ve düşüncesi ne olursa olsun haksız yere hüküm giyen insanların, darbe sonrasında hayata tutunma çabalarını perdeye taşıyan film; o günlerden bu günlere kadar uzanan bir mücadeleyi, hiç bir şekilde bağlarını kopartmayan fedakar bir aile aracılığıyla bizlere aktarıyor. Yönetmenliğini Yasin Uslu'nun üstlendiği Bizim Hikaye'nin başrolleriniyse Cansel Elçin, Sera Tokdemir ve Naz Elmas paylaşıyor.",
+      "runtime": "102 min"
+    },
+    {
+      "id": "tt1808197",
+      "type": "movie",
+      "name": "İncir Reçeli",
+      "poster": "https://image.tmdb.org/t/p/w500/hkF7HQOxUlVmKz9UQHjUevBVZf7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vybZHtJjaM8Xa1u8kRo5exgF1eS.jpg",
+      "genres": [
+        "Romantik",
+        "Dram"
+      ],
+      "releaseInfo": "2011",
+      "description": "Masal gibi başlayan ve sonunda trajik bir olaya sürüklenen hikayesiyle 'İncir Reçeli', Aytaç Ağırlar'ın ilk yönetmenlik denemesi. Televizyon için skeç programları yazarak hayatını kazanan Metin’in en büyük isteği, yazdığı senaryolardan birinin filme çekilmesidir. Fakat senaryoları sürekli yapımcılar tarafından geri çevrilen Metin, yine böyle bir olayın akşamında gittiği barda Duygu ile tanışır. Metin zil zurna sarhoş olan bu kıza evini açar, fakat ertesi sabah uyandığında kısacık bir not bırakan Duygu çoktan evi terk etmiştir.",
+      "runtime": "95 min"
+    },
+    {
+      "id": "tt0856791",
+      "type": "movie",
+      "name": "İlk Aşk",
+      "poster": "https://image.tmdb.org/t/p/w500/cix28JKk6TAfKePG5iiJaTRAWEz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2cAF92mFPS9vcRs5BFCmHy4HjZV.jpg",
+      "genres": [
+        "Dram",
+        "Komedi"
+      ],
+      "releaseInfo": "2006",
+      "description": "Denize kıyısı olan bir Ege kasabasında 1990'ların başı... Kasabanın ileri gelenlerinden Arifoğulları ailesi eski ihtişamlı günlerinden çok uzaktadır. Tarlaların çoğu satılmış, çürümek üzere olan zeytinyağı fabrikasından başka bir şey kalmamıştır. Ailenin reisi Arif Arifoğlu 85 yaşına gelmiş, elini yıllar önce işten güçten çekmiş, aksi bir ihtiyardır. Oğlu Azmi'nin tek derdi, eski karısı Nevin'in gönlünü tekrar kazanmaktır. Oğulları Kemal ise kısa yoldan para kazanma hayalleri kurmaktadır. Kemal, karısı ve metresi arasında gelgitler yaşamaktadır. Arifoğulları ailesinin en küçüğü Arif Ege ise çocukluktan ergenliğe geçiş sürecinde ilk aşk sancıları çekmektedir.",
+      "runtime": "120 min"
+    },
+    {
+      "id": "tt1368068",
+      "type": "movie",
+      "name": "Deli Deli Olma",
+      "poster": "https://image.tmdb.org/t/p/w500/ngNbNq2C5gAMMyJogTdUXAwQwDH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5RyXjT8DNS5VnJqarrSZQJ7XJYH.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2009",
+      "description": "“93 Harbi” sonrasında Çar’ın Rusya’da yaşamasını istemediği Malakan kavminin bir kısmı Kars’a göçe zorlanır. Göç edenler arasında Mişka’nın (Tarık Akan) ailesi de vardır. Filmde Mişka 70’li yaşlardadır. Bir zamanlar köyün değirmenini işleten Mişka, modern makineler çıktıktan sonra, işini yapamamış ve maddi sıkıntıya düşmüştür. Köyün huysuz ihtiyarı Popuç (Şerif Sezer), Mişka’dan nefret eder ve köyde yaşamasını istemez.",
+      "runtime": "100 min"
+    },
+    {
+      "id": "tt4306308",
+      "type": "movie",
+      "name": "Sevimli Tehlikeli",
+      "poster": "https://image.tmdb.org/t/p/w500/8fuHx6uoLbK0Qr7jRRfrugdfHlU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8vNnudew4feJmErSO1gew2nOC2n.jpg",
+      "genres": [
+        "Romantik",
+        "Komedi"
+      ],
+      "releaseInfo": "2015",
+      "description": "Zarok (Şükrü Özyıldız) yıllar önce Edirne’de bir ailenin beşikteki bebeğini kaçırıp büyük acıların yaşanmasına sebep olur. Yıllar sonra bu vicdan azabından kurtulacağı bir fırsat yakalayan Zarok, kaçırdığı Zeliş'i (Ayça Ayşin Turan) 2. kez kaçırıp gerçek ailesine götürmek üzere yola çıkar. Bu sırada aşk dolu maceralara atılırlar.  Özcan Deniz'in bu filmi, birçok masal ögesini bir araya topluyor.",
+      "runtime": "110 min"
+    },
+    {
+      "id": "tt1834824",
+      "type": "movie",
+      "name": "Gölgeler ve Suretler",
+      "poster": "https://image.tmdb.org/t/p/w500/2VIkKj6XY7pZ45HnslVuc3IvAV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3ZFFSWLRcmkzbQW0wrFXpHfdLCD.jpg",
+      "genres": [
+        "Dram",
+        "Tarih"
+      ],
+      "releaseInfo": "2010",
+      "description": "Gölgeler ve Suretler, 1963’te Kıbrıs’ta Türklerle Rumlar arasında başlayan olaylar sırasında bir Karagöz kuklacısı olan babasından ayrı düşen genç bir kızın geçirdiği olgunlaşma sürecini anlatıyor. Yıkılıp yanan köylerden, daha güvenli olan şehire kaçış macerası esnasında yaşananlar, Kıbrıs’ın hikâyesine ışık tutuyor. Hikâyenin fonunu ise Kıbrıs’ın Karpaz bölgesi ve Büyükkonuk Köyü’nün doğası, tepeleri ve deniz oluşturuyor. Hiç istemediği halde kendini ve ailesini şiddet dolu bir ortamda bulan bir adam suça bulaşmamak için neleri göze alabilir? Acaba şiddetin egemen olduğu bir dünyada, masumiyeti korumanın ve insan kalmanın yolları nelerdir? Gerçek olaylardan esinlenen film, bu sorulara yanıt arıyor. Gölgeler ve Suretler (gölge), Derviş Zaim’in Cenneti Beklerken (minyatür) ve Nokta (hat) ile başladığı ’geleneksel Türk sanatları’ üçlemesinin son halkası.",
+      "runtime": "116 min"
+    },
+    {
+      "id": "tt1720215",
+      "type": "movie",
+      "name": "Saç",
+      "poster": "https://image.tmdb.org/t/p/w500/q5mWx0mai5jX6jFeJ8DqOvF0TkF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yYvbjQjHVmYhLJ9oZsAmnawAl0w.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2010",
+      "description": "Tarlabaşı'nda sefil bir perukçu dükkanı işleten, yapayalnız bir adam olan Hamdi yakalandığı hastalıktan ötürü yakın bir gelecekte öleceğini bilmektedir. Mutsuz ve umutsuzdur, ancak hala ölmeden önce yapmak istediği bir şey vardır; uzaklarda bir yere, belki de Brezilya'ya gitme hayali kurmaktadır. Bir gün dükkana saçını satmak üzere gelen bir kadın, Meryem, Hamdi'nin dünyasını alt üst eder. Bu kadına karşı hatalıklı bir tutkuya kapılan Hamdi onu evine kadar izler. Bir ölü yıkayıcısı olan Musa ile mutsuz bir evliliği olan Meryem bu ilgiyi fark ettiğinde hiddete kapılır; onu reddeder. Ancak, Hamdi'nin takıntısı, Meryem'e karşı duyduğu hastalıklı aşk, her türlü engeli aşmayı göze almaya yetecek kadar büyük ve daha da önemlisi tehlikelidir...",
+      "runtime": "131 min"
+    },
+    {
+      "id": "tt2645104",
+      "type": "movie",
+      "name": "Romantik Komedi 2: Bekarlığa Veda",
+      "poster": "https://image.tmdb.org/t/p/w500/1yd7lGTk2VQnTU5Wz0gPvrhVuKC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6pVNQKZEyQmqywucPZLkwcVPKrW.jpg",
+      "genres": [
+        "Komedi",
+        "Romantik"
+      ],
+      "releaseInfo": "2013",
+      "description": "Zeynep Ergün’le evli, Esra ise Mert’le evlilik hazırlığındadır. Didem arkadaşları arasında tek bekar olarak kalmıştır.  Didem hala Cem’den bir evlilik teklifi alamaması yüzünden evlenmeye giden yol adlı bir kitabı okumaya başlar. Kitapta okuduğu taktikleri sevgilisi Cem ‘in üzerinde denediği halde olaylar hiç ummadığı şekilde gelişir.  Aynı zamanda ünlü bir oyuncu olan Cem’in yeni filminde başrolü paylaştığı Gözde yüzünden Didem’in kıskançlık krizleri başlar. Didem, Esra ve Zeynep’i de yanına alarak Cem’i gizlice takibe alması erkekler tarafından planlanan Mert’in bekarlığa veda partisinin ortaya çıkmasına sebep olur. Bekarlığa Veda gecesinde yaşananlar bütün herkesin ilişkisinde sürprizlere yol açacaktır.",
+      "runtime": "110 min"
+    },
+    {
+      "id": "tt2262183",
+      "type": "movie",
+      "name": "SüperTürk",
+      "poster": "https://image.tmdb.org/t/p/w500/cAqzWi0jD4RNCl1pCPCZPKRylxb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6iIZqay1OnGXAeAvogitzWv3zkp.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2012",
+      "description": "Süper kahraman dediğin nasıl olur? Elbette uçar, meyveleri ya da başka nesneleri gözlerinden çıkan ışınlarla ikiye böler. Kumarda kimseye çaktırmadan kendi lehine hile yapar, annesi de oğluna nazar değmesin diye kurşun döktürür, boncuk takar! Ailesi uzun süre bu süper çocuğu, SüperTürk'ü gözlerden uzak tutmayı, yeteneklerini saklamayı becerse de, bir gün kazara deşifre olur. Artık o program senin bu program benim televizyon kanaları arasında mekik dokuyarak gezmek, insanlara maymunluk yapmak zorundadır...",
+      "runtime": "142 min"
+    },
+    {
+      "id": "tt1537891",
+      "type": "movie",
+      "name": "Rina",
+      "poster": "https://image.tmdb.org/t/p/w500/g8zrYgOREuRdb4YoEZpa0Ov7txP.jpg",
+      "background": "",
+      "genres": [
+        "Komedi",
+        "Romantik",
+        "Dram"
+      ],
+      "releaseInfo": "2010",
+      "description": "Bir ada hikayesi olan Rina'da Ali, Ömer ve Umut adalı üç yakın arkadaştır. Ali plajda çalışmakta ve her yaz aşık olduğu kızın tatile gelmesini beklemekte, Umut babasıyla balıkçılık yapmakta ve adada sepetçilik yapan Zehra'ya sırılsıklam aşık ama bir türlü sevgilisinin abisine konuyu açamamakta, Ömer ise babasıyla üzüm bağında çalışmaktadır. Ayrıca bağın kendisine ayrılan küçük bir kısmında kendi şaraplarını üretmek üzere formüller üretmektedir. Bu üç kafadarın tek umudu ise birlikte bir şarap fabrikası kurmaktadır. Tüm çabaları gerekli parayı bir araya getirmek içindir. Bu hayale sıkı sıkı sarılan kafadarların hayatı Vasilis'ten gelen bir haberle alt üst olur. Artık herkes için gerçek duygularıyla yüzleşme vakti gelmiştir.",
+      "runtime": "105 min"
+    },
+    {
+      "id": "tt3982774",
+      "type": "movie",
+      "name": "Hadi İnşallah",
+      "poster": "https://image.tmdb.org/t/p/w500/dkLG5ZEEOESn63Gm5tZnpH4Boir.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ianMuAxc0bPWzix3Q4IShHqAy0I.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2014",
+      "description": "PuCCa, hayatının 4 senesini Ankara'da geçirir ama o 4 koca sene boyunca beraber olduğu sevgilisinden de ayrılırak, İzmir'e ailesinin yanına döner. Zor bir ayrılık süreciyle karşı karşıyadır, mutsuzluktan eve kapanır; çalmayan telefonları bekler ve bunalımdaki pek çok kadın gibi kendisini yemeye verir! Bu arada ailesi de kendisine yeni bir iş bulup, toparlanması için baskı yapar. Hiç istemeden İzmir'deki bir yerel televizyon kanalıyla iş görüşmesine gider; ve yaşamını değiştirecek yakışıklı ile o gün karşılaşır! \"Pekmez\" lakabını taktığı ve genç kadını yeniden yaşama döndüren bu yakışıklı ile ne yapıp edip beraber olmayı kafaya koyar... Ama karşısında da zorlu bir rakibesi vardır...",
+      "runtime": "91 min"
+    },
+    {
+      "id": "tt0486708",
+      "type": "movie",
+      "name": "Maskeli Beşler: İntikam Peşinde",
+      "poster": "https://image.tmdb.org/t/p/w500/4IW7rNtgjBrg1ANBu7DsnlC72U4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/9N4FG8BqeDFg35pmRazYL3jPncK.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2005",
+      "description": "Aynı yetimhanede büyüyen Süper beşli Tezcan, Bahattin, Murat, Zeki ve Kamil dışarı çıkınca bir çete kurarlar. Son zamanların en belalı çetesi olma niyetleri beceriksizlikleri ve türlü terslikler yüzünden bir komediye dönüşür.  Can dostlarından birinin çocuğu amansız bir hastalığa yakalanınca tedavi için gereken parayı bulmak bizim maskeli soyguncularımıza düşer. En ciddi ve belki de en gerekli soygunlarını gerçekleştirmek için planlar yapmaya başlarlar.",
+      "runtime": "89 min"
+    },
+    {
+      "id": "tt0120917",
+      "type": "movie",
+      "name": "Şaşkın İmparator",
+      "poster": "https://image.tmdb.org/t/p/w500/o7yVxsfwQ8IhCAoaic5oMTT8uE4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4NxVLxuoQDPz889TG1njH4L7cYB.jpg",
+      "genres": [
+        "Macera",
+        "Animasyon",
+        "Komedi",
+        "Aile",
+        "Fantastik"
+      ],
+      "releaseInfo": "2000",
+      "description": "Uzun zaman önce uzak bir diyarda aklı bir karış havada olan genç İmparator Kuzco iktidar ihtirası ile yanıp tutuşan danışmanı Yzma tarafından lamaya dönüştürülür. Vahşi bir ormanın ortasında tek başına kalan Kuzco'nun geri dönüşünde ona yardımcı olacak tek kişi iyi kalpli bir köylü olan Pacha'dır. Kuzco'nun Yzma varmadan önce krallığa geri dönmesi gerekmektedir. Kuzco ve Pacha'yı binbir tehlike ve macerayla dolu bir yolculuk beklemektedir.",
+      "runtime": "75 min"
+    },
+    {
+      "id": "tt0845452",
+      "type": "movie",
+      "name": "Eve Dönüş",
+      "poster": "https://image.tmdb.org/t/p/w500/b0pyf1rbPecb4OfqM27xxXCXJEk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fURkrWhK03gtLFJvMSa7lKvhf6R.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2006",
+      "description": "Mustafa ve karısı, siyasetten ve toplumsal olaylardan uzak, almış oldukları televizyonun taksidini ödemek için günlerce mesaiye kalmak zorunda oldukları fakir bir yaşam sürmektedirler. Gece yarıları sokaklardan gelen çatışma sesleri ya da fabrikadaki sendikal çalışmalar ile hiçbir alakaları ve ilgileri yoktur. Bir sabah darbe haberleri ile uyandıklarında, bu haberin onlar için sokaklardaki çatışmaların durmasının ötesinde bir anlamı yoktur. Hatta Mustafa, durumdan memnun bile olmuştur çünkü artık güvenlik sağlanmıştır. Ama bir gece hiç beklemedikleri bir şekilde, Şehmuz kod adlı bir siyasi sorumlu olduğu gerekçesi ile evleri basılıp tutuklanınca Mustafa, hayatın hiç de siyah ve beyaz gibi net ayrımlarla çizilmemiş olduğunu görecektir. \"O gün batımında karanlığın bu kadar uzun süreceğini\" hiçbiri bilmiyordu. 12 Eylül askeri darbesi üzerine şimdiye kadar yapılmış belki de en sert film olan Eve Dönüş , dönemin acılarını bizzat yaşamış bir yönetmen olan Ömer Uğur imzası taşıyor.",
+      "runtime": "101 min"
+    },
+    {
+      "id": "tt5986418",
+      "type": "movie",
+      "name": "Suna",
+      "poster": "https://image.tmdb.org/t/p/w500/lT67211HSfHx4JSXAPyG9dOqMKX.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gP5nEFQBGXCzQe8tD5GCwuvZCkb.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2007",
+      "description": "Engin Ayça'nın 16 yıl sonra ilk filmi olan Suna, bir Edremit kasabasında geçiyor. Türkan Şoray tarafından canlandırılan Suna karakteri, üniversite dönemindeki arkadaşlarından biriyle evlenip kocasıyla birlikte bu sahil kasabasına yerleşmiş bir eczacı. Günün birinde, üniversite yıllarından bir başka yakın arkadaşı Sevgi buluyor onu yeniden. Sonra da yine aynı dönemden Selim katılıyor onlara ve 12 Mart dönemini birlikte yaşamış bu dört arkadaş yıllar sonra hayatlarını sorguluyorlar bir bakıma.",
+      "runtime": "117 min"
+    },
+    {
+      "id": "tt2736932",
+      "type": "movie",
+      "name": "Sabit Kanca",
+      "poster": "https://image.tmdb.org/t/p/w500/uMZiUvoKMRmuukDAjtdGnjPp30t.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wN2fHtcXVmxsxrbQypuuziz4v6.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2013",
+      "description": "Yalnız yaşayan ve zehir gibi bir zekaya sahip olan Sabit Kanca bilgi dağarcığını test etmek için bir yarışma programına katılır. Hazır cevaplılığı sayesinde her soruya bir cevabı vardır.",
+      "runtime": "77 min"
+    },
+    {
+      "id": "tt4003066",
+      "type": "movie",
+      "name": "Deliha",
+      "poster": "https://image.tmdb.org/t/p/w500/kQqpC4qYqQqFTt9DZYjsz3s1yHv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/6BA61fw8P4tVYK6OP6BelzlpbBP.jpg",
+      "genres": [
+        "Aile",
+        "Komedi",
+        "Romantik"
+      ],
+      "releaseInfo": "2014",
+      "description": "Aklı kıt, özgüveni fazla, biraz da kaçık Deliha; mahallesinde dükkan açan yakışıklı fotoğrafçıyı gözüne kestirir.",
+      "runtime": "107 min"
+    },
+    {
+      "id": "tt3283664",
+      "type": "movie",
+      "name": "Şevkat Yerimdar",
+      "poster": "https://image.tmdb.org/t/p/w500/oj7aSSH9kzbUcmGXAZD2CqneOLF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8IN0XuFDZztD9OxkSuxXRjavl4n.jpg",
+      "genres": [
+        "Komedi",
+        "Romantik"
+      ],
+      "releaseInfo": "2013",
+      "description": "Şevkat Yerimdar, Balat'ın tarihi çarşısında yumurta dükkanı işleten, sıradan ama her sıradan insan gibi bazı arızaları da olan bir adamdır. Hayattaki en büyük tutkusu ölesiye bağlı olduğu takımı Beşiktaş'tır. Çevresi tarafından çok sevilen ve iyi kalpli bir adam olan ancak öfke kontrolünü sağlama konusunda zorluklar yaşayan Şevkat'ın yumurtacı dükkanına bir gün bodoslama bir araba girer. Son derece zengin bir ailenin kızı olan Pelin'in yaptığı bu kazanın akabinde takip eden olaylarla Şevkat'in hayatı ters yüz olacaktır...  İnternette yayılan videolarla herkesin tanıdığı ve ‘Oldu Teşekkürler’ skeçlerinin baş kahramanı olan Şevkat Yerimdar karakterinin sinema filminde başrolü Özgürcan Çevik oynuyor. Romantik komedi türündeki filmin yönetmeni ise Bülent İşbilen.",
+      "runtime": "100 min"
+    },
+    {
+      "id": "tt0346094",
+      "type": "movie",
+      "name": "Uzak",
+      "poster": "https://image.tmdb.org/t/p/w500/rb6I7xjZJiso9dKdxVh1zOFTDfv.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rsFMqISY2t9Qv642DPSfX34Lh1Y.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2002",
+      "description": "Yusuf kasabada ona bir gelecek olmadığına karar vererek İstanbul'a gelmiştir. Daha önce şehre yerleşmiş akrabası Mahmut'un yanında kalıp uzaklara giden gemilerde miço olarak iş bulmak ister. İdeallerine ulaşmak için her şeyi yapmaya hazırdır. Fotoğrafçı Mahmut ise, idealleriyle arasının gitgide açıldığının bilincindedir. Üstelik, kendini bu durumdan kurtarmak için de hiçbir şey yapamaz ya da yapmaya yanaşmaz.",
+      "runtime": "106 min"
+    },
+    {
+      "id": "tt0276191",
+      "type": "movie",
+      "name": "Hemşo",
+      "poster": "https://image.tmdb.org/t/p/w500/yTlsCVRJubhFJ7HkwHXT8p1pvmg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/eBOZljHJ2wmEusMgzQZOGCeNfSy.jpg",
+      "genres": [],
+      "releaseInfo": "2001",
+      "description": "20 yıl önce babası kan davalılarının oğlu Yaşar tarafından öldürülen Cebrail ve dedesi köylerinin ilerisindeki ovada atış talimi yapmaktadır. Bu sırada dede, Cebrail'e öğütler vermekte, kanlısını öldürecek kişide olması gereken vasıfları anlatmaktadır. Bir yandan da torununu atıcılık konusunda yetiştirmektedir. Akşam eve gittiğinde yeğeni Tolga, onu kanlısının yerinin bulunduğu haberiyle karşılar. Ancak evde Cebrail dışında kimse bununla ilgilenmemektedir. Annesi babasının kanlı gömleğini Tolga'ya top mintanı yapmış; ağabeyi de babasının silahını cep telefonu almak için satmıştır. İkisi de bu devirde kan davası kalmadığını düşünmektedir.",
+      "runtime": "93 min"
+    },
+    {
+      "id": "tt0402158",
+      "type": "movie",
+      "name": "Kurtlar İmparatorluğu",
+      "poster": "https://image.tmdb.org/t/p/w500/bBd6anEL87JUlFstMvucUIaPj7L.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1i8oz24NssaUplHdB8N7Od4Iqki.jpg",
+      "genres": [
+        "Aksiyon"
+      ],
+      "releaseInfo": "2005",
+      "description": "Paris’ te bir Türk mahallesinde insanlık dışı cinayetler işlenmektedir. Kurbanlarını akıl almaz işkencelerle tanınmayacak hale getirip öldüren katil ve ya katillerin soruşturması için polis şefi Paul Nerteaux görevlidir. Neredeyse her soruşturmasından sonra eline hiçbirşey geçmeyince, Türkleri iyi tanıyan birinden yardım almak zorunda kalır: Jean-Louis Schiffer geçmişinden dolayı kendi camialarında pek sevilmeyen bir polistir. Zira adı zamanında bazı yasa dışı olaylara karışmıştır. Nerteaux ile bu işi birlikte araştırmaya karar verirler. Ancak herşey göründüğü gibi değildir. Schiffer’ın kafasında kimsenin bilmediği planları vardır. Hikayenin gelişmesiyle beraber Anna ve diğer iki adamın yolları kesişir. Çekimlerinin bir kısmının İstanbul ve Kapadokya’da yapıldığı filmin senaryosu Jean-Christophe Grange’ın ünlü kitabına dayanıyor.",
+      "runtime": "128 min"
+    },
+    {
+      "id": "tt0352343",
+      "type": "movie",
+      "name": "Karşı Pencere",
+      "poster": "https://image.tmdb.org/t/p/w500/jV8Kyak7suJa9Aov90GOhD0EnEq.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dcJLwvM8sRgnMyYRHF2dyOg19z8.jpg",
+      "genres": [
+        "Dram",
+        "Romantik"
+      ],
+      "releaseInfo": "2003",
+      "description": "İtalya'da yaşayan Ferzan Özpetek'in ödül rekoru kıran son filmi 'Karşı Pencere', dokuz yıldır evli ve iki çocuklu genç bir kadın olan Giovanna ile kocası Filippo'nun tesadüfen yolda yaşlı bir adamla karşılaşmalarıyla başlıyor. Hafızasını kaybeden yaşlı adamın hayatlarına girmesiyle genç kadının da yaşamı değişmeye başlıyor. Evliliği pek yolunda gitmeyen genç kadının karşı pencereden gözlediği komşusuna duyduğu platonik aşk ve yaşlı adamın geçmişten yansıyan kırık aşk hikayesi ikisin de yaşamlarını etkilemeye başlıyor.Genç kadın için artık yaşamını sorgulama zamanıdır. Acaba karşı pencerelerden bize görünen yaşamlar neden cazip gelir, kendi yaşamlarımızı değiştirmek o kadar zor mudur?Ferzan Özpetek bu dördüncü filmde, hafıza, aşk ve yaşam üzerine duygusal bir sorgulamaya giriyor.",
+      "runtime": "106 min"
+    },
+    {
+      "id": "tt1567312",
+      "type": "movie",
+      "name": "Gelecekten Bir Gün",
+      "poster": "https://image.tmdb.org/t/p/w500/iyC3WM2FrZ6KO7e5ZpesMdZImIW.jpg",
+      "background": "",
+      "genres": [],
+      "releaseInfo": "2010",
+      "description": "Hayatı boyunca yaşadığı tüm aksiliklerden dolayı çok şanssız olduğuna inanan Tolga işinden de kovulunca, plâtonik aşkına kavuşma ihtimalinin de kalmadığına inanarak intihar eder. Melekler kendisine ceza olarak eğer intihar etmemiş olsaydı gelecekte nasıl bir hayatının olacağını gösterirler. Bunun üzerine Tolga’nın hayatında olağanüstü bir komedi ve aşk başlar.",
+      "runtime": "91 min"
+    },
+    {
+      "id": "tt0315957",
+      "type": "movie",
+      "name": "Hiçbiryerde",
+      "poster": "https://image.tmdb.org/t/p/w500/euCEkx9OyyDj5p22OoBIBRFDNy4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yKlR3HpxeKpbJ5Z7K9Hm57idZuS.jpg",
+      "genres": [
+        "Dram",
+        "Gizem"
+      ],
+      "releaseInfo": "2002",
+      "description": "Şükran Haydarpaşa garının gişesinde çalışan kırk yaşlarında bir kadındır. Tek oğlu Veysel bir tel çekme atölyesinde çalışmaktadır. Ölmüş kocası politik olaylara karıştığı için çok acı çeken Şükran, oğlunu bu tür olaylardan uzak tutarak korumaya çalışmaktadır. Ama bir gün Veysel kaybolur, Şükran’ın onu bulma çabaları da sonuçsuz kalır. Yetkili makamlar da ona yardım etmez. Veysel adında hiç kimsenin tutuklanmadığını söyleyip, bilinmeyen cesetleri tanımasını isterler. Bunların arasında bir tanesi tanınmayacak haldedir ve Şükran onun Veysel olmadığından emindir, ama oğlunun nişanlısı Şule onun Veysel olduğu konusunda diretir. Veysel’in hiçbir politik olaya karışmadığından emin olduğu için Şükran, Şule ile kavga eder ve Veysel'in hayatta olduğu ve bir gün mutlaka ortaya çıkacağı konusunda ısrar eder. Şükran umutsuzca her yerde oğlunu aramaya başlar.",
+      "runtime": "90 min"
+    },
+    {
+      "id": "tt0347048",
+      "type": "movie",
+      "name": "Duvara Karşı",
+      "poster": "https://image.tmdb.org/t/p/w500/l24XHPKJfSuzwJ2zRGBV0OckR53.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wpHeTVD7KtfbIPh0dIBXzzb985E.jpg",
+      "genres": [
+        "Dram",
+        "Romantik"
+      ],
+      "releaseInfo": "2004",
+      "description": "Almanya'da yaşayan 40'lı yaşlarındaki Cahit ile genç Sibel intihardan vazgeçmiş 2 insandır. Psikoloğunun yardımıyla sorunlarını bir nebze de olsa yenmeyi başaran Cahit, Sibel'e yardım etmek ister. Sibel'se çıkış yolunu evlilikte arar ve eşi doğru dürüst tanımadığı Cahit olur. Aynı evde yaşamaya başlayan Cahit ve Sibel arasında kaçınılmaz bir yakınlaşma başlar.",
+      "runtime": "122 min"
+    },
+    {
+      "id": "tt4253744",
+      "type": "movie",
+      "name": "Çakallarla Dans 3: Sıfır Sıkıntı",
+      "poster": "https://image.tmdb.org/t/p/w500/9NRtnz2ZMWgtCrGyD7JV3EUSG5D.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7jqMCRjnAPXTbjvm3y9tZ2kWBiD.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2014",
+      "description": "4 kahramanımız Gökhan, Hikmet, Necmi ve Servet koşullu olarak hapishaneden salındıktan sonra birlikte grup terapisine gitmektedir. Ancak Del Piero Hikmet'in günün birinde vapurda karşılaştığı Mihriban'a aşık olmasıyla hayatları değişir. Mihriban dilsiz bir genç kadındır, Hikmet de onun konuşabilmesi için gereken parayı bulabilmek adına arkadaşlarıyla birlikte tekrar pis işlere bulaşmak zorunda kalacaktır.",
+      "runtime": "94 min"
+    },
+    {
+      "id": "tt2555962",
+      "type": "movie",
+      "name": "Çakallarla Dans 2: Hastasıyız Dede!",
+      "poster": "https://image.tmdb.org/t/p/w500/8ryM9LFTSFVGXR7pDT8iQLdqMuH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uifacDzUYi6JsQNrAE6Zu6B8pLj.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2012",
+      "description": "İlk filmde çakallık üzerine çakallık yapan kahramanlarımız başlarını dertten kurtaramamış ve nihayetinde hapse girmişlerdir. Mahallelerinden ve futboldan uzak kaldıkları hapishanede günler zor günler geçmektedir. Fakat onlara arka çıkan Tayyar abileri vardır. Bir gün bir mucize olur ve suçlular üzerinde yapılacak tıbbi bir deney için kobay arandığı haberi gelir. İşin ucunda şartlı tahliye olduğunu duyan Kayınço Gökhan, Köfte Necmi, Muhasabeci Servet ve Del Piyero Hikmet deney haplarını yutup kobay olmaya karar verirler. Dışarı çıkınca artık çakallık yapmayacaklarına dair de birbirlerine söz verirler. Zaten asıl mesele çakal olmak değil, çakallarla dans edebilmektir.",
+      "runtime": "97 min"
+    },
+    {
+      "id": "tt3142958",
+      "type": "movie",
+      "name": "Su ve Ateş",
+      "poster": "https://image.tmdb.org/t/p/w500/6mkxYBz0HSvLhCy1M87TNMch39l.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7CRI8G7pm0HjEptiEEPiCMv3GEV.jpg",
+      "genres": [
+        "Dram",
+        "Romantik"
+      ],
+      "releaseInfo": "2013",
+      "description": "Doğunun kanunlarından uzağa kaçan bir adam olan Haşmet ve hayatın acı gerçeklerinden bihaber, saf ve duru bir kız olan Yağmur'un imkansız aşkının hikayesidir. Doğu ve Batının, Güneş ve Ayın, Su ve Ateşin masalıdır bu aşk…",
+      "runtime": "113 min"
+    },
+    {
+      "id": "tt0782032",
+      "type": "movie",
+      "name": "Cenneti Beklerken",
+      "poster": "https://image.tmdb.org/t/p/w500/mn7EDmuWE384WKjIbIvpnsCuAXs.jpg",
+      "background": "https://image.tmdb.org/t/p/original/cNtugELX5Qb6rs9vjsAJpDNpc5b.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2006",
+      "description": "Eflâtun İstanbul'da on yedinci yüzyılda yaşayan bir minyatür ustasıdır. Bir gün, bir Osmanlı vezirinin konağına zorla götürülür. Osmanlı devletine karşı ayaklanan Danyal adlı bir şehzadenin uzak bir eyalette yakalandığını ve idam edileceğini öğrenir. İdam edilecek şehzadenin kimliğinden emin olabilmek için Eflâtun'dan isyancının Batılı tarzda bir portresini yapması istenmektedir. Eflâtun emir sonrası, seçme bir grup adamla başkentten Anadolu'ya doğru zorlu bir yolculuğa çıkar. Yolda karşılaşıp yanlarına aldıkları Leyla ile birlikte kendilerini duygu dolu büyük bir maceranın içinde bulurlar.",
+      "runtime": "107 min"
+    },
+    {
+      "id": "tt1714014",
+      "type": "movie",
+      "name": "Çoğunluk",
+      "poster": "https://image.tmdb.org/t/p/w500/dQ82V5nm0xRrcnsm1hWdzUE3sBc.jpg",
+      "background": "https://image.tmdb.org/t/p/original/eBeEvGggCLby4GZJHpwY4DNKirm.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2010",
+      "description": "Mertkan’ın hayatı basittir: babasının inşaatlarının getir götür işlerine bakar, arkadaşlarla alışveriş merkezlerinde sağı solu keser, arabayla turlar. Bu basitliğe bir anlam bulmak için pek de hevesli değildir. Ne zaman ki Gül ile tanışır, boşluğu ve basitliği değerlendirmek için bir fırsat çıkar karşısına. Ancak babası Gül’ün kökenleri konusunda şüphecidir. Hayatta ayrımcılıkla karşılaştığı ilk anda ona teslim olan Mertkan, çoğunluğa uyar, babasının kendisi için çizdiği yolda hayatına bir anlam bulur.",
+      "runtime": "111 min"
+    },
+    {
+      "id": "tt30056641",
+      "type": "movie",
+      "name": "Aile Çıkmazı",
+      "poster": "https://image.tmdb.org/t/p/w500/5M6Jh70fnJJG9j7UphAyx7XvF4U.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3i6rdu6opFvvNPoxuVq0U37tcxq.jpg",
+      "genres": [
+        "Komedi",
+        "Macera"
+      ],
+      "releaseInfo": "2024",
+      "description": "Mısır'da kazı yapan Türk akademisyen olan Şevket ve Perihan'ın kazı sırasında buldukları 4000 yıllık heykelin Mısırlı yetkililere tesliminden sonra çalınmasıyla birlikte Mısır'dan İstanbul'a uzanan hikâyesi.",
+      "runtime": "105 min"
+    },
+    {
+      "id": "tt2142711",
+      "type": "movie",
+      "name": "Berlin Kaplanı",
+      "poster": "https://image.tmdb.org/t/p/w500/cysoQkHiCoNWiZEAuGGPwQ1oykj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/u6qzS1TZpAPpObphRWiyNoPhnBk.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2012",
+      "description": "Ayhan Kaplan (Ata Demirer) Almanya'nın Berlin kentinde yaşamını iri yarı bedeninin avantajını kullanarak boksörlük ve bodyguardlık yaparak sürdüren bir Türk'tür. Fakat antrenörü Cemal (Tarık Ünlüoğlu) ve boksör Ayhan için artık işler eskiden olduğu gibi tıkırında değildir. Onları içine düştükleri dar boğazdan kurtaracak bir mucize gereklidir. Zira taze boksörler Ayhan karşısında gitgide güç kazanmakta, Ayhan ise piyasada gözden düşmektedir. İkiliyi içine düştükleri dar boğazdan kurtarmak için ancak bir mucize gereklidir; ve bu da çok uzak değildir...",
+      "runtime": "98 min"
+    },
+    {
+      "id": "tt1587263",
+      "type": "movie",
+      "name": "Romantik Komedi",
+      "poster": "https://image.tmdb.org/t/p/w500/6uYbUcq4OSFvFgS35BwX3sBA3Xr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dpyjSSuIlPvH0JZ34CJDcZIJu5S.jpg",
+      "genres": [
+        "Romantik",
+        "Komedi"
+      ],
+      "releaseInfo": "2010",
+      "description": "Esra, Didem ve Zeynep beraber aynı evi paylaşan en yakın arkadaşlardır. Esra (25) beş senedir bir lojistik firmasında çalışan kendi halinde çocuksu saf bir yanı olmakla beraber hayal kurmayı ve yazmayı seven bir kızdır . Didem(24) çalışmayı sevmeyen, babasının kredi kartıyla yaşayan alışveriş yapmayı meslek sanan, deli dolu bir kızdır. Zeynep her ikisinin aksine, ayakları yere basan, dominant, mantıklı, ve başarılı bir avukattır. Kızların arasında yedi senelik ilişkisiyle özel hayatında istikrarını sürdüren ve hayatını planladığı gibi programlayan ve uygulayan tek kızdır.  Her şey Zeynep’in evlenmesiyle başlar. Zeynep’in düğün gecesinde hiç istemediği bir hayatı yaşadığını fark eden Esra o geceden sonra  onu mutsuz eden işinden istifade eder ve onu anlamayan sevgilisi Oğuz’dan ayrılır. Yeni hayatı onu değişik sürprizlerle karşılaştıracaktır.",
+      "runtime": "110 min"
+    },
+    {
+      "id": "tt28608546",
+      "type": "movie",
+      "name": "Meksika Açmazı",
+      "poster": "https://image.tmdb.org/t/p/w500/uMLIkpQdybG5TGlJMCfLyNNKJCf.jpg",
+      "background": "https://image.tmdb.org/t/p/original/q3Dm1nX2JFZTqBAw48EEPraxtxp.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2023",
+      "description": "Mizah programı Meksika Açmazı'nın sinema uyarlaması olan filmde programın üçlüsü Mesut Süre, Fazlı Polat ve İbrahim Türker yer alıyor. Aldıkları bir iş teklifi üzerine farklı motivasyonlarla Kapadokya’ya giden Meksika Açmazı ekibi, ardı arkası kesilmeyen komik olayların içerisinde birbirleriyle olan ilişkilerini sorguladıkları birçok açmaza düşerler. Dostlukları aşk, para, kıskançlık ve entrikalarla sınanır.",
+      "runtime": "81 min"
+    },
+    {
+      "id": "tt0302463",
+      "type": "movie",
+      "name": "Deli Yürek: Bumerang Cehennemi",
+      "poster": "https://image.tmdb.org/t/p/w500/nI9U0teyntTLf5dC1rp8U5vcKzC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iYWxUv1n9itE8hGhBTUgBINeuCq.jpg",
+      "genres": [
+        "Macera",
+        "Aksiyon",
+        "Dram"
+      ],
+      "releaseInfo": "2001",
+      "description": "Yusuf Miroğlu, nişanlısı Zeynep ile beraber askerliğini birlikte yaptığı arkadaşının düğünü için Diyarbakır'a gider. Ancak arkadaşı düğün sırasında bir suikast sonucu hayatını kaybeder. Miroğlu, olayın sorumlularını araştırmaya başlayınca ortada çok karmaşık bir takım örgütlerin olduğunu görür.",
+      "runtime": "123 min"
+    },
+    {
+      "id": "tt1783423",
+      "type": "movie",
+      "name": "Çakallarla Dans",
+      "poster": "https://image.tmdb.org/t/p/w500/jGAZY7OTQH6hToMzj4PZwpmVFIF.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5O8761Rd6WBqq48NfpFvmCiDSnx.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2010",
+      "description": "Büyük bir şirketin muhasebecisi olan Servet, gözünü para hırsı bürümüş karısının gazına gelerek şirketin internet hesapları üzerinden hatırı sayılır miktarda bir parayı patronundan çalma planı yapar. Bu planın bir parçası da en yakın arkadaşı olan Gökhan'dır. Parayı onun hesabına aktarıp herhangi bir olumsuz durumda suçu onun üzerine yıkacaktır.",
+      "runtime": "102 min"
+    },
+    {
+      "id": "tt1862472",
+      "type": "movie",
+      "name": "Kolpaçino: Bomba",
+      "poster": "https://image.tmdb.org/t/p/w500/aLMYsy2QUXmiExXfujDSuJufJqw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rIpgYXtzfGr4sciIMFbKPSBnc8O.jpg",
+      "genres": [
+        "Komedi",
+        "Macera"
+      ],
+      "releaseInfo": "2011",
+      "description": "Özgür, zengin bir ailenin evlâdıdır. Ancak ne cimri babasından ne de zengin kayınpederinden destek görmez. Eski sevgilisi Şale ise çıkaracağı albüm için maddi destek beklemektedir. Desteği bulamayınca Özgür'ü, gizlice çektiği bir şantaj kaseti ile tehdit eder. Kadınca intikam gibi görünen durumun arkasında büyük hesaplar vardır. Özgür, Sabri ve Tayfun'dan yardım ister.",
+      "runtime": "90 min"
+    },
+    {
+      "id": "tt1523486",
+      "type": "movie",
+      "name": "Kolpaçino",
+      "poster": "https://image.tmdb.org/t/p/w500/nM2gv65hZbPWnnFp8q3AJiBuV3X.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wCAii5ptawbqYKRi3rt0bkmC6k9.jpg",
+      "genres": [
+        "Aksiyon",
+        "Komedi"
+      ],
+      "releaseInfo": "2009",
+      "description": "Birbirine kenetlenmiş yedi kişinin bir günde başına gelen maceraların öyküsü... \"Para darphanede basılır, imzası atılır, banknot yapılır, deste deste akar gider. Milyonlarca temiz, milyonlarca pis el değer. Anlatılmaz bir sevgisi, anlatılmaz bir acısı vardır. Dünyada para için istenilecek en güzel dilek pis tarafını tutmamaktır, eğer tutarsan.",
+      "runtime": "97 min"
+    },
+    {
+      "id": "tt1296337",
+      "type": "movie",
+      "name": "Bir An Özgürlük İçin",
+      "poster": "https://image.tmdb.org/t/p/w500/wlNcpd4PFkyFDd3OUSr2WNlzFuu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qH3gH3NvV0tsCguxPvaXp7ylgKx.jpg",
+      "genres": [
+        "Macera",
+        "Dram"
+      ],
+      "releaseInfo": "2008",
+      "description": "Üç İranlı mülteci İran'dan Irak'a kaçmayı başarmışlardır. Türkiye'ye varan mülteciler vize yüzünden sorun yaşarlar. İran'dan Irak'a, oradan da Türkiye'ye geçmeyi başaran bir grup mülteci için özgürlük bir adım ileriderdir ancak vize yüzünden yaşadıkları sorun çözülene kadar beklemekten başka çareleri yoktur. İkinci sınıf bir otelde sığınma taleplerinin kabul edilmesini beklerler.",
+      "runtime": "110 min"
+    }
+  ]
+}

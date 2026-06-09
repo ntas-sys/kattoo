@@ -1,0 +1,1345 @@
+{
+  "metas": [
+    {
+      "id": "tt12607070",
+      "type": "movie",
+      "name": "Zamanımızın Bir Kahramanı",
+      "poster": "https://image.tmdb.org/t/p/w500/u1Ysp9DllpJ3MzHHsQcUAgAq73u.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5bZ2VqeW0wajqViXOdKs8hS3OeL.jpg",
+      "genres": [
+        "Dram",
+        "Komedi"
+      ],
+      "releaseInfo": "2023",
+      "description": "Otuzlu yaşlarında olmasına rağmen olgunlaşamayan Mert, babasının cenazesi için memleketine döner. Üç gün boyunca sorunlardan kaçıp trajikomik olaylar yaşadıktan sonra hayatındaki aksaklıklarla yüzleşmek zorunda kalarak ani ve büyük bir dönüşümden geçer.",
+      "runtime": "120 min"
+    },
+    {
+      "id": "tt33131804",
+      "type": "movie",
+      "name": "Koparan Kardeşler",
+      "poster": "https://image.tmdb.org/t/p/w500/ytqyJgz78UbDMWPHNbh4yDjl8o4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qmV1dyDZu52rhMQcZagEdTkrziz.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2024",
+      "description": "Orhan Koparan ve kardeşi Naylon, Koparan Kardeşler adını verdikleri şirketlerinde, ölüm sonrası mevtaların kabir bakım işlerini yaparak geçimlerini sağlar. İşlerini geliştirmek isteyen kardeşler,  bir gün belediyede kefen ihalesine girmek isterler. Ancak ihalenin kim tarafından alınacağının önceden ayarlandığından haberleri yoktur. İhalesi sırasında bir dizi olay çıkaran ve kendilerine düşman edinen Koparan kardeşler, kendilerini türlü trajikomik olayın içerisinde bulur.",
+      "runtime": "89 min"
+    },
+    {
+      "id": "tt33371559",
+      "type": "movie",
+      "name": "Leydi Di",
+      "poster": "https://image.tmdb.org/t/p/w500/831rrd43iTrCDQWObsTcZNQ76Bz.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hiaWzoN3CgOwvWceYyXey8y9Lxu.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2024",
+      "description": "Dürüst bir mali müşavir olan Nevzat, manevi oğlu tarafından riskli bir dolandırıcılık planının içine çekilince hayatına kargaşa ve mafya hâkim olur.",
+      "runtime": ""
+    },
+    {
+      "id": "tt17312226",
+      "type": "movie",
+      "name": "İlişki Doktoru",
+      "poster": "https://image.tmdb.org/t/p/w500/g66434JU2IKXAg3JEvcO2592gk4.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ekUcbu1ZDFyMrrDwc6jTpyeAr4.jpg",
+      "genres": [
+        "Romantik",
+        "Komedi"
+      ],
+      "releaseInfo": "2022",
+      "description": "Önder gazetedeki arkadaşı Aylin’le 9 yıllık evlidir. Can adında bir çocukları vardır. Önder’in neşeli, hiçbir şeyi kafaya takmayan, kafasına göre davranan hallerine aşık olan Aylin, evlendikten sonra onu evlilik ve aile sorumluluğu almamakla suçlamaya başlamıştır. Evi kira olan, arabası sürekli arıza yapan Önder, Aylin’in istediği ekonomik stabiliteyi bir türlü yaratamamaktadır. Önder’in 10. evlilik yıldönümleri için hazırladığı sürpriz partide Aylin ayrılmak istediğini söyler ve Önder yıkılır, Aylin’e kendini affettiremez. Her zaman en büyük destekçisi olan Özgür ilişkilerini kullanarak onu önemli TV şovlarına çıkarır ve Önder bir anda tanınmaya başlar. Önder’ın o hiç satmayan kitabı yeni baskılar yapar. TV programlarından davet alır. Kitapları sattıkça parlak teklifler alır ve kaderi dönmeye başlar…",
+      "runtime": "98 min"
+    },
+    {
+      "id": "tt0446930",
+      "type": "movie",
+      "name": "Bekleme Odası",
+      "poster": "https://image.tmdb.org/t/p/w500/o4OFHY4RfvGabSoVqB44HDRL9ly.jpg",
+      "background": "https://image.tmdb.org/t/p/original/eutVuFoJ3Hoci8GEj1Zxhs2Wjpk.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2004",
+      "description": "Dostoyevski’nin efsanevi yapıtı Suç ve Ceza’yı beyaz perdeye uyarlamaya çalışan Ahmet, uzun süredir başroldeki Raskolnikov’u canlandırabilecek birini aramaktadır. Ancak bu süreçte depresyona girer ve sevdiklerinden uzaklaşır.",
+      "runtime": "92 min"
+    },
+    {
+      "id": "tt39074984",
+      "type": "movie",
+      "name": "Aile Terbiyesi",
+      "poster": "https://image.tmdb.org/t/p/w500/riu00gho2PXywk00XCdHfLyt9Go.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2025",
+      "description": "Aslı, Neco, İnci, Çınar ve Çapraz bir çetedir. İnci, son bir iş için şirkete para çalar; güvenlik suçlanıp ölür. Vicdan azabıyla polise gitmek ister ama hamile olduğunu öğrenir. Erol suçu üstlenir ve hapse girer. Hapisteyken ailesinin masum olduğunu sanarken, İnci ve çocukların çete olduğunu keşfeder. Erol çıkınca herkes iyi aile gibi görünmeye çalışır.",
+      "runtime": "112 min"
+    },
+    {
+      "id": "tt8343964",
+      "type": "movie",
+      "name": "Mirasyedi",
+      "poster": "https://image.tmdb.org/t/p/w500/pjQl6eDk6W8hjKpEzqIgC5Ye14x.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2018",
+      "description": "Gösterişli bir villada yaşayan mirasyedilerin beş kuruşsuz sefil ve kepaze kalışının eğlenceli ve komik hikayesi işleniyor.",
+      "runtime": "103 min"
+    },
+    {
+      "id": "tt19403464",
+      "type": "movie",
+      "name": "Karganın Uykusu",
+      "poster": "https://image.tmdb.org/t/p/w500/vQOSkT7XE9e8wyngu8U7kl3CyFm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vuU3FIueWnmj28DZzwtIKlUN3FP.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2024",
+      "description": "İşlev görmeyen bir maden aktarım tesisinde müdür olarak çalışan Nasip, çocukluğundan beri yaşadığı uyurgezerlik sorunu ile baş etmeye çalışmaktadır. Karısının şüpheli ölümünden sonra derin bir yalnızlığın ve sessizliğin içine gömülür. Köyde çıkan söylentilere kulak tıkayan Nasip, yedi yaşındaki oğlu İsmail'e iyi bir baba olamayacağını düşünür. Onu, kendisinin olmayacağı bir dünyaya hazırlamaya çalışırken bir taraftan da ona sahip çıkacak bir aile arayışına girer.",
+      "runtime": "89 min"
+    },
+    {
+      "id": "tt21482312",
+      "type": "movie",
+      "name": "Tereddüt Çizgisi",
+      "poster": "https://image.tmdb.org/t/p/w500/m7zB3hLM3R8hhqWEFIf6DWkmhVb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/eZLsPz4piloV44VBWQIsLhoQKR9.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2024",
+      "description": "İdealist bir ceza avukatı olan Canan’ın hayatı, gündüzleri adliyeden, geceleri ise hastanede solunum cihazına bağlı yaşayan annesine refakat etmekten ibarettir. Uzun zamandır emek verdiği bir cinayet zanlısının karar duruşması gününde Canan; annesinin, hâkimin ve sanığın hayatını etkileyecek ahlaki bir tercih yapmak zorunda kalır.",
+      "runtime": "84 min"
+    },
+    {
+      "id": "tt5955162",
+      "type": "movie",
+      "name": "Geçmişteki Sır",
+      "poster": "https://image.tmdb.org/t/p/w500/yFKW9tz2QNr9D6xi1f5ywkxFppK.jpg",
+      "background": "",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2017",
+      "description": "Fotoğrafçılık yapan ve ailesiyle yaşayan Ali, geçirdiği genetik bir rahatsızlık sonucunda kendini Bosna Hersek'te, sıra dışı ve hüzünlü bir hikayenin içinde bulur. Bosna'yı hiç bilmeyen Ali, geçmişine dair izleri arayacaktır. Bosna'da yaşamını sürdüren Hana onu bu yolculuğunda hiç yalnız bırakmayacaktır.",
+      "runtime": ""
+    },
+    {
+      "id": "tt39088926",
+      "type": "movie",
+      "name": "Sev Arkadaş",
+      "poster": "https://image.tmdb.org/t/p/w500/7oJh0ifYnIMQkIOOM2Xbj1yYSSg.jpg",
+      "background": "https://image.tmdb.org/t/p/original/joyBbOBOviOYKndrphR9Ryclk6M.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2025",
+      "description": "Mavi, boşandığı annesi ve babasıyla yaşayan şef aşçıdır. İşsiz kalınca Asım Azizoğlu'nun restoranına gider. İşe alınması için Pelin'le arkadaş olması şart koşulur. Pelin, sorunlu ve şımarık bir torundur. Mavi, geçmişte Pelin yüzünden kovulmasına rağmen işi kabul eder ve zorlu bir dostluk macerası başlar.",
+      "runtime": "104 min"
+    },
+    {
+      "id": "tt39079810",
+      "type": "movie",
+      "name": "Yalandan Sevgilim",
+      "poster": "https://image.tmdb.org/t/p/w500/ahzRKiIW7fyzR5h8Gsw6qzOOGBW.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2025",
+      "description": "Filiz, zengin bir ailenin tek kızıdır ve evlenip torun vermesi beklenir. Evlilik istemeyen Filiz, iş başvurusuna gelen Mert'e yalandan sevgili olmasını teklif eder. Mert kabul eder ve ailesi olmayan kendini, mahalledeki yakınlarını ailesi gibi tanıtarak oyunu sürdürür. Bu yalan zamanla gerçek bir aşka dönüşür.",
+      "runtime": "108 min"
+    },
+    {
+      "id": "tt32125120",
+      "type": "movie",
+      "name": "Veda Partisi",
+      "poster": "https://image.tmdb.org/t/p/w500/7bUz9TnHQpoH3ZhEIvU9jUMd8u9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vOj0n7Kgk0MsIzOCJIdzCRjGrJS.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2024",
+      "description": "Hülya, Mehtap, Didem ve Arzu yakın arkadaşları Yonca’ya sürpriz bir bekarlığa veda partisi düzenleyecektir. Hülya aynı zamanda bir siyasi partinin Genel Başkanı olan kocası İbrahim’den Yonca’nın bekarlığı veda partisi için havuzlu bir villa kiralamasını ister. Hülya ve arkadaşları kiralanan villaya gittiklerinde Açelya ismindeki ev sahibinin fantezi dolu dünyası ile karşılaşırlar. Evdeki pespembe dekor, pembe objeler, havuz başındaki pembe at heykelleri ve duvarlarda Açelya’nın seksi resimleri hepsinin ilgisini çeker. Kızlar neredeyse partiyi unutup Açelya’nın eşyalarını didiklemeye başlarlar. Başlarda eğlenceli görülen bu durum kilitli bir odanın bulunmasıyla yerini heyecana bırakır. Bütün gece merak ve heyecanı bir arada yaşayan kızlar ertesi sabah büyük bir şokla uyanır. Eğlenceli, komik ve aynı zamanda gerilim dolu bekarlığa veda partisinin finalinde herkesi büyük bir sürpriz beklemektedir. Bu sürpriz hem İbrahim Başkan hem de kızların hayatını değiştirecektir.",
+      "runtime": "95 min"
+    },
+    {
+      "id": "tt8343980",
+      "type": "movie",
+      "name": "Aşk Masalı",
+      "poster": "https://image.tmdb.org/t/p/w500/9Vb9UDOVXSoN9N7YWzIaSpJZg13.jpg",
+      "background": "https://image.tmdb.org/t/p/original/20h5FJthQpxRPLEhF5CCuMsjlVX.jpg",
+      "genres": [
+        "Komedi",
+        "TV film"
+      ],
+      "releaseInfo": "2018",
+      "description": "Masal, patronunun yakışıklı oğlu Akın’a senelerdir platonik aşıktır. Fakat Akın Masal’ın farkında değildir. Akın’ın şirketin en havalı kadını Cansın’la çıkmaya başlaması da cabasıdır.",
+      "runtime": "111 min"
+    },
+    {
+      "id": "tt31530975",
+      "type": "movie",
+      "name": "Tatlı Vatan",
+      "poster": "https://image.tmdb.org/t/p/w500/lPaZJ5V5ssaAdATxuLSx6TtH35p.jpg",
+      "background": "https://image.tmdb.org/t/p/original/exn3hhWdRhAKRQXHitChNSpXOXn.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2023",
+      "description": "Kayseri’nin bir köyünde verimsiz geçen bir senenin ardından köyün gençleri yıkılmıştır. Ağaçların soğuk yemesi ile meyve ağaçları küsmüş ve yağmursuz geçen yaz hasatlarını yarıdan daha aza düşürmüştür. Köyün iki delikanlısı Cemil ve Osman nişanlıları Fatmagül ve Şifa ile evlenemeyeceklerini düşünürlerken Alamancı Hüseyin’in kızı Ceylan’ın köye geleceğini duyarlar. Cemil ve Osman; Ceylan ile evlenerek kapağı Almanya’ya atma planları yaparlar. Fakat kapağın diğer yüzü vardır ikisi de nişanlıdır. İkili planlar yapıp Ceylan’ın peşine düşer ama Ceylan, köyün sulama sistemini iyileştirmek için çalışan Ziraat mühendisi Erkin ile yakınlaşır. Köyün su sistemi çözülür Ceylan Almanya’ya gitmez Tatlı Vatan’a kesin dönüş yapar.",
+      "runtime": "116 min"
+    },
+    {
+      "id": "tt24516554",
+      "type": "movie",
+      "name": "Filme Gel",
+      "poster": "https://image.tmdb.org/t/p/w500/pM0XbZyFozn04U5vWLhcGIlymTb.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2024",
+      "description": "Necmi, Çetin ve Muzo'nun en büyük hayali film çekmektir. Bunun için paraya ihtiyaçları vardır. Şans yüzlerine güler ve Kadırgalı Kerim ile tanışırlar. Kerim, yapacakları filme sponsor olur. Tek şartı filmde başrol oynamaktır. Tabi ufak bir sıkıntı vardır. Kadırgalı Kerim, bir mafyadır.",
+      "runtime": "90 min"
+    },
+    {
+      "id": "tt17222924",
+      "type": "movie",
+      "name": "Bir Zamanlar Gelecek: 2121",
+      "poster": "https://image.tmdb.org/t/p/w500/ruN8sooKWLJE1BRfQNyLcHby55s.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nBMKMeUlwmpNi35l7DfzstTV01I.jpg",
+      "genres": [
+        "Dram",
+        "Bilim-Kurgu"
+      ],
+      "releaseInfo": "2024",
+      "description": "21. yüzyılın sonlarında iklim krizi ve kıtlık sebebiyle yeryüzü yaşanılmaz hale gelir. Hayatta kalabilen az sayıda insan koloni halinde yerin altına kurdukları bloklarda yaşar. Koloni sistemini kontrol eden Genç Yönetim’in aldığı “Kıtlık Kanunları” gereği sisteme getirilen yeni hayat karşılığında, yaşlı neslin yok edilmesi zorunludur. Yer altındaki evlerinde kadın, adam, çocuk ve büyükanne olarak yaşayan bir ailenin hayatı yeni doğacak bebek yüzünden değişir.",
+      "runtime": "92 min"
+    },
+    {
+      "id": "tt34873895",
+      "type": "movie",
+      "name": "Satılık Değildir",
+      "poster": "https://image.tmdb.org/t/p/w500/hLpF5EAmEOTgWJnFG3ASf1iJO0A.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2024",
+      "description": "Köydeki evinde biricik dedesi ile yaşayan Erkan. Dedesinin vefatı üzerine yıkılmıştır. Kuzenleri dedesinin ölümünden sonra hemen evi satmak ister. Mahkeme yolu ile Erkan'ı evden atarlar. Erkan evin satılmaması için elinden geleni yapacaktır. Evin yeni sahibi Demet eve taşınır. Erkan Demet ile yakınlaşır. Sevgili olurlar. Bu sırada Kuzenler hem evi açık arttırmaya çıkartıp hem de Demet ile Erkan'ın arasını bozar. Osman dede tam ev satılacakken ortaya çıkar. Aslında ölmemiştir kuzenlerine oyun oynamıştır. Osman Dede kuzenleri kovar. Evi Erkan ve Demet'e verir.",
+      "runtime": "96 min"
+    },
+    {
+      "id": "tt33504617",
+      "type": "movie",
+      "name": "Anunnakiler",
+      "poster": "https://image.tmdb.org/t/p/w500/k9GKgN5KYgoMhVjZXFmuG7hpuNW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fxRqAu5V3qSaoYkPyGLn9Qu6a6a.jpg",
+      "genres": [
+        "Komedi",
+        "Aksiyon"
+      ],
+      "releaseInfo": "2024",
+      "description": "İstanbul’da güçlü bir afrodizyağın yaratıcısı ve birkaç kişi gizemli şekilde kaybolur. Polis Kasım'ı sorgular, o da Nibiru gezegeninden Agulu adında bir uzaylıdan bahseder. Agulu, Dünya’nın afrodizyak kaynaklarını Nibiru'ya kaçırmaktadır. Hamdi Bülbül ve ekibi bu sırrı ifşa edince Anunnakiler tarafından ortadan kaldırılmışlardır. Polis, Kasım'ın olayla bağlantısı olduğundan şüphelenir.",
+      "runtime": "75 min"
+    },
+    {
+      "id": "tt4806220",
+      "type": "movie",
+      "name": "Zátopek",
+      "poster": "https://image.tmdb.org/t/p/w500/hmQ2xtKsSPlqPLUb9QwylExWAPe.jpg",
+      "background": "https://image.tmdb.org/t/p/original/AdTenjeOQRqAs1tNPKbDWLS8IGw.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2021",
+      "description": "",
+      "runtime": "131 min"
+    },
+    {
+      "id": "tt21060022",
+      "type": "movie",
+      "name": "Ölü Mevsim",
+      "poster": "https://image.tmdb.org/t/p/w500/cyZNdaVJa5V7au58ej7HakYLRXm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xWDeIxrAXVE9PkGhEanTUcDbUMo.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2024",
+      "description": "Nimet ve Öznur, İstanbul'un varoşlarında yaşayan iki kız kardeştir. Mahalle baskısı, muhafazakarlık, aile sırları gibi türlü durumların altında ezilen kardeşlerin hayatı yavaş yavaş parçalanmaya başlar.",
+      "runtime": "120 min"
+    },
+    {
+      "id": "tt32276924",
+      "type": "movie",
+      "name": "Bakkal Amca: Mahmut Tuncer",
+      "poster": "https://image.tmdb.org/t/p/w500/uba8gTARsFBPdsKyPKceC34BoK5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5uO05to4ZjJASOIJMBCg68PQMKz.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2024",
+      "description": "Tevfik Gürol işleri yolunda gitmeyen bir yönetmendir. Kayınçosu Kuntiz ile hangi projeye el atsalar batırmışlardır. Ünlü yapımcı Taner Dişli’nin biyografi filmlerinden çok para kazandığını gören Tevfik Gürol, tefecilerden aldığı borcu ödeyebilmek için Mahmut Tuncer’e bir biyografi filmi çekmeye karar verir. Ancak bir sorun vardır, Mahmut Tuncer yaşıyordur ve ismi unutulmuş bir türkücüdür. Acaba bu film tutacak mıdır?",
+      "runtime": "105 min"
+    },
+    {
+      "id": "tt29102353",
+      "type": "movie",
+      "name": "Su Yüzü",
+      "poster": "https://image.tmdb.org/t/p/w500/rJYULcelclGqx3VWd7dSh4DrZpI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/61gMgPUcrrV7Pldp6QycKBSBaJz.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2023",
+      "description": "Su Yüzü, memleketine döndüğünde kaçtığı gerçeklerle yüzleşmek zorunda kalan bir kadının hikayesini konu ediyor. Yetersizlik hissiyle baş etmeye çalışan Deniz, annesinin düğününe katılmak için yıllardır gitmediği memleketini ziyaret etmek zorunda kalır. Deniz, doğduğu küçük kasabaya gittiğinde, ardında bıraktığını düşündüğü öfkesi, korkuları ve suçluluk duygusu ile yüzleşmek zorunda kalır.",
+      "runtime": "89 min"
+    },
+    {
+      "id": "tt26936131",
+      "type": "movie",
+      "name": "Geri Sayım",
+      "poster": "https://image.tmdb.org/t/p/w500/mzKCgSWFeuO9Ygndh6fbsixXSDW.jpg",
+      "background": "",
+      "genres": [
+        "Aksiyon"
+      ],
+      "releaseInfo": "2023",
+      "description": "Wind, çocuk yaşlarda babasının yıkımına, sonra da ölümüne neden olan iş insanı Ethem Bey’den intikam almak için yıllar süren bir çalışma içine girmiştir. Wind adıyla internet ortamında hacker olarak var olmayı başarmıştır. Pek çok kişinin korkulu rüyası olmuştur.",
+      "runtime": "81 min"
+    },
+    {
+      "id": "tt35050896",
+      "type": "movie",
+      "name": "Yeniden Başlamak",
+      "poster": "https://image.tmdb.org/t/p/w500/sh7dqaKLRUGCCPqNrov6GNjPntZ.jpg",
+      "background": "",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2024",
+      "description": "Geçmişini hatırlayamayan gizemli bir adam, kural tanımayan bir sokak dövüşçüsü ve gerçeğin peşindeki bir gazetecinin kesişen hayatlarını konu alıyor. Sokak dövüşçüsü, bir çatışma sırasında hafızasını yitirmiş bu yabancının hayatını kurtarır. Adamın kimliğini ve geçmişini ortaya çıkarmak isteyen dövüşçü, cesur bir gazeteciyle güçlerini birleştirir. Bu zorlu yolculuk, sadece adamın kimliğini değil, üç karakterin de kendi içlerindeki gerçekleri keşfetmesine yol açar. Her biri için bu, hayatlarında bambaşka bir başlangıcın kapısını aralayacaktır.",
+      "runtime": "128 min"
+    },
+    {
+      "id": "tt18397176",
+      "type": "movie",
+      "name": "Bulutların Üstünde",
+      "poster": "https://image.tmdb.org/t/p/w500/k8WXvXejJ9v14YxMVltAjT7Ipbk.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ost2haWsPQ8Qm2P2jYTkDCBJa1A.jpg",
+      "genres": [
+        "Komedi",
+        "Romantik",
+        "Dram"
+      ],
+      "releaseInfo": "2023",
+      "description": "Bulutların Üstünde, haber yapmak için çıktığı yolda tanıştığı gizemli bir adamla kendisini türlü olayların içerisinde bulan bir adamın hikayesini konu ediyor. Bir gazetede çalışan Gökhan, haber için yola çıktığında aracı ıssız bir arazideyken bozulur. Yola devam edemeyen Gökhan, bu sırada gizemli bir adamla tanışır. Ne yapacağını bilemeyen Gökhan, çaresizlikten adamın peşine takılır. Birlikte yola koyulan ikili, yol boyunca kendilerini beklenmedik olayların içerisinde bulur.",
+      "runtime": "85 min"
+    },
+    {
+      "id": "tt23667286",
+      "type": "movie",
+      "name": "Türkler Çıldırmış Olmalı 2: Mavi Vatan",
+      "poster": "https://image.tmdb.org/t/p/w500/qFqqOnRC5wzlhpfBVzt41FdaPDH.jpg",
+      "background": "https://image.tmdb.org/t/p/original/eyTNXHIax5WoXJho0RutihpsiHb.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2024",
+      "description": "Fethiye'de korsan gemisiyle turistlere çılgın ada turları yapan ekip, Türkiye'de çıkarmaya çalışan savaşı önlemeye çalışacaklardır. Asıl uzmanlık alanları askerlik olmayan ekip üyeleri, bunu kendi yöntemleriyle yapmaya çalışırken mavi vatanda başlarına kimsenin beklemediği işler gelecektir.",
+      "runtime": "100 min"
+    },
+    {
+      "id": "tt32236237",
+      "type": "movie",
+      "name": "Devrim",
+      "poster": "https://image.tmdb.org/t/p/w500/r16X8KRDyTIEvBHOgts93Wt5VsY.jpg",
+      "background": "https://image.tmdb.org/t/p/original/iQD6UGO5AY3gz3gBPblZUCbZlbM.jpg",
+      "genres": [
+        "Belgesel"
+      ],
+      "releaseInfo": "2024",
+      "description": "Son altmış yıl içerisinde Türk sanatında devrim yaratan, nesillere ilham olup onları eğiten tanınmış ressam Devrim Erbil'in üretken sanat yolculuğunu keşfe çıkın.",
+      "runtime": "73 min"
+    },
+    {
+      "id": "tt29551250",
+      "type": "movie",
+      "name": "Arap Kadri",
+      "poster": "https://image.tmdb.org/t/p/w500/pnC5aHruRapM86MX9UUWLVgRPnn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/h0tUL2cfraSIw1jkqegTEZmnm62.jpg",
+      "genres": [
+        "Komedi",
+        "Macera"
+      ],
+      "releaseInfo": "2024",
+      "description": "Film, ünlü mizah dergisi Gırgır'ın usta karikatüristlerinden Tekin Aral'ın yarattığı Arap Kadri ve Tarzan karakterlerinin hikâyesini anlatıyor. Arap Kadri’nin en önemli özelliği özgürlüğüne son derece düşkün olmasıdır. Ormanda yaşar, pek kural tanımaz. Arap Kadri, ormana gelince de düzenli yaşamaya çalışan canlıları görünce, bu düzene çomak sokar. Tarzan ile aralarındaki çatışmanın en temel sebebi de buradan kaynaklanır.",
+      "runtime": "105 min"
+    },
+    {
+      "id": "tt21437942",
+      "type": "movie",
+      "name": "Ah Be Birader",
+      "poster": "https://image.tmdb.org/t/p/w500/gLMr79tC2GGOlv6133ibcsDtL58.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xiUd4Um2V1wM3NHfYsDSfdhnpWx.jpg",
+      "genres": [
+        "Komedi",
+        "Aksiyon"
+      ],
+      "releaseInfo": "2022",
+      "description": "Yolları bir şekilde kesişen zıt iki karakter Orhan ve Ali'nin hikâyesi.  Orhan oldukça atılgan ve korkusuz bir adamdır. Piyasa da hiçbir zaman parasını bırakmayan yer altı dünyasının sevdiği saydığı bir adamdır ve çevresine topladığı adamları ile tefecilik yapmaktadır. Orhan’ın hayatında kadınların biri gelir biri gider. Beyaz yakalı düz bir hayatı kendine seçen Ali, oldukça çekingen bir adamdır ve evlenmek istediği kadına bir gün yüzük alırken bir soygunun ortasında kalır. Başına türlü belalar gelince de yeraltı dünyasında tefecilik yapan abisine sığınır.",
+      "runtime": "108 min"
+    },
+    {
+      "id": "tt2145258",
+      "type": "movie",
+      "name": "Öz Hakiki Karakol",
+      "poster": "https://image.tmdb.org/t/p/w500/fRhOymDnBuFiFeInjFGNUO0vP9W.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2012",
+      "description": "Cezaevinden yeni çıkan üç kağıtçı Hasan, yaptığı soygun planını uygulamak için beceriksiz mahalle arkadaşlarıyla birlikte pis işlere tövbe etmiş Kuzey Baba’yı ikna etmeye gider. Kısa yoldan zengin olma hayaliyle yanıp tutuşan gençler, birden kendilerini bir köy karakolunda polis olarak bulurlar.",
+      "runtime": "85 min"
+    },
+    {
+      "id": "tt3749216",
+      "type": "movie",
+      "name": "İksir",
+      "poster": "https://image.tmdb.org/t/p/w500/pUyI9klbWlXM4pJVI7fRpN9xlRt.jpg",
+      "background": "",
+      "genres": [
+        "Aile",
+        "Animasyon",
+        "Komedi"
+      ],
+      "releaseInfo": "2014",
+      "description": "Keremcem'in canlandırdığı Kerem, sevilen bir rock yıldızıdır. Küçük yaşta öksüz kaldıktan sonra kız kardeşiyle birlikte dedesinin çiftliğinde yaşamaya başlar. Hayvanlar üzerinde çalışmalar yapan dedesi, hayvanlarla konuşup onlara emirler vermeye yarayan bir iksir yaratır. Yardımcısı Ökkeş dışında kimseye bu iksirden söz etmez.",
+      "runtime": "90 min"
+    },
+    {
+      "id": "tt3007150",
+      "type": "movie",
+      "name": "Süper İncir",
+      "poster": "https://image.tmdb.org/t/p/w500/8mgOswkFlqDuZv1MZp2XcyEXnSW.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2013",
+      "description": "Tarih öncesi bir dönemde yaşayan Seikilos intihar etmeye karar verir ve bunun öncesinde Mısır'dan çağırdığı ustalara kendisini ve öldürdüğü aşkı Euterpe'yi mumyalatmaya karar verir. Aradan geçen binlerce yılın ardından Ege bölgesinde yaşamakta olan bir çoban, mezarı kazara açtığında Seikilos beklenmedik bir şekilde canlanır. Gözlerini açtığında ebedi aşkını mezarında bulamayan Seikilos onu aramaya başlar. Bu sırada yolu Mustafa ve Hatice ile kesiştiğinde ilginç bir macera başlar.",
+      "runtime": ""
+    },
+    {
+      "id": "tt21438332",
+      "type": "movie",
+      "name": "Yanlış Anlama 2",
+      "poster": "https://image.tmdb.org/t/p/w500/lbJ1g819WRsRMGbzKWwJ70SrQ5s.jpg",
+      "background": "https://image.tmdb.org/t/p/original/8mevBKJyIS0LCVynmPIc2uLT1S9.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2022",
+      "description": "Ceyhun, ününe fazlasıyla düşkün olan bir şeftir. O, çocukken onu yanına alıp, bildiği her şeyi öğreten Ahmet Usta ve onların yanından ayrılmayan Fazıl ile birlikte her şeye yeniden başlamak için Bakü’ye gider. Ahmet Usta, Bakü’de annesinden devraldığı restoranı işleten Aydan Şef’e annesinin tarifini bulmasına yardım ederken, Ceyhun da bu sırada Azerbaycan’ın lezzetlerini keşfeder ve macera dolu bir aşçılık yolculuğuna çıkar.",
+      "runtime": "97 min"
+    },
+    {
+      "id": "tt17079178",
+      "type": "movie",
+      "name": "Mahalle Bakkalı",
+      "poster": "https://image.tmdb.org/t/p/w500/MjRzIeGm4i6h2C1eqPhBvzYhbx.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uYHu4i6WPn4Lw8SJ3SS6zFNmUtD.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2022",
+      "description": "Mukhabbat, Moskova’nın kenar mahallelerinden birindeki bir bakkalda çalışmakta, geceleri de burada kalmaktadır. Birlikte çalıştığı diğer yasadışı göçmenler gibi ona da emeği karşılığında tek ruble dahi ödenmemekte, izin verilmemektedir. Bakkalın sahibi, yeni doğmuş oğlunu elinden aldığında canına tak eder, çaresizlik ve korkunun üstesinden gelerek özgürlüğünü kazanır ve diğerlerini de kurtarır.",
+      "runtime": "106 min"
+    },
+    {
+      "id": "tt22489060",
+      "type": "movie",
+      "name": "Suna",
+      "poster": "https://image.tmdb.org/t/p/w500/uUu0GkXebXc9DRMqDX57MZktO73.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7mBu4XOBgYahsbdcKpPetwIeRu.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2022",
+      "description": "Suna hayatını hasta bakıcılık ve temizlikçilikle kazanan elli yaşlarında yalnız ve yoksul bir kadındır. Evini uzun zaman önce kapatmıştır. Akraba arkadaş yanında kalmaktadır. Suna, İstanbul’u terk edip imam nikahıyla evlendirildiği Veysel’le ıssız bir köyde eski bir evde yaşamaya başlar. Kocasının her hizmetini görmeye razı olan Suna, onunla yatağa girmeye tahammül edemez. Psikolojisi bozulur. Veysel’den gizli içki içmeye başlar.",
+      "runtime": "102 min"
+    },
+    {
+      "id": "tt8387526",
+      "type": "movie",
+      "name": "Mahşerin Üç Delisi",
+      "poster": "https://image.tmdb.org/t/p/w500/tGU4h63pgYQAkdiztpnRjg6Bc9b.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5oNmT361SxK2oVxpiJrCNqCNauz.jpg",
+      "genres": [
+        "Aksiyon",
+        "Komedi"
+      ],
+      "releaseInfo": "2024",
+      "description": "Mahşerin Üç Delisi, hastaneye nakilleri sırasından suçlular ile karıştırılınca kendilerini aksiyon dolu bir maceranın içerisinde bulan üç hastanın hikayesini konu ediyor. Üç hasta, sosyal fobi, şizofreni ve çoklu kişilik tedavisi görmek için hastaneye nakledilir. Ancak nakil sırasında hastalar, suçlular ile karıştırılır ve bu durum onların bir suç örgütü tarafından kaçırılmasına neden olur. Kendilerini bir anda esaret altında bulan hastalar, özgürlüklerine kavuşmak ve en önemlisi hayatta kalmak için örgütün kendilerine verdiği görevleri kabul etmek zorunda kalır. Kimliklerini gizleyen hastalar, görevlerini yerine getirmek için aksiyon dolu bir maceraya atılırlar.",
+      "runtime": "90 min"
+    },
+    {
+      "id": "tt22869654",
+      "type": "movie",
+      "name": "Katakulli 3: Tuzak",
+      "poster": "https://image.tmdb.org/t/p/w500/t9KxO7VRIU1anijV9MTPdiPIrlb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/aV2yXQaMGNw5Ah3iUkU1vl39R2P.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2022",
+      "description": "Mutlu bir evlilikleri olan iki eski hırsız, bir mafya babasıyla yollarının yeniden kesişmesinin ardından bir hesabı kapatmak için suç dünyasına tekrar adım atmak zorunda kalır.",
+      "runtime": "89 min"
+    },
+    {
+      "id": "tt18939504",
+      "type": "movie",
+      "name": "Yüzleşme",
+      "poster": "https://image.tmdb.org/t/p/w500/y5bIbkGzEuSm06VERdsnmxosFxh.jpg",
+      "background": "https://image.tmdb.org/t/p/original/tvw5T6EesFiBhsIwd0s1KRSPewP.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2023",
+      "description": "Hızır uzun süredir yoğun bakımda olan karısı Halime’yi kaybeder. Kızı Hatice, annesinin hastalığı boyunca özverili bir şekilde yardımını esirgemeyen hastabakıcı Evren’in, annesinin ölümüne sebep olduğunu öğrenir. Hatice eve gelen babasına öğrendiği gerçeği hissettirmeden ilgiyle davranmaya çalışır ancak bir süre sonra bu sırrı içinde daha fazla taşıyamayıp kız kardeşi Kader ile paylaşır. Hatice, Evren’in itirafını babalarına söylemeleri gerektiğini düşünürken Kader, polise gitmeli ve tüm bildiklerimizi anlatmalıyız, der. Kader’in ablasına olan baskısı Hatice’de bir varoluş problemi yaratır ve Evren’in itirafının ağırlığı altında ezilmeye başlar. Ailece yenilen bir akşam yemeğinde her aile ferdi bu durumla yüzleşmek zorunda kalır.",
+      "runtime": "81 min"
+    },
+    {
+      "id": "tt31459364",
+      "type": "movie",
+      "name": "Sevmek Yüzünden",
+      "poster": "https://image.tmdb.org/t/p/w500/cPr35141Gu4IPLOfRnj4Ue0TiIc.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xisLxGPex3ObY4AC2yVDYjXOsgb.jpg",
+      "genres": [
+        "Romantik",
+        "Dram"
+      ],
+      "releaseInfo": "2024",
+      "description": "Bir aşk hikayesinin doğuşunun aktarıldığı filmde, beklenmedik bir anda geçmişiyle yüzleşmek zorunda kalan ve bu süreçte hemcinsi için mücadele eden güçlü bir kadının hikayesi anlatılıyor. Ayça Ayşin Turan, sürekli anlatılan beyaz atlı prens hikayelerinden bıkıp, kendi hayatına yön vermeye çalışan İdil’i canlandırırken, Serhat Teoman ise yaşadığı kaybın ardından kendi kabuğuna çekilen Ömer’e hayat veriyor.",
+      "runtime": "104 min"
+    },
+    {
+      "id": "tt22470578",
+      "type": "movie",
+      "name": "Ana Kuzusu",
+      "poster": "https://image.tmdb.org/t/p/w500/xKGWKxaezKarvh0oOirZtcMI0J7.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2022",
+      "description": "Çiçeği burnunda evli Sinan, görünüşündeki maskülenliğinin tersine tam bir ana kuzusudur. Sürekli ona bağımlı annesi Asuman’ın gönlünü yapmakla, dominant karısı Buse’nin ‘erkek ol’ beklentisinin arasında kalır. Bir gün gelin kaynana büyük bir kavga ederler. İkisi de bir daha birbirlerinin yüzünü görmemeye yemin eder. Karısı ve annesi arasında kalan Sinan’ın aklına buzları eritecek bir fikir gelir. Yaz gelmek üzeredir, ailecek bir haftalık bir tatil yapsalar kesin kaynaşacak, birbirlerini seveceklerdir. Ancak Sinan karısından da annesinden de korktuğu için her iki tarafa da planı açıklayamaz. Buse de Asuman da tatile baş başa çıktıklarını sanmaktadır…",
+      "runtime": "91 min"
+    },
+    {
+      "id": "tt32455030",
+      "type": "movie",
+      "name": "Kasada Parti",
+      "poster": "https://image.tmdb.org/t/p/w500/tOl66wePKBH53i4n8UjOdq48joo.jpg",
+      "background": "https://image.tmdb.org/t/p/original/b1DsFV6YM23AnktQxFWbckb3lBq.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2024",
+      "description": "İş adamı Evren, eşiyle birlikte bir yılbaşı partisi düzenler. Fakat, arkadaşlarına gösteriş yapabilmek için yeni evlerinin devasa kasasında herkesi bir araya toplayan Evren için işler planladığı gibi gitmez. Kasanın kapısı bir anda kapanır ve konuklar ses yalıtımı olan alanda mahsur kalır. Günlerce aynı odada kalan davetliler için sorunlar başlar.",
+      "runtime": "90 min"
+    },
+    {
+      "id": "tt15334532",
+      "type": "movie",
+      "name": "Hara",
+      "poster": "https://image.tmdb.org/t/p/w500/p4CkSX0nAMuguuxBkU5EUWYJ6pV.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rFVbuGVXn2FZsEs5s2SGOx6UjlY.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2022",
+      "description": "Babası veteriner olan ve atlarla iç içe büyüyen Beste (13), yeni gelen patronun çiftliği kapatma kararına direnir. Atların teker teker satıldığı süreçte, Beste’nin annesi ve babası da ayrılma kararı alır. Bir yandan en sevdiği at Turagay’ın satılması, diğer yandan ailesinin dağılmasıyla on üç yaşındaki kız için çok zorlu bir süreç başlar.",
+      "runtime": "99 min"
+    },
+    {
+      "id": "tt33371459",
+      "type": "movie",
+      "name": "Oyunda Kal: Eğlence Arenası",
+      "poster": "https://image.tmdb.org/t/p/w500/hIijWUBS9NV5r6oldnWlhdNN7oP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5vtC06mUgG8aKXnQhZzIvJdQ2rZ.jpg",
+      "genres": [
+        "Aile",
+        "Komedi",
+        "Aksiyon"
+      ],
+      "releaseInfo": "2024",
+      "description": "Oyunda Kal: Eğlence Arenası, çeşitli engellerden oluşan parkurlarda kıyasıya yarışacakları bir yarışma programına katılan 12 gencin hikayesini konu ediyor. Karne haftası gelip çattığında, çocukların tatil planlarında bir değişiklik olur. Çocuklar bir yandan yazın keyfini tatil yaparak çıkarırken bir yandan da yarışacaklardır. Yarışmacılar, 6 fenomen ve fenomenlerin hazırladığı elemeleri geçen 6 gönüllüden oluşacaktır. 12 yarışmacı, Eğlence Arenası’nda Sihirli Değnek ödülünün peşinde ‘oyunda kalmak’ için karşı karşıya gelecektir. Spor, zeka ve strateji oyunlarının olduğu yarışmada bireysel mücadele kadar takım ruhu da önemlidir.",
+      "runtime": "90 min"
+    },
+    {
+      "id": "tt1523415",
+      "type": "movie",
+      "name": "Beş Şehir",
+      "poster": "https://image.tmdb.org/t/p/w500/5uQNaElLbuHXZ1qHZq1y6uHozAZ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xMktkf9TTYvJkEMyk2y73hnxlgs.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2009",
+      "description": "Aydın, İstanbul’a yeni tayin edilmiş bir polis memurudur. Şehir kadar sosyal hayata da yabancılık çekmektedir. En büyük sıkıntısı yalnızlıktır. Şekerci dükkânında çalışan Mehtap’la uzaktan uzağa ilişki kurmaya çalışır. Fakat ilgisine karşılık alamaz. Tıpkı hastalığından dolayı arkadaşları tarafından dışlanan Osman ve diğerleri gibi… Her insan, hayatı boyunca birinden ötekine savrulup durur.",
+      "runtime": "95 min"
+    },
+    {
+      "id": "tt3746914",
+      "type": "movie",
+      "name": "Bizum Hoca",
+      "poster": "https://image.tmdb.org/t/p/w500/ypGIoHbCrrPgCO1ZntKxr6iQoKX.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2014",
+      "description": "Trabzon'un bir köyüne tayini çıkan resmi imamın gelmesi gecikince, köylüler bir imam arayışını girerler. Köy halkının sevdiği ama resmi olarak imam olmayan Bizum Hoca'nın köyün imamı olmasına karar verilir. Bizum Hoca imamlığı kabul etmiştir ki, köyün ortasından geçen dereye bir HES inşaatı yapılacağı haberi köyün gündemine bomba gibi düşer. Köylü bu inşaatın yapılmasına karşıdır ve mücadele başlar. Eylemin başına ise Bizum Hoca geçer.",
+      "runtime": "100 min"
+    },
+    {
+      "id": "tt29808429",
+      "type": "movie",
+      "name": "Zaferin Rengi",
+      "poster": "https://image.tmdb.org/t/p/w500/66Y9TGlIVFQUjoVnrU3XkMAJAmB.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hghImeZk3TDT2h5ZnlnAdKH5Yp8.jpg",
+      "genres": [
+        "Tarih",
+        "Dram"
+      ],
+      "releaseInfo": "2024",
+      "description": "Zaferin Rengi, 1919 yılında İstanbul'u işgal eden düşman kuvvetlerine karşı örgütlenen insanların Anadolu'da başlattıkları direnişi, Cumhuriyet tarihinin en önemli spor başarılarından olan General Harington Kupası efsanesinin etrafında anlatıyor.",
+      "runtime": "157 min"
+    },
+    {
+      "id": "tt21223842",
+      "type": "movie",
+      "name": "Anlatırsam Aşık Olurum",
+      "poster": "https://image.tmdb.org/t/p/w500/nFSMH2Vh7cENeq9capNbLOLLdn8.jpg",
+      "background": "https://image.tmdb.org/t/p/original/yJkwVT84s8Iderj1SRRxqfnmqzW.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2021",
+      "description": "Selçuk ve Zeynep üniversitede birbirlerine aşık olmuş, erken yaşta evlenmişlerdir. Selçuk eşini kıskandığı için çalıştırmamış, Zeynep’te sıkıntıdan kendini alışverişe ve ev işlerine vermiştir. Beyaz yakalı olan Selçuk bir süre sonra eşinden sıkılmış ve ayrılmaya karar vermiştir. Zeynep artık kendisiyle ilgilenmeyen bir adamla evli kalmak istememiş ve araba, ev ve 4 bin lira nafaka karşılığı boşanmayı kabul etmiştir. Selçuk eşinden bir an önce boşanmak için isteklerini bir çırpıda kabul etmiş ve boşanmıştır.",
+      "runtime": "92 min"
+    },
+    {
+      "id": "tt31520090",
+      "type": "movie",
+      "name": "Kral Şakir: Devler Uyandı",
+      "poster": "https://image.tmdb.org/t/p/w500/zHEEILa0Ee3PMkZ6jF547O1vR69.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fvtb3n6icOuaPavt0NQ6GOzQY4O.jpg",
+      "genres": [
+        "Animasyon"
+      ],
+      "releaseInfo": "2024",
+      "description": "Kral Şakir, ailesiyle birlikte hem kayıp babaannesi Seniha'yı bulmak hem de dünyayı giderek güç kazanan kötülüğe karşı korumak için zorlu bir maceraya atılır.",
+      "runtime": "85 min"
+    },
+    {
+      "id": "tt31845255",
+      "type": "movie",
+      "name": "Arda Turan: Yüzleşme",
+      "poster": "https://image.tmdb.org/t/p/w500/dLn3DpqfXYQwjJAk2naLfuHFL99.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5GMfxPc3E5t0XZQsatA5Qsowxvk.jpg",
+      "genres": [
+        "Belgesel"
+      ],
+      "releaseInfo": "2024",
+      "description": "Arda Turan: Yüzleşme, döneminin en yetenekli, en sevilen ve bir o kadar da tartışılan Türk futbolcusu Arda Turan'ın kendisiyle yüzleşmesini konu ediyor. Bayrampaşa’nın dar sokaklarından, Ali Sami Yen’in büyülü çimlerine, Vicente Calderon’a, Camp Nou’ya uzanan bir hikayenin kahramanı olan Arda Turan’ın hayatına odaklanılan belgeselde, başarılı futbolcunun zaferleri, karşılaştığı zorluklar, hataları, saha içinde ve dışındaki inişleri ve çıkışları anlatılıyor.",
+      "runtime": "98 min"
+    },
+    {
+      "id": "tt28377513",
+      "type": "movie",
+      "name": "Yirmisekiz",
+      "poster": "https://image.tmdb.org/t/p/w500/v8tLrTF0x0TWXgQX4Z6Rp10Fim2.jpg",
+      "background": "https://image.tmdb.org/t/p/original/li2uKdZzJSuljZek8xRHTzyHCR9.jpg",
+      "genres": [
+        "Dram",
+        "Aksiyon"
+      ],
+      "releaseInfo": "2023",
+      "description": "FETÖ üyesi olmakla suçlana vatanperver bir görevlinin aklanma mücadelesi ve FETÖ'nün insanları iftira ve tehdit ile zor durumda bırakan örgüt yapısı işleniyor.",
+      "runtime": "99 min"
+    },
+    {
+      "id": "tt19850948",
+      "type": "movie",
+      "name": "41 Kere Maşallah",
+      "poster": "https://image.tmdb.org/t/p/w500/dEI5iluNlVa4hQ5JD1SsG3SjPKM.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2022",
+      "description": "41 Kere Maşallah, hayatının aşkına kavuşabilmek için kendisine yapılan büyüden kurtulmaya çalışan bir adamın hikayesini konu ediyor. Naci, bir yandan anne ve baba baskısı ile boğuşan bir yandan da amansız aşkı Pelin'e açılmak için çabalayan bir adamdır. Pelin'e bir türlü açılamayan Naci, lise yıllarında kalbini kırdığı bir kızın kendisine büyü yaptırdığını öğrenir. Üzerindeki büyüyü bozmaya çalışan Naci, 3 ayda 40 tane kızı kendisine aşık etmeyi başarabilecek midir?",
+      "runtime": "101 min"
+    },
+    {
+      "id": "tt14878948",
+      "type": "movie",
+      "name": "15/07 Şafak Vakti",
+      "poster": "https://image.tmdb.org/t/p/w500/6S7aFB0KQdF7diE6qvdWaG4b4bc.jpg",
+      "background": "https://image.tmdb.org/t/p/original/7kTSvG91sWRUXduM9vfbLTs8jIX.jpg",
+      "genres": [
+        "Tarih",
+        "Dram"
+      ],
+      "releaseInfo": "2021",
+      "description": "15 Temmuz gecesi, sıradan insanların öykülerine odaklanan film, Çengelköy’de pastane işleten Cevdet'in ve çocuklarının öyküsünü merkeze alıyor. Köprüde bir anda darbeci askerlerle karşı karşıya gelen Cevdet’in yolu, işine geç kalan güvenlik görevlisi Güray, küçük kızıyla birlikte köprüde sıkışıp kalan Mustafa ve askeri okul öğrencisi olan oğlunu bir türlü göremeyen Şerife ile kesişir. Cevdet köprüde darbeci askerlerle mücadele ederken, aynı mücadeleyi oğlu Yusuf Çengelköy’de sürdürmektedir.",
+      "runtime": "95 min"
+    },
+    {
+      "id": "tt8633462",
+      "type": "movie",
+      "name": "Nereye Gidiyorsun, Aida?",
+      "poster": "https://image.tmdb.org/t/p/w500/guBfvuR0ije9hHEO2bhVW958fYy.jpg",
+      "background": "https://image.tmdb.org/t/p/original/awElIr61fFpbudzlCfobIpbwEro.jpg",
+      "genres": [
+        "Savaş",
+        "Dram",
+        "Tarih"
+      ],
+      "releaseInfo": "2021",
+      "description": "Temmuz 1995 yılında Bosna’da İngilizce öğretmeni olan Aida Selmanagic, Srebrenica’nın küçük bir kasabasında Birleşmiş Milletler’in tercümanı olarak çalışmaktadır. Sırbistan ordusu bu küçük kasabayı ele geçirdiğinde Aida’nın eşi ve iki oğlu da BM kampında sığınma arayan binlerce vatandaş arasında yer alır. Aida, Sırp ordusu iktidara geldiğinde siyasi müzakerelerin bir parçası olur ve gittikçe daha korkutucu olan bilgileri tercüme etmek zorunda kalır. Aida ailesini kurtarabilecek midir yoksa onları ölüme terk etmesi mi gerekecektir?",
+      "runtime": "101 min"
+    },
+    {
+      "id": "tt29079472",
+      "type": "movie",
+      "name": "Üçkağıtçılar",
+      "poster": "https://image.tmdb.org/t/p/w500/2d1ncOM4569hmkaslV5XyAfLq8V.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3bzakCfHycP3d9JI6716jBf6KAJ.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2022",
+      "description": "Hırslı ve bencil bir adam olan Özgür’ün yolu bir süper market kuyruğunda kılıktan kılığa girerek insanları dolandırmaya çalışan Süheyla ile kesişir. Özgür’ün ricası üzerine sırasını ona veren Süheyla, Özgür’ün bir milyonuncu müşteri olarak yüz bin TL ikramiye kazanması üzerine, hakkı olan paranın bir kısmını ister. Özgür işi yokuşa sürüp, hiçbir şey olmamış gibi olay yerinden ayrılınca, Süheyla sinirden deliye döner. İntikam yemini eden Süheyla, Özgür’ün hayatını bitirmek için yaptığı planları bir bir uygulamaya başlar. Tüm parasını, işini ve ailesini kaybetme noktasına gelen Özgür için artık hayatın bir anlamı kalmamıştır. Özgür’ün iyi bir ders aldığını düşünen Süheyla vicdana gelerek Özgür’ün elinden aldığı her şeyi, yeniden kazanmak için ona yardım etmeye karar verir. ...",
+      "runtime": "90 min"
+    },
+    {
+      "id": "tt28619832",
+      "type": "movie",
+      "name": "Bizim Hoca: Bezdum da!",
+      "poster": "https://image.tmdb.org/t/p/w500/6HT7CNNMHsP0YdO1675zPVFU7QM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4jM7xodhkOZBJvR46BELYabrsKQ.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2023",
+      "description": "Bizum Hoca, eğitimini tamamlamamış olmasına rağmen kendini yetiştirmiş bir Karadenizlidir. Din alimliği üzerine bildiği her şeyi İslam aydını babası Ahmet Fevzi Hoca'dan öğrenmiştir. Eşi Makbule'yi kaybettikten sonra hayatına kimseyi sokmayan Bizum Hoca, herkesin akıl danıştığı bir insandır. Şen şakrak birisi olan hoca, bir yandan da İslam dininin maneviyatına odaklanmaktadır. Cemaatine ahlaklı ve vicdan sahibi bir insan olmanın en az ibadet etmek kadar önemli ve evrensel değer olduğunu öğütler. Ancak cemaatin'de Bizum Hoca'nın bu söylediklerine katılmayanlar vardır. Bizum Hoca'nın imamlığı sona erip de Ekrem Hoca'nın imamlığı başlayınca alıştıkları düzene kavuştuğunu hisseden cemaat rahat nefes alır. Çünkü Bizum Hoca'nın insanca yaşamak için verdiği mücadele ve ezber bozan sözleri onlara korkutucu gelmektedir. Bir yandan yöreye kurulacak olan HES inşaatına karşı çıkan Bizum Hoca, savunduğu düşünce nedeniyle, dini kendinden farklı algılayan Ekrem Hoca'yla bu zeminde de çatışmaktadır",
+      "runtime": "110 min"
+    },
+    {
+      "id": "tt11992106",
+      "type": "movie",
+      "name": "Körleşme",
+      "poster": "https://image.tmdb.org/t/p/w500/dHivA2A40ntvOYfCnARTU8DwsWR.jpg",
+      "background": "",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2020",
+      "description": "Sinan, kör bir şairdir. 3 yaşındayken görme duyumunu yitirmiş olsa da nüktedan, körlüğüyle barışık bir insandır. Sinan’ın eşi Nilgün, Sinan’a görme dünyasını armağan etmek ister ve ameliyat olmaya onu ikna eder. Başarılı geçen ameliyatla birlikte Sinan belli belirsiz görmeye başlar ama…",
+      "runtime": "87 min"
+    },
+    {
+      "id": "tt31465230",
+      "type": "movie",
+      "name": "Bizim Hoca: Sıkıntı Yok",
+      "poster": "https://image.tmdb.org/t/p/w500/vDGOnHkrXRhgNqoeNclF3TS1iCP.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xknRsWjLOfOADL7vkCDj0uvJ6cG.jpg",
+      "genres": [
+        "Komedi",
+        "TV film"
+      ],
+      "releaseInfo": "2023",
+      "description": "Bizim Hoca: Sıkıntı Yok filminde, Feridun, Cahit ve Tamer, serinin ilk filmi olan \"Bizim Hoca: Bezdum Da\" filminin sonunda milli piyango biletini ele geçirip zor da olsa mutlu sona kavuşmuştur. Artık paraları vardır. Bu süreçte dost oldukları köy halkına da ihtiyaçları doğrultusunda yardım da etmişlerdir. Feridun artık kendine tamamen düzgün bir hayat kurup, tertemiz bir sayfa açacak duruma gelmiştir. Bunun için şimdiki adım evlenmektir. Evlendikten sonra tam bir aile babası olacaktır. İlk filmde tanıştığı hayatının kadınıyla bu temiz sayfaya başlayacaktır. Köyde düğün hazırlıkları yapılır. Herkes coşkulu ve mutludur. Feridun köy halkıyla beraber gelin alma törenine gidecektir. Gel gör ki o gün Trabzon’da yüksek güvenlik önlemiyle bütün yollar kapatılmıştır. Sümela Manastırı'nı ziyarete Rum Ortodoks Patriği gelecektir. Gelin alma töreni için yola çıkan bizimkiler yollar kapalı olduğundan bir türlü gidemezler. Alternatif yollardan çıkış yolu ararken başlarına gelmedik kalmayacaktır.",
+      "runtime": "90 min"
+    },
+    {
+      "id": "tt9522162",
+      "type": "movie",
+      "name": "Bana Bir Aşk Şarkısı Söyle",
+      "poster": "https://image.tmdb.org/t/p/w500/gC0aMfx7byPIOGNTuXUt2dBfXnb.jpg",
+      "background": "",
+      "genres": [
+        "Dram",
+        "Romantik"
+      ],
+      "releaseInfo": "2019",
+      "description": "Bana Bir Aşk Şarkısı Söyle, yolları kesişen Emre ve Delara’nın hikayesini konu ediyor. Emre, arkadaşı Hakan ile birlikte bir restoranın motor kuryesi olarak çalışır. Güzel bir sese sahip olan ve şarkı söylemeyi seven Emre, fırsat buldukça Cennet Çocukları isimli çocuk esirgeme yurdunda kalan çocuklara konser verir. Emre’nin başarılı bir şarkıcı olacağını düşünen televizyon yapımcı olan Ayla ise Emre’yi destekleyerek onun üne kavuşmasını sağlar. Ayla’nın Emre hakkındaki düşünceleri sadece iş ile ilgili değildir. Genç kadın içten içe Emre’yi sever ancak Emre’nin ona karşı hiçbir ilgisi yoktur. Bu sırada Delara isimli İranlı bir kız ve kardeşi Hamed, bir temizlik fabrikasının şubesini açmak için İstanbul’a gelir. Yaşanan bir olay Delara ve Emre’nin bir araya gelmesine neden olur. Ancak onların yakınlaşmasından rahatsız olan Ayla, bu durumu engellemeye kararlıdır.",
+      "runtime": "116 min"
+    },
+    {
+      "id": "tt1297389",
+      "type": "movie",
+      "name": "Güneşin Oğlu",
+      "poster": "https://image.tmdb.org/t/p/w500/bHWHiVaLanWpLdWFAi6qxWNaEFC.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1uCp7SbQqdFf9ok7xA5JLnaOsmb.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2008",
+      "description": "Bütün hayatını bir mucize bekleyerek geçiren Fikri Şemsigil, sonunda bu mucizeyi yaşar ve 'Güneşin Oğlu' olduğunu öğrenir. Fakat yaşadığı mucize, düşündüğünün aksine Fikri Bey'in hayatını alt üst eder. Fikri Bey'in ruhu artık, çevresindeki insanların bedenlerine girip çıkmaktadır. Ve sonunda Fikri Bey, bu kez, yıllarca beklediği mucizeden kurtulmak için, gerçeklerin peşine düşmek zorunda olduğunu anlar. Olaylar çığırından çıkmıştır. Peki, karşı apartmandaki komşusu dünyalar güzeli kız ne olacaktır?",
+      "runtime": "93 min"
+    },
+    {
+      "id": "tt28377505",
+      "type": "movie",
+      "name": "İtiraf",
+      "poster": "https://image.tmdb.org/t/p/w500/9IbjyEoYqmOjIN5H0Gu50TxsUTo.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mNfOKarXrXoFd24fOmroKYEpjR7.jpg",
+      "genres": [
+        "Belgesel",
+        "TV film",
+        "Tarih"
+      ],
+      "releaseInfo": "2023",
+      "description": "Gerçek olaylara dayanan \"İtiraf\", FETÖ üyelerinin yargılanma ve tutuklanma sürecini anlatıyor.",
+      "runtime": "137 min"
+    },
+    {
+      "id": "tt27349112",
+      "type": "movie",
+      "name": "Öt Bakalım",
+      "poster": "https://image.tmdb.org/t/p/w500/tds5pZ11a25ahfNIsrBFVoFxEGG.jpg",
+      "background": "https://image.tmdb.org/t/p/original/j9OoibWwmzmyOm2I5skWFmOXI1b.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2023",
+      "description": "Bir kafe açarak sakin ve huzurlu bir emeklilik yaşamını hayal eden bir çiftin, beklediklerinden farklı bir deneyimle karşılaşması etrafında şekillenen bir hikaye, “Öt Bakalım” adlı filmde anlatılıyor. Yönetmen koltuğunda Kamil Çetin’in bulunduğu bu film, karı koca tarafından kurulan kafenin macera dolu serüvenini seyirciye aktarıyor.",
+      "runtime": "96 min"
+    },
+    {
+      "id": "tt16449656",
+      "type": "movie",
+      "name": "Kaptan Pengu ve Arkadaşları 2",
+      "poster": "https://image.tmdb.org/t/p/w500/maowZO9kQ7Fquv0PHMfVIHGlsPU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/1XJN9z6jczZQdotCnIyFJdLxwRP.jpg",
+      "genres": [
+        "Animasyon"
+      ],
+      "releaseInfo": "2022",
+      "description": "Maki güzeller güzeli İnci Koyu’nda tek başına yaşayan, bundan da son derece mutlu bir bukalemundur. Koya gözü gibi bakar, kuşlar dışında kimseyi koya kabul etmez. Bir sabah uyandığında koya atılmış çöpler görür. Çöpleri çöpe atar, geri döndüğünde yeniden çöp atıldığını görür. Ertesi gün yine ve yine... Maki yorulmuş ve çok kızmıştır. Çöplerle tek başına mücadele edemeyeceği için, mecburen arkadaşlarını aramaya başlar. Fakat bir kısmı kış uykusundan yeni uyanırken, bir kısmı da göçtedir. Kimisi daha önce Maki’ye kırıldığı için gelmek istemez, kimisi çok yoğundur. Maki tek başına her gün çöpleri toplamaktan yorgun düşer ve arkadaşlarını yardıma nasıl çağıracağını kara kara düşünür. Yüzüne çarpan müzik festivali broşürü sayesinde hayvanları oraya nasıl çekeceğini anlar.",
+      "runtime": "72 min"
+    },
+    {
+      "id": "tt12987126",
+      "type": "movie",
+      "name": "Bizum Hoca 2",
+      "poster": "https://image.tmdb.org/t/p/w500/5VphvcIs6OLoCcTWPSR3vqTY3n7.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2021",
+      "description": "Bizim Hoca filminin devam halkası olan yapımın yönetmen koltuğunda bir kez daha Serkan Açar ve Yılmaz Okumuş oturuyor. Komedi türündeki filmin başrollerinde Cemi Baskın ve Tuğba Çom yer alıyor.",
+      "runtime": "94 min"
+    },
+    {
+      "id": "tt19850938",
+      "type": "movie",
+      "name": "Masal Şatosu: Gizemli Misafir",
+      "poster": "https://image.tmdb.org/t/p/w500/t1KlHQ4b6KDxf2lNvJ4vrZ9H8hr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/3aNWDG4Iu7nGmE61IgH9tTaG1Fj.jpg",
+      "genres": [
+        "Aile",
+        "Fantastik"
+      ],
+      "releaseInfo": "2022",
+      "description": "Neşe ve arkadaşları, büyük bir partinin hazırlığındadır. Onlar evi ışıl ışıl süslerken, davetsiz bir misafir kapılarını çalar. Ancak gelen çocuğu kimse tanımamaktadır. O, bir hata sonucu hafızası silinen, masal diyarından gelen bir prenstir. Masal diyarının neşesi olan prensin dünyada kaldığı her an masal diyarında mutsuzluğu hüküm sürmesine neden olur. Neşe ve arkadaşları, prensi ait olduğu yere göndermek ve masal diyarının neşesini kazanmasını sağlamak için bilmedikleri bir ortamda türlü maceralara atılır.",
+      "runtime": "102 min"
+    },
+    {
+      "id": "tt8183556",
+      "type": "movie",
+      "name": "Karımı Gördünüz Mü?",
+      "poster": "https://image.tmdb.org/t/p/w500/pBgvF8oTDeqcLf8D1g4xRu8nu3O.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2018",
+      "description": "Hakkı, ünlü ve oldukça zengin bir iş adamıdır. Hakkı, birçok turistik tesisi ve yatı olmasına, karısı Makbule'nin farklı yerlerde tatile çıkma isteğini geri çevirmez. Güzel bir otelde yer ayarlarak karsını istediği tatile götürür. Otele girdikleri andan itibaren tüm gözler gösteriş meraklısı çiftin üzerindedir. Çevresindekilere laf yetiştirmeye çalışan Hakkı bir süre sonra karısının yanında olmadığını fark eder. Otelin çevresinde eşini aramaya başlayan Hakkı bir türlü bulamaz...",
+      "runtime": "92 min"
+    },
+    {
+      "id": "tt6282098",
+      "type": "movie",
+      "name": "Hayati Tehlike",
+      "poster": "https://image.tmdb.org/t/p/w500/fASqTzWZ6hfMonCuyqHfeze6EjF.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2016",
+      "description": "Hayati, Hayatinin Yeri adını verdiği fırınında ekmek ve türevleri pişiren, müşterilerinin sevdiği bir fırıncıdır. Fakat baba yadigârı fırınında sıradan bir hayat sürerken, mafyaya haraç vermemek için kafa tutmasıyla başına büyük bela sarar. Tam silahların konuştuğu sırada süt kardeşi Utku'nun araya girmesiyle olaylar daha da büyür. Zira Utku kimliğini saklayarak, özel bir operasyon yürüten bir polistir. Hayati, Utku'ya olan borcunu ödemek için operasyonu devralır ama çok gizli ve dikkatli yürütülmesi gereken bu süreci eline yüzüne bulaştırması an meselesidir!  Yönetmen koltuğunda Serdar Işık'ın oturduğu komedi türü Hayati Tehlike'nin başrollerini Toygan Avanoğlu, Öznur Serçeler ve Burç Kümbetlioğlu üstleniyor. Filmin kadrosunda Altan Erkekli, Zeynep Şahin, Billur Yılmaz, Deniz Sipahi ve Füsun Demirel de yer alıyor. Filmin senaryosu ise Baykut Badem'in kaleminden çıkma.",
+      "runtime": "100 min"
+    },
+    {
+      "id": "tt30136893",
+      "type": "movie",
+      "name": "Beyond Bars",
+      "poster": "https://image.tmdb.org/t/p/w500/foCkOwvKFlsWX1rtT5FuBHKS6mr.jpg",
+      "background": "https://image.tmdb.org/t/p/original/aKOVgsUubPx6rO7UIOhNwMLxuuE.jpg",
+      "genres": [
+        "Belgesel"
+      ],
+      "releaseInfo": "2023",
+      "description": "",
+      "runtime": "98 min"
+    },
+    {
+      "id": "tt29313776",
+      "type": "movie",
+      "name": "Kocamı Kim Öldürür?",
+      "poster": "https://image.tmdb.org/t/p/w500/z1WMGGgCtj8nWabAUdp7I4HJDap.jpg",
+      "background": "https://image.tmdb.org/t/p/original/sWVFEJDDe8HrtsZNNVLvutdhUoD.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2023",
+      "description": "Merve, hayatının baharında yaşadığı türlü zorlukların üstesinden gelmeye çalışan genç bir kandındır. Girdiği işlerde bir türlü başarıyı yakalayamayan Merve, zenginlerin maskarası haline gelir. Artık bu duruma bir son vermek, valıklı bir yaşam sürmek isterken, çareyi servet evliliği yapmakta bulur. Ancak bir gün başkasına aşık olduğunda işler karışır. Aşk ve para konusunda bir tercih yapmak istemeyen Merve, yaptığı evlilik sözleşmesi yüzünden iyice çaresiz kalır. Artık onun için tek çözüm yolu vardır; kocasını öldürmek.",
+      "runtime": "100 min"
+    },
+    {
+      "id": "tt22470776",
+      "type": "movie",
+      "name": "Kuzenler Firarda 2",
+      "poster": "https://image.tmdb.org/t/p/w500/kllI59vH662yHaLLou1qVpdfiN1.jpg",
+      "background": "https://image.tmdb.org/t/p/original/pdPlsTKyOKgAgLiOt8uJxRpXFvC.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2023",
+      "description": "Serhat ve Engin, eğitimlerini İstanbul’da tamamlayıp, köylerine geri dönmüş ama ne tam şehirli, ne de tam köylü olmuş, arada kalmış iki şaşkın kuzendir. Köy hayatından kısa sürede bunalan ikili, bir arkadaşlarının “Esas hayat burada” demesi üzerine İzmir’e doğru yola çıkma kararı alırlar. Şehirde onları bekleyen hayat ne kadar zor olabilir ki?",
+      "runtime": "91 min"
+    },
+    {
+      "id": "tt21200858",
+      "type": "movie",
+      "name": "Güven Bana",
+      "poster": "https://image.tmdb.org/t/p/w500/hOXkqLFJeQxirV3fhYXqanpH8N9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/zYjSiEjkYDNCWca4LdWuabMvOLb.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2023",
+      "description": "İki kardeş olan Özcan ve Sercan tefeciye olan senet borçlarını ödemek için, Müslüm dayılarının kendilerine olan borcunu almaya giderler. Dayı parayı vermek için elini cebine attığı an kalp krizi geçirir ve ölür. Dayının cebinde onlara ait para vardır ama henüz çıkarıp vermemiştir. Parayı dayılarının cebinden aldıkları gibi tefeciye borç ödemesine giden kardeşleri büyük bir sürpriz beklemektedir, çünkü para sahtedir. Sahte paradan kurtulmanın yolunu, aldıkları yere bırakmak olarak gören kardeşler, cenaze evine parayı ölen dayılarının ceket cebine koymak için gelirler ve geri dönüşü imkansız bir maceraya girmiş olurlar.",
+      "runtime": "112 min"
+    },
+    {
+      "id": "tt4080858",
+      "type": "movie",
+      "name": "Tut Sözünü",
+      "poster": "https://image.tmdb.org/t/p/w500/ohpLLZbTgRoIuFTR39r1LnwPGfJ.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mwinEfBlXy2Upsc4J07PZDT1JPk.jpg",
+      "genres": [
+        "Komedi",
+        "Fantastik"
+      ],
+      "releaseInfo": "2015",
+      "description": "Yalçın ve Bahadır, birbirine zıt karakterlere sahip olan iki yakın arkadaştır. Ancak Yalçın'ın beklenmedik ölümüyle iki dostun yolları acı bir şekilde ayrılır. Yalçın'ın deli dolu hallerini özleyen Bahadır'ın bir gün kapısı çalınıverir. Ölümüne çok üzüldüğü çılgın arkadaşı Yalçın'ın hayaletini karşısında bulur! Üstelik yalnız da değildir, yanında Bernardo adında bir İtalyan trapezci vardır. Yalçın tutmadığı bir söz yüzünden öbür tarafa geçiş yapamamış ve arafta kalmıştır. Bu sözü yerine getirebilmesi için de ona yardım edebilecek tek kişi yakın dostu Bahadır'dır. Üç günlük zaman içerisinde Yalçın'ın sözünü yerine getirmesi şarttır, ancak bu şekilde huzur bulabilecektir. Bahadır ise bir yandan ona yardım etmeye çalışırken başına olmadık işler açılır. Öte yandan da aynı işyerinde çalıştığı ve bir türlü açılamadığı Demet'le arasındaki platonik aşk, macerasına tuz biber ekecektir.",
+      "runtime": "96 min"
+    },
+    {
+      "id": "tt30131883",
+      "type": "movie",
+      "name": "Yaşam Koçu",
+      "poster": "https://image.tmdb.org/t/p/w500/vBAlDtj2dyRBHFQH04YQeW7DLn5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/4mPY89LNZFFTYGaZMTVjRECM42t.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2024",
+      "description": "Kariyerindeki büyük hedefleri gerçekleştirmek için çareyi yaşam koçlarının enerji ve frekansını düzenlemesinde arayan Helin, sonsuz bir inançla her gün yeni bir yaşam koçuna giderken yakın arkadaşı Cafer’i de alır. Helin’in bu durumuyla dalga geçen Cafer, bir parti çıkışı magazincilerin “sevgili misiniz?” sorusuna “yaşam koçuyum” cevabını verir ve Helin’in de kariyerindeki büyük değişim ile Türkiye’nin en popüler yaşam koçu haline gelir.",
+      "runtime": "97 min"
+    },
+    {
+      "id": "tt16711756",
+      "type": "movie",
+      "name": "Dreamcoin",
+      "poster": "https://image.tmdb.org/t/p/w500/6Oga5wEhEah4G0h4wBTii5I6WJl.jpg",
+      "background": "https://image.tmdb.org/t/p/original/jKWhtse3D7DrJBpQ0Y9OCF95Npd.jpg",
+      "genres": [
+        "Dram",
+        "Komedi",
+        "Aksiyon"
+      ],
+      "releaseInfo": "2024",
+      "description": "Berk sosyal fobiyi iç dünyasında büyütmüş bir gençtir. Berk, kripto para borsasında yaptıklarından kuzeni Yücel’e bahseder; çok anlamasa da sadece paranın bir şekilde artması ile ilgilenir. Bir yandan mafyanın kendilerine tanıdığı zaman azalmaktadır. Yeteneklerinin farkında olmayan sıradan bir yazılımcının geliştirdiği bir \"yapay zeka\" sayesinde \"gerçek dünya\" ile tanışma hikayesi.",
+      "runtime": "113 min"
+    },
+    {
+      "id": "tt30387597",
+      "type": "movie",
+      "name": "Öğretmen",
+      "poster": "https://image.tmdb.org/t/p/w500/uIVQisMqNmLJJNZaq72H6BCZUXd.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qeY85rsjRfn6z2RM8rHloGMI7y.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2023",
+      "description": "Film, Trabzon'un Çaykara ilçesine atanan koyu Fenerbahçeli bir öğretmenin gözünden Trabzonspor-Fenerbahçe rekabetinin yansımaları anlatıyor.",
+      "runtime": "134 min"
+    },
+    {
+      "id": "tt20568010",
+      "type": "movie",
+      "name": "Her Şey Dahil",
+      "poster": "https://image.tmdb.org/t/p/w500/i7knfiXj3y9krjOWXVg3Ju4bgu9.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2KCM4q9AztCMpjghNxfsJNcMwPT.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2022",
+      "description": "Film, farklı donörlerden dünyaya gelmiş üç kardeş Faruk, Ayhan ve Kasım’ın hikayesini anlatıyor.  Dedelerinden kalan mirasla bakir bir Ege koyunun tapusunu almaya çok yaklaşan kardeşler, ödenmesi gereken son iki taksiti denkleştirmek için koyda bir tatil köyü açmaya karar verir. Kardeşler bu proje için seferber olurken, Faruk tesadüfen tanıştığı yazar Fulden’i de açılışa davet eder. Organik ve doğal bir tatilin hayalini kuran müşteriler koya geldiklerinde hiçbir şeyin vaat edildiği gibi olmadığını görünce ortalık fena karışır.",
+      "runtime": "102 min"
+    },
+    {
+      "id": "tt13727606",
+      "type": "movie",
+      "name": "Aniden",
+      "poster": "https://image.tmdb.org/t/p/w500/jHjzwRLHfTnrDv8l2K4lnNCvstW.jpg",
+      "background": "https://image.tmdb.org/t/p/original/2vqbKNyIQtTib57Y8IZnPBgzq7a.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2023",
+      "description": "Yıllardır Hamburg’da yaşayan Reyhan, kısa bir süre için kocasıyla birlikte İstanbul’a döner. Bir süre İstanbul’da yaşadıktan sonra tam da Hamburg’a dönmesine kısa bir süre kala Reyhan koku alamadığını fark eder. Doktora giden Reyhan’ın yaptırdığı tetkikler, önemli bir sorun olabileceğini belirtir. Bu durum üzerine Reyhan, hastalığı ile ilgilenmek yerine, İstanbul’daki geçmişinin peşine düşer.",
+      "runtime": "115 min"
+    },
+    {
+      "id": "tt22982202",
+      "type": "movie",
+      "name": "Tebessüm",
+      "poster": "https://image.tmdb.org/t/p/w500/9o5LSeAqfuj5aL0eHENiWzNh06q.jpg",
+      "background": "https://image.tmdb.org/t/p/original/vVfbtGXU9N8Y7Pffg1YVljOdgdQ.jpg",
+      "genres": [
+        "Dram",
+        "Komedi"
+      ],
+      "releaseInfo": "2023",
+      "description": "Çevresi tarafından asık suratlılığı ve asosyalliği ile tanınan Mustafa, İstanbul’ da bir devlet dairesinde arşiv bölümünde çalışmaktadır. Mustafa’nın iş yerinden arkadaşı Zeki, her fırsatta Mustafa’nın asık suratlılığını eleştirmektedir. Mustafa’nın imajından hoşnutsuzluğunu bilen Zeki, kendi uydurduğu bir hikayeyle Mustafa’yı etkileyerek, saçlarını sarıya boyamaya ve gülümser gözükmesi için dudak kenarını kesmeye ikna eder. Radikal bir imaj değişikliğine giden Mustafa için bundan sonra hayatında, pek de gülünecek bir şey kalmaz. Henüz yarası kabuk bile tutmamışken, babasının Denizli’de hastaneye kaldırılıp, bacağının kesildiğini öğrenir. Kesik bacağı gömmekle vazifelendirilen sarı saçlı, yüzü yaralı Mustafa ve her şeye sinirlenip öfkelenen amcasının oğlu Mehmet, kendilerini beklenmedik hataların ve absürtlüklerin içinde bulurlar.",
+      "runtime": "91 min"
+    },
+    {
+      "id": "tt19321794",
+      "type": "movie",
+      "name": "Ceylin",
+      "poster": "https://image.tmdb.org/t/p/w500/m8SBixdHa4hzxhXIvtl3est8Q93.jpg",
+      "background": "",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2023",
+      "description": "Ceylin, çadır kentte yaşayan on dört yaşında mevsimlik tarım işçisidir. Tek hayali okula gitmek olan Ceylin, bunun imkânsız olduğunu bilmektedir. Annesi Meryem yatalaktır. Abisi Adem’in ise askerden sonra sıkıntılı bir hayatı olmuştur. Tarım işçisi olan babası Cabbar da bir gün buralardan kurtulacağı umuduyla yaşamaktadır. Çadır kente Bilge adlı belgeselci gelir. İşçilerden sorumlu Mehmet Emmi ile tanışır. Bilge, çadır kente ayna tuttukça sorunlar birbiri ardına görünür hale gelir. Ceylin'i ve tüm çadır kentti etkileyen bir olay ile her şey açığa çıkar.",
+      "runtime": "96 min"
+    },
+    {
+      "id": "tt34447607",
+      "type": "movie",
+      "name": "Baba Beni Güldürsene",
+      "poster": "https://image.tmdb.org/t/p/w500/guiGYGiUQFh6QWbpqtiLjGQR6ia.jpg",
+      "background": "https://image.tmdb.org/t/p/original/gkfHBqMWedt15joiTdHDxOQYo1n.jpg",
+      "genres": [
+        "Komedi",
+        "Aile"
+      ],
+      "releaseInfo": "2024",
+      "description": "Sıkıcı hayatını sakarlıklarıyla zorlaştıran baba Murat ve üstün potansiyelli kızı, okulda sosyal sorunlar yaşayan ve ötekileştirilen Ayşenaz, babasıyla da keyifli vakit geçiremez. Kızının kendisini sıkıcı bulduğunu öğrenen Murat, eğlenceli ve komik biri olmaya çalışırken bocalar. İkilinin yaşadığı zorlu ve tehlikeli bir macera, birbirlerini daha iyi tanımalarına aracılık edecektir.",
+      "runtime": ""
+    },
+    {
+      "id": "tt22470752",
+      "type": "movie",
+      "name": "Kuzenler Firarda",
+      "poster": "https://image.tmdb.org/t/p/w500/51aCdGhBuK8BfwgEULkypFcibht.jpg",
+      "background": "https://image.tmdb.org/t/p/original/dNb0b9W1PhmFJEUszGLrM6JWwMt.jpg",
+      "genres": [
+        "Komedi",
+        "Aile"
+      ],
+      "releaseInfo": "2022",
+      "description": "Bir Ege kasabasında yaşayan iki teyze kızı Fatma ve Ayşe, taşranın yoksunluğundan bıkıp İzmir’e doğru macera dolu bir yolculuğa çıkar. Kuzenlerin sosyal medya paylaşımları yüzünden kasaba halkı yolculuktan haberdar olur ve peşlerine düşerler.",
+      "runtime": "95 min"
+    },
+    {
+      "id": "tt10923334",
+      "type": "movie",
+      "name": "Her Şeye Rağmen",
+      "poster": "https://image.tmdb.org/t/p/w500/oTgOdE9ghlQhwab7NbSihzEmr0x.jpg",
+      "background": "https://image.tmdb.org/t/p/original/uTH0z94C5RtM1EtHtBvFl1ZYqxQ.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2023",
+      "description": "Her Şeye Rağmen, dibe vurmak kadar yıldızlara yükselmenin de münkün olduğu hayatta, soğukkanlılıkla hedeflere yürümenin önemini konu ediyor. Sevgisiz ve şiddet dolu bir ortamda büyüyen genç bir adam, hayata sıfırdan başlar. Kariyer basamaklarını teker teker tırmanan adam, dünya çağında bir network ustası olur. Ancak o, çocukluk yaralarıyla yüzleşmenin yükünü ömür boyu omuzlarında taşır. Filmde, her ne kadar zor olsa da hayatta aşılamayacak hiçbir engel olmadığı gözler önüne seriliyor.",
+      "runtime": "118 min"
+    },
+    {
+      "id": "tt1523583",
+      "type": "movie",
+      "name": "7 Kocalı Hürmüz",
+      "poster": "https://image.tmdb.org/t/p/w500/fLgQO8D6oPfZCnQSs6kmHVmIkBw.jpg",
+      "background": "https://image.tmdb.org/t/p/original/wY5OLEEVEt9rw1U0gDHy0KsS8V4.jpg",
+      "genres": [
+        "Komedi",
+        "Tarih",
+        "Romantik",
+        "Müzik"
+      ],
+      "releaseInfo": "2009",
+      "description": "1800'lü yılların sonlarında İstanbul Taşkasap’ta yaşayan Hürmüz, değişik mesleklerden altı kişiyle hiçbir yasal yanı olmadan evlenmiştir. Her kocasını haftanın bir günü ağırlamakta, gönüllerini hoş etmekte, onlardan hediyeler almakta ve ekonomik sorunlarını çözmektedir. Ancak, onun gönlü berber eşinin dükkânında gördüğü doktordadır. Bir hastalık uyduran Hürmüz doktoru da evine getirtir. Doktor da ona âşık olur... Bu andan sonra doktor ve Hürmüz, kendilerini karmaşık olduğu kadar, gülünç gelişmeler karşısında bulurlar.",
+      "runtime": "122 min"
+    },
+    {
+      "id": "tt6679498",
+      "type": "movie",
+      "name": "Sarı Sıcak",
+      "poster": "https://image.tmdb.org/t/p/w500/p0MvRqQg7eEEq4wxhjUzXdGnoSU.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rRs91vTTvJ4uMEK2Db0sCXNxjIz.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2017",
+      "description": "Artan endüstrileşmeyle birlikte fabrikaların arasında sıkışıp kalmış bir sebze tarlası ve büyük maddi sorunlarına rağmen geleneksel tarım yöntemlerinde direnip hayata tutunmaya çalışan göçmen bir aile… Ailenin içinde bulunduğu bu duruma rağmen küçük oğul İbrahim, kendisi için farklı bir geleceğin hayallerini kurmaktadır. Oysa bir hayali gerçeğe dönüştürmek ve kaderini kendi ellerine alabilmek o kadar da kolay olmayacaktır.",
+      "runtime": "85 min"
+    },
+    {
+      "id": "tt32045603",
+      "type": "movie",
+      "name": "Aynı İpte Asılı",
+      "poster": "https://image.tmdb.org/t/p/w500/5nnzzRIiN3V3WLU6ZPosPNYlqh3.jpg",
+      "background": "https://image.tmdb.org/t/p/original/5LxX57b7kxqmCr81N2ZHsuJyJ4K.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2024",
+      "description": "Gençlik hayallerinin ve kaygılarının derinine inen Barış Demirdelen’in çıkış filmi, hayat dolu bir samimiyete sahip. Arkadaşlık, aşk ve iş yaşamının labirentlerinde dolanan genç yetişkinleri odağa alan Aynı İpte Asılı, doğallığıyla Amerikan mumblecore filmlerini hatırlatıyor.",
+      "runtime": "112 min"
+    },
+    {
+      "id": "tt12830570",
+      "type": "movie",
+      "name": "Sihirli Orman: Peri Kraliçesi",
+      "poster": "https://image.tmdb.org/t/p/w500/imY7C68UFxwM6N2enOSzfrzIVKG.jpg",
+      "background": "https://image.tmdb.org/t/p/original/mpqNlY7Cp9lVMXyEwKjn6AMcBT2.jpg",
+      "genres": [
+        "Aile",
+        "Fantastik"
+      ],
+      "releaseInfo": "2022",
+      "description": "Film, sihirli bir ormanda yaşayan peri kraliçesi ve onun arkadaşlarının maceralarını anlatır. Peri kraliçesi, ormanı ve içinde yaşayan canlıları korumak için kötü güçlerle mücadele eder. Hikâye, dostluk, cesaret ve doğanın korunması gibi temaları işlerken, izleyicilere büyüleyici bir dünyanın kapılarını açar.",
+      "runtime": "80 min"
+    },
+    {
+      "id": "tt13925470",
+      "type": "movie",
+      "name": "Yağmur Rengi",
+      "poster": "https://image.tmdb.org/t/p/w500/cgDg5DKcMc3WZAA47wkW0LncnPM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/hEmauSUmZHtW3CsBAtOA73DWVnK.jpg",
+      "genres": [
+        "Komedi",
+        "Dram"
+      ],
+      "releaseInfo": "2021",
+      "description": "Kamu yararına elektrik trafolarına resimler çizen Yağmur, çocukluk travmalarından kurtulmak için girdiği bu yolda hayatı boyunca özlemini çektiği samimi ve sıcak bir mahalle ortamına girer. Bu yeni serüven Yağmur için hem özlemini çektiği aile sıcaklığı hasretini dindirecek, hem de kalbindeki aşk acısını unutacağı yepyeni bir hayatın kapılarını aralayacaktır.",
+      "runtime": "101 min"
+    },
+    {
+      "id": "tt16538720",
+      "type": "movie",
+      "name": "Amatör Hayat",
+      "poster": "https://image.tmdb.org/t/p/w500/vKRtEDfZkbDZoSthGSa1MlqyTv5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/30MnKXbqWFQajEDB4WN6dMlglfv.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2022",
+      "description": "Türkiye'nin en iyi futbolcusu Ayhan Varol, katılması gereken bir kampın uçuşunu kaçırdı. Menajeri Sadi bu duruma sinirlenip kendisi için özel bir uçak ayarlayacakken, lüks arabasına yetişeceğini söyleyip havalandı. Dışarı çıkarken bir ağaca çarpar ve yolunda kaybolan bir ineğe çarpmamak için hafızasını kaybeder.",
+      "runtime": "124 min"
+    },
+    {
+      "id": "tt32154050",
+      "type": "movie",
+      "name": "Para Nerede?",
+      "poster": "https://image.tmdb.org/t/p/w500/rmaPrTnYAZjWz6Vdpf7faK6CcXJ.jpg",
+      "background": "",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2024",
+      "description": "Necip, bir akşam trafik kazası geçirdi. Kazanın şiddetiyle kafasına aldığı darbe nedeniyle bilincini kaybetti. Hastaneye kaldırıldığında, doktorlar onun hafıza kaybı yaşadığını teşhis etti. Yakınlarına ulaşmak için hastane yetkilileri, Necip'in kimlik bilgilerini kullanarak haber vermeye çalıştı.",
+      "runtime": "120 min"
+    },
+    {
+      "id": "tt32162245",
+      "type": "movie",
+      "name": "Çiftliğimin Hanımı",
+      "poster": "https://image.tmdb.org/t/p/w500/aVjZEeZHcU99fPsF8Tqna8vs7CI.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nEYr4azQxu3WkuzTBgxxzZkiI1C.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2024",
+      "description": "Yasemin babasının kötüye giden işlerini kurtarmak için zengin ama mütevazı bir hayat yaşayan çiftlik sahibi bir ailenin oğlu Mehmet ile evlenmek zorunda kalır. Türlü oyunlarla evliliğe ikna edip, istediğini alır almaz ayrılmak için çabaladığı Mehmet’i terk edip kaçar. Neler olduğunu anlayamayan Mehmet kredi kartı takibiyle karısının yerini bulur. Hesaplaşmalar, ortaya saçılan gerçekler ve yaşanılan pişmanlıklar…",
+      "runtime": "110 min"
+    },
+    {
+      "id": "tt31925259",
+      "type": "movie",
+      "name": "3. Gün",
+      "poster": "https://image.tmdb.org/t/p/w500/mGTD4l4AMtHxsAXRzJgW8Y77wsj.jpg",
+      "background": "https://image.tmdb.org/t/p/original/87sAKA5jY5x3z9HAxV2YUgbnnVO.jpg",
+      "genres": [
+        "Komedi",
+        "Romantik"
+      ],
+      "releaseInfo": "2024",
+      "description": "İzmir'in sıcak esintisi altında yaşayan Elya, şehrin zengin lezzetlerinden ilham alarak gastronomi alanında yüksek lisans yapma kararı almıştı. Ancak bu karar, annesinin evlenip 'garanti bir hayat' yaşaması konusundaki baskılarıyla çatışıyordu. Elya, ailesinin beklentileriyle kendi hayalleri arasında bir denge kurmak zorundaydı. Bu süreçte, kurumsal dünyada çalışarak hem istikrarlı bir kariyer hem de gastronomi tutkusunu yaşamanın yollarını arıyordu. Elya için, kendi tutkusuyla ailenin beklentileri arasında bir denge kurmak, kişisel ve profesyonel gelişiminin anahtarıydı.",
+      "runtime": "98 min"
+    },
+    {
+      "id": "tt32153490",
+      "type": "movie",
+      "name": "Torun Davası",
+      "poster": "https://image.tmdb.org/t/p/w500/bF8WiE1natWIemswtEqWRWIv4pb.jpg",
+      "background": "https://image.tmdb.org/t/p/original/fO7Wq86C261l2AxozNQRo5kqtP7.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2024",
+      "description": "Torun sevdası ile yanıp tutuşan Hacer’in iki kızı vardır. Büyük kızı Hayat boşanıp yanına yerleşmiştir. Küçük kızı Hediye ise evlidir ama boşanma kararı almak üzeredir.",
+      "runtime": "112 min"
+    },
+    {
+      "id": "tt21105702",
+      "type": "movie",
+      "name": "Kadın Kafası",
+      "poster": "https://image.tmdb.org/t/p/w500/qQisuOPJj58fX2kPKHu2PBJTuEm.jpg",
+      "background": "https://image.tmdb.org/t/p/original/bAFM0GSVLWpPb3OK6YFA3fCgGMX.jpg",
+      "genres": [
+        "Komedi",
+        "Romantik"
+      ],
+      "releaseInfo": "2022",
+      "description": "Kendini iş ve kariyerine adamış Beyza, henüz bir ay önce tanıştığı Tankut'un sürpriz evlilik teklifi sonrasında ne yapacağını bilemez ve çocukluk arkadaşlarından nasıl davranması gerektiği konusunda yardım istemeye karar verir. Beyza'nın en yakın arkadaşlarından biri olan Aylin, aile terapisti olmasının verdiği avantajla Beyza'ya yardım etmeye kalkınca da olaylar hiç kimsenin hesaplamadığı bir yöne evrilmeye başlar.",
+      "runtime": "89 min"
+    },
+    {
+      "id": "tt26763545",
+      "type": "movie",
+      "name": "İbi: Doğu Ekspresi'nin Gizemi",
+      "poster": "https://image.tmdb.org/t/p/w500/t14z21Fd2dyFeB26o1Z3Esg6Erw.jpg",
+      "background": "",
+      "genres": [
+        "Animasyon"
+      ],
+      "releaseInfo": "2023",
+      "description": "Film, ailesi ve arkadaşlarıyla birlikte Doğu Ekspresi ile Kars'a gitmek için yola çıkan İbi'nin, treni Bilinmez Diyar'a ışınlayan kötü bir masal kahramanına karşı arkadaşlarıyla birlikte verdiği mücadeleyi konu ediniyor.",
+      "runtime": "77 min"
+    },
+    {
+      "id": "tt26217892",
+      "type": "movie",
+      "name": "Cille 2069",
+      "poster": "https://image.tmdb.org/t/p/w500/yDuA1KeGEkvMW4VjeXgsgNsp9gT.jpg",
+      "background": "",
+      "genres": [
+        "Animasyon"
+      ],
+      "releaseInfo": "2024",
+      "description": "Cille çizgi dizisinin son bölümünde Kayra; Rehzen'e tacı devrettikten 15 sene sonra denizlerden gelen bir kavim İnsanların ve Ezakilerin Dünyasına teknoloji getirmiştir. İnsanları ve Ezakileri teknolojiye bağımlı kıldıktan sonra karşılığını almak isteyen kavim, tüm Cilleleri teslim alacağı son bir şölen tertip eder. Nükleer savaştan sonra enerji kaynakları tükenmiş Dünya'nın son umudu olan Cilleleri kaybetmemek için Kayra ve arkadaşları, 2069 yılında bu kavme karşı büyük bir savaş vermek zorundadır.",
+      "runtime": "77 min"
+    },
+    {
+      "id": "tt27459388",
+      "type": "movie",
+      "name": "Cam Perde",
+      "poster": "https://image.tmdb.org/t/p/w500/hzWkK27IAtPGq1jyWr9RniWeNK1.jpg",
+      "background": "https://image.tmdb.org/t/p/original/nRtdh3eopsUrk0EHUB9dDdJAKmY.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2023",
+      "description": "Dört yaşındaki oğluyla yaşayan Nesrin, bir yandan eski eşi Ömer'in baskıları ve bürokratik engellerle uğraşırken bir yandan da sevgilisi Selim ile olan birlikteliğinde kritik kararlar almanın eşiğindedir.",
+      "runtime": "95 min"
+    },
+    {
+      "id": "tt15399512",
+      "type": "movie",
+      "name": "Zuhal",
+      "poster": "https://image.tmdb.org/t/p/w500/3jTfzAwh1ROdRLFFWK8TtPBYuCE.jpg",
+      "background": "https://image.tmdb.org/t/p/original/AkAnvJB9EYih3tdDne4a7Ib8QrF.jpg",
+      "genres": [
+        "Dram"
+      ],
+      "releaseInfo": "2022",
+      "description": "İstanbul'un merkezinde yalnız yaşayan ve başarılı bir avukat olan Zuhal, bir gün evinde bir kedi sesi duymaya başlar. Gecelerce onu uyutmayan bu sesin kaynağını bulmak için apartmanda çaresiz bir arayışa çıkan Zuhal, o güne dek hiç iletişim kurmadığı komşularının tek tek kapılarını çalar. Kediyi bulamadıkça daha da absürtleşen bu arayış, bildiği doğruların peşinden giden Zuhal için yeni bir uyanışın da başlangıcı olacaktır.",
+      "runtime": "88 min"
+    },
+    {
+      "id": "tt30440590",
+      "type": "movie",
+      "name": "Faruk",
+      "poster": "https://image.tmdb.org/t/p/w500/gmBo2VGGEHInN8rfsbSzvxEr99c.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rbrvhVYqVDNtScBcwA86hXwdCqs.jpg",
+      "genres": [
+        "Belgesel",
+        "Dram"
+      ],
+      "releaseInfo": "2025",
+      "description": "Berlin Film Festivali’nde Türkiye’den gösterilen tek uzun metrajlı filmin ana kahramanı, 90’lı yaşlarındaki, filme adını veren Faruk. On yıllardır oturduğu apartmanın yıkımı yaklaşırken Faruk, kaçınılmaz sonu geciktirme umuduyla bina yönetimi toplantılarına katılır. Kızının bu konu üzerine çektiği filmin ana kahramanına dönüştüğündeyse gerçek ile kurgu yavaş yavaş iç içe geçmeye başlar.",
+      "runtime": "97 min"
+    },
+    {
+      "id": "tt22801038",
+      "type": "movie",
+      "name": "Aşkın Saati 19.03",
+      "poster": "https://image.tmdb.org/t/p/w500/AokBP6rTcfWr1L7GoSFjU7rs8a7.jpg",
+      "background": "https://image.tmdb.org/t/p/original/rJcr3mzc5NneZYBxfH9N35BxaSs.jpg",
+      "genres": [
+        "Komedi"
+      ],
+      "releaseInfo": "2023",
+      "description": "Uzun aradan sonra Beşiktaş’ın şampiyon olması, herkesi sevince boğar. Ancak şampiyonluk maçını izlerken dedesinin kalp krizi geçirip ölmesiyle torunu Oktay büyük bir hüzne kapılır. Artık bir yetişkin olan Oktay’ın hayatı, bir gün yolda bir anahtarlık bulmasıyla bambaşka bir hal alır. Anahtarlığı bulduğu dükkana giren Oktay, burada hayatının aşkı ile tanışır. Oktay’ın üniversite öğrencisi olan sevgilisi Aslı, Beşiktaş semti üzerine tez yazmaktadır. Gün geçtikçe birbirlerine daha çok bağlanan Aslı ile Oktay’ın mutluluğu evlilikle sonlanacak mıdır?",
+      "runtime": "98 min"
+    },
+    {
+      "id": "tt32097328",
+      "type": "movie",
+      "name": "Biz Ayrılamayız",
+      "poster": "https://image.tmdb.org/t/p/w500/ar61IP7r47eYP0vRbB4sTeIhCk5.jpg",
+      "background": "https://image.tmdb.org/t/p/original/ArSKx0JkB2d0XkibTecZoOoUaAd.jpg",
+      "genres": [
+        "Romantik",
+        "Komedi",
+        "TV film"
+      ],
+      "releaseInfo": "2024",
+      "description": "Metin ve Hande uzun bir sevgililik döneminden sonra evlenmiş ama bir süre sonra boşanmışlardır. İkilinin anneleri bir gün sürpriz yapıp evlerine gelir. Hande’nin annesi Leman kalp hastası olduğu için Hande ve Metin ailelerine boşandıklarını söylememişlerdir. Aileler gelince Hande Metin’i arayıp annelerin geleceğini söyler ve onlar ordayken boşanmamış numarası yapmaları gerektiğini anlatır.",
+      "runtime": "107 min"
+    }
+  ]
+}
