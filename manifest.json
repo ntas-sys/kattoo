@@ -1,15 +1,30 @@
 {
-  "id": "org.seninadın.katalog",
+  "id": "community.yerli.film.katalog",
   "version": "1.0.0",
-  "name": "Türk Film",
-  "description": "filmler.",
-  "logo": "https://raw.githubusercontent.com/Stremio/stremio-shell/master/images/stremio_logo.png",
+  "name": "Yerli Film Kataloğu",
+  "description": "Türk yerli filmler kataloğu — IMDB ID ile eşleşir, torrent/debrid eklentileriyle uyumlu.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
   "catalogs": [
     {
       "type": "movie",
-      "id": "top",
-      "name": "Film Koleksiyonu"
+      "id": "yerli-filmler",
+      "name": "Yerli Filmler",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
     }
   ],
-  "resources": ["catalog"]
+  "behaviorHints": {
+    "adult": false,
+    "p2p": false,
+    "configurable": false
+  }
 }
