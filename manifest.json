@@ -1,16 +1,15 @@
 {
-  "id": "com.custom.static.catalog",
+  "id": "org.seninadın.katalog",
   "version": "1.0.0",
-  "name": "My Static Catalog",
-  "description": "Prebuilt TMDb catalog from CSV",
-  "resources": ["catalog"],
-  "types": ["movie"],
+  "name": "Film Koleksiyonum",
+  "description": "900 film",
+  "logo": "https://raw.githubusercontent.com/Stremio/stremio-shell/master/images/stremio_logo.png",
   "catalogs": [
     {
       "type": "movie",
-      "id": "my-movies",
-      "name": "My Movies"
+      "id": "top",
+      "name": "Film Koleksiyonu"
     }
   ],
-  "idPrefixes": ["tmdb:"]
+  "resources": ["catalog"]
 }
