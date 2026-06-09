@@ -1,3749 +1,3749 @@
 {
   "metas": [
     {
-      "id": "tmdb:1546963",
+      "tmdbId": 1546963",
       "type": "movie",
-      "name": "Soyut Dışavurumcu Bir Dostluğun Anatomisi Veyahut Yan Yana"
+      "title": "Soyut Dışavurumcu Bir Dostluğun Anatomisi Veyahut Yan Yana"
     },
     {
-      "id": "tmdb:1555331",
+      "tmdbId": 1555331",
       "type": "movie",
-      "name": "D.I.S.C.O."
+      "title": "D.I.S.C.O."
     },
     {
-      "id": "tmdb:1441601",
+      "tmdbId": 1441601",
       "type": "movie",
-      "name": "Zorla Güvenlik"
+      "title": "Zorla Güvenlik"
     },
     {
-      "id": "tmdb:1609689",
+      "tmdbId": 1609689",
       "type": "movie",
-      "name": "Bu İşin Şakası Yok"
+      "title": "Bu İşin Şakası Yok"
     },
     {
-      "id": "tmdb:1091642",
+      "tmdbId": 1091642",
       "type": "movie",
-      "name": "Bildiğin Gibi Değil"
+      "title": "Bildiğin Gibi Değil"
     },
     {
-      "id": "tmdb:1582328",
+      "tmdbId": 1582328",
       "type": "movie",
-      "name": "Sonunda Sen"
+      "title": "Sonunda Sen"
     },
     {
-      "id": "tmdb:180441",
+      "tmdbId": 180441",
       "type": "movie",
-      "name": "Mahmut ile Meryem"
+      "title": "Mahmut ile Meryem"
     },
     {
-      "id": "tmdb:1556616",
+      "tmdbId": 1556616",
       "type": "movie",
-      "name": "Yaz Evi"
+      "title": "Yaz Evi"
     },
     {
-      "id": "tmdb:1555918",
+      "tmdbId": 1555918",
       "type": "movie",
-      "name": "Adile Naşit"
+      "title": "Adile Naşit"
     },
     {
-      "id": "tmdb:1369700",
+      "tmdbId": 1369700",
       "type": "movie",
-      "name": "Paranormal Cuma"
+      "title": "Paranormal Cuma"
     },
     {
-      "id": "tmdb:1364496",
+      "tmdbId": 1364496",
       "type": "movie",
-      "name": "Yaren Leylek"
+      "title": "Yaren Leylek"
     },
     {
-      "id": "tmdb:1483088",
+      "tmdbId": 1483088",
       "type": "movie",
-      "name": "Aşkın Yüzü"
+      "title": "Aşkın Yüzü"
     },
     {
-      "id": "tmdb:1362376",
+      "tmdbId": 1362376",
       "type": "movie",
-      "name": "Hiçbir Şey Normal Değil"
+      "title": "Hiçbir Şey Normal Değil"
     },
     {
-      "id": "tmdb:1005602",
+      "tmdbId": 1005602",
       "type": "movie",
-      "name": "Giderayak"
+      "title": "Giderayak"
     },
     {
-      "id": "tmdb:1457965",
+      "tmdbId": 1457965",
       "type": "movie",
-      "name": "Aslan Hürkuş 4: Hürjet Oyunda"
+      "title": "Aslan Hürkuş 4: Hürjet Oyunda"
     },
     {
-      "id": "tmdb:1505910",
+      "tmdbId": 1505910",
       "type": "movie",
-      "name": "Düğün Evi"
+      "title": "Düğün Evi"
     },
     {
-      "id": "tmdb:1148218",
+      "tmdbId": 1148218",
       "type": "movie",
-      "name": "Beraber"
+      "title": "Beraber"
     },
     {
-      "id": "tmdb:781696",
+      "tmdbId": 781696",
       "type": "movie",
-      "name": "Ata Demirer Gazinosu"
+      "title": "Ata Demirer Gazinosu"
     },
     {
-      "id": "tmdb:1407345",
+      "tmdbId": 1407345",
       "type": "movie",
-      "name": "Doğulu"
+      "title": "Doğulu"
     },
     {
-      "id": "tmdb:1318099",
+      "tmdbId": 1318099",
       "type": "movie",
-      "name": "Gülizar"
+      "title": "Gülizar"
     },
     {
-      "id": "tmdb:1590455",
+      "tmdbId": 1590455",
       "type": "movie",
-      "name": "Efendiler"
+      "title": "Efendiler"
     },
     {
-      "id": "tmdb:1591193",
+      "tmdbId": 1591193",
       "type": "movie",
-      "name": "Ona Niyet Sana Kısmet"
+      "title": "Ona Niyet Sana Kısmet"
     },
     {
-      "id": "tmdb:1462664",
+      "tmdbId": 1462664",
       "type": "movie",
-      "name": "Atlet"
+      "title": "Atlet"
     },
     {
-      "id": "tmdb:1564183",
+      "tmdbId": 1564183",
       "type": "movie",
-      "name": "Hep Yek: Loto"
+      "title": "Hep Yek: Loto"
     },
     {
-      "id": "tmdb:1368334",
+      "tmdbId": 1368334",
       "type": "movie",
-      "name": "Acı Kahve"
+      "title": "Acı Kahve"
     },
     {
-      "id": "tmdb:1462796",
+      "tmdbId": 1462796",
       "type": "movie",
-      "name": "Bölük Pörçük – Bir Tuncel Kurtiz Biyografisi"
+      "title": "Bölük Pörçük – Bir Tuncel Kurtiz Biyografisi"
     },
     {
-      "id": "tmdb:1460028",
+      "tmdbId": 1460028",
       "type": "movie",
-      "name": "Baldız"
+      "title": "Baldız"
     },
     {
-      "id": "tmdb:1469030",
+      "tmdbId": 1469030",
       "type": "movie",
-      "name": "Sıcak Büfe"
+      "title": "Sıcak Büfe"
     },
     {
-      "id": "tmdb:1602310",
+      "tmdbId": 1602310",
       "type": "movie",
-      "name": "Caretta Bobi"
+      "title": "Caretta Bobi"
     },
     {
-      "id": "tmdb:1386792",
+      "tmdbId": 1386792",
       "type": "movie",
-      "name": "Lefter: Bir Ordinaryüs Hikayesi"
+      "title": "Lefter: Bir Ordinaryüs Hikayesi"
     },
     {
-      "id": "tmdb:1522377",
+      "tmdbId": 1522377",
       "type": "movie",
-      "name": "İki Dünya Bir Dilek"
+      "title": "İki Dünya Bir Dilek"
     },
     {
-      "id": "tmdb:1530439",
+      "tmdbId": 1530439",
       "type": "movie",
-      "name": "Aile Meselesi"
+      "title": "Aile Meselesi"
     },
     {
-      "id": "tmdb:1255336",
+      "tmdbId": 1255336",
       "type": "movie",
-      "name": "Bana Beni Anlat"
+      "title": "Bana Beni Anlat"
     },
     {
-      "id": "tmdb:1250054",
+      "tmdbId": 1250054",
       "type": "movie",
-      "name": "C Takımı 2"
+      "title": "C Takımı 2"
     },
     {
-      "id": "tmdb:569094",
+      "tmdbId": 569094",
       "type": "movie",
-      "name": "Örümcek-Adam: Örümcek-Evrenine Geçiş"
+      "title": "Örümcek-Adam: Örümcek-Evrenine Geçiş"
     },
     {
-      "id": "tmdb:1320408",
+      "tmdbId": 1320408",
       "type": "movie",
-      "name": "Gecenin Kıyısı"
+      "title": "Gecenin Kıyısı"
     },
     {
-      "id": "tmdb:956842",
+      "tmdbId": 956842",
       "type": "movie",
-      "name": "Beni Ay'a Uçur"
+      "title": "Beni Ay'a Uçur"
     },
     {
-      "id": "tmdb:1312650",
+      "tmdbId": 1312650",
       "type": "movie",
-      "name": "Fidan"
+      "title": "Fidan"
     },
     {
-      "id": "tmdb:1441607",
+      "tmdbId": 1441607",
       "type": "movie",
-      "name": "Ayakçı"
+      "title": "Ayakçı"
     },
     {
-      "id": "tmdb:1257928",
+      "tmdbId": 1257928",
       "type": "movie",
-      "name": "Mükemmel Aile"
+      "title": "Mükemmel Aile"
     },
     {
-      "id": "tmdb:491534",
+      "tmdbId": 491534",
       "type": "movie",
-      "name": "Dede Korkut Hikayeleri: Bamsı Beyrek"
+      "title": "Dede Korkut Hikayeleri: Bamsı Beyrek"
     },
     {
-      "id": "tmdb:940573",
+      "tmdbId": 940573",
       "type": "movie",
-      "name": "Daha İyi Yenil"
+      "title": "Daha İyi Yenil"
     },
     {
-      "id": "tmdb:926774",
+      "tmdbId": 926774",
       "type": "movie",
-      "name": "Yaban"
+      "title": "Yaban"
     },
     {
-      "id": "tmdb:1084293",
+      "tmdbId": 1084293",
       "type": "movie",
-      "name": "Kadınlara Mahsus"
+      "title": "Kadınlara Mahsus"
     },
     {
-      "id": "tmdb:1474574",
+      "tmdbId": 1474574",
       "type": "movie",
-      "name": "Sihirli Annem: Hepimiz Biriz"
+      "title": "Sihirli Annem: Hepimiz Biriz"
     },
     {
-      "id": "tmdb:474718",
+      "tmdbId": 474718",
       "type": "movie",
-      "name": "Damat Takımı"
+      "title": "Damat Takımı"
     },
     {
-      "id": "tmdb:1420107",
+      "tmdbId": 1420107",
       "type": "movie",
-      "name": "Ufkun Ötesinde"
+      "title": "Ufkun Ötesinde"
     },
     {
-      "id": "tmdb:703976",
+      "tmdbId": 703976",
       "type": "movie",
-      "name": "Bir Kahramanın Rüyası"
+      "title": "Bir Kahramanın Rüyası"
     },
     {
-      "id": "tmdb:1411076",
+      "tmdbId": 1411076",
       "type": "movie",
-      "name": "Dayı: Bir Adamın Hikâyesi 2"
+      "title": "Dayı: Bir Adamın Hikâyesi 2"
     },
     {
-      "id": "tmdb:1502089",
+      "tmdbId": 1502089",
       "type": "movie",
-      "name": "Bir Ömrün Sonbaharı"
+      "title": "Bir Ömrün Sonbaharı"
     },
     {
-      "id": "tmdb:1074108",
+      "tmdbId": 1074108",
       "type": "movie",
-      "name": "Cenazemize Hoş Geldiniz"
+      "title": "Cenazemize Hoş Geldiniz"
     },
     {
-      "id": "tmdb:1391389",
+      "tmdbId": 1391389",
       "type": "movie",
-      "name": "Paranoya"
+      "title": "Paranoya"
     },
     {
-      "id": "tmdb:1426546",
+      "tmdbId": 1426546",
       "type": "movie",
-      "name": "Her Şey Yolunda"
+      "title": "Her Şey Yolunda"
     },
     {
-      "id": "tmdb:1508884",
+      "tmdbId": 1508884",
       "type": "movie",
-      "name": "Son Bir Tatil"
+      "title": "Son Bir Tatil"
     },
     {
-      "id": "tmdb:1249054",
+      "tmdbId": 1249054",
       "type": "movie",
-      "name": "Meşru Gayrimeşru"
+      "title": "Meşru Gayrimeşru"
     },
     {
-      "id": "tmdb:1359414",
+      "tmdbId": 1359414",
       "type": "movie",
-      "name": "Hükümet Bey"
+      "title": "Hükümet Bey"
     },
     {
-      "id": "tmdb:1054673",
+      "tmdbId": 1054673",
       "type": "movie",
-      "name": "Mucize Aynalar"
+      "title": "Mucize Aynalar"
     },
     {
-      "id": "tmdb:599605",
+      "tmdbId": 599605",
       "type": "movie",
-      "name": "Tahin Pekmez"
+      "title": "Tahin Pekmez"
     },
     {
-      "id": "tmdb:1310321",
+      "tmdbId": 1310321",
       "type": "movie",
-      "name": "Hakkı"
+      "title": "Hakkı"
     },
     {
-      "id": "tmdb:649307",
+      "tmdbId": 649307",
       "type": "movie",
-      "name": "Başımız Belada"
+      "title": "Başımız Belada"
     },
     {
-      "id": "tmdb:1399943",
+      "tmdbId": 1399943",
       "type": "movie",
-      "name": "Her Şeyin Başı Merkür"
+      "title": "Her Şeyin Başı Merkür"
     },
     {
-      "id": "tmdb:1302116",
+      "tmdbId": 1302116",
       "type": "movie",
-      "name": "Reel İstanbul Organize"
+      "title": "Reel İstanbul Organize"
     },
     {
-      "id": "tmdb:1277192",
+      "tmdbId": 1277192",
       "type": "movie",
-      "name": "Tur Rehberi"
+      "title": "Tur Rehberi"
     },
     {
-      "id": "tmdb:1270804",
+      "tmdbId": 1270804",
       "type": "movie",
-      "name": "Bodrum Seferi"
+      "title": "Bodrum Seferi"
     },
     {
-      "id": "tmdb:1085156",
+      "tmdbId": 1085156",
       "type": "movie",
-      "name": "Öldüm Bittim"
+      "title": "Öldüm Bittim"
     },
     {
-      "id": "tmdb:518835",
+      "tmdbId": 518835",
       "type": "movie",
-      "name": "Borç"
+      "title": "Borç"
     },
     {
-      "id": "tmdb:1243238",
+      "tmdbId": 1243238",
       "type": "movie",
-      "name": "Daha İyi Bir Yarın"
+      "title": "Daha İyi Bir Yarın"
     },
     {
-      "id": "tmdb:518579",
+      "tmdbId": 518579",
       "type": "movie",
-      "name": "Bağcık"
+      "title": "Bağcık"
     },
     {
-      "id": "tmdb:1195978",
+      "tmdbId": 1195978",
       "type": "movie",
-      "name": "Horoz Dövüşü"
+      "title": "Horoz Dövüşü"
     },
     {
-      "id": "tmdb:1390355",
+      "tmdbId": 1390355",
       "type": "movie",
-      "name": "Oflu Hoca 4"
+      "title": "Oflu Hoca 4"
     },
     {
-      "id": "tmdb:52139",
+      "tmdbId": 52139",
       "type": "movie",
-      "name": "Osmanlı Cumhuriyeti"
+      "title": "Osmanlı Cumhuriyeti"
     },
     {
-      "id": "tmdb:32345",
+      "tmdbId": 32345",
       "type": "movie",
-      "name": "Aşk Geliyorum Demez"
+      "title": "Aşk Geliyorum Demez"
     },
     {
-      "id": "tmdb:1229442",
+      "tmdbId": 1229442",
       "type": "movie",
-      "name": "Tay 2: Ebabil Takımı"
+      "title": "Tay 2: Ebabil Takımı"
     },
     {
-      "id": "tmdb:474308",
+      "tmdbId": 474308",
       "type": "movie",
-      "name": "Körfez"
+      "title": "Körfez"
     },
     {
-      "id": "tmdb:1290017",
+      "tmdbId": 1290017",
       "type": "movie",
-      "name": "Geniş Aile 4: Cevahir & Ulvi"
+      "title": "Geniş Aile 4: Cevahir & Ulvi"
     },
     {
-      "id": "tmdb:1320279",
+      "tmdbId": 1320279",
       "type": "movie",
-      "name": "Hemme’nin Öldüğü Günlerden Biri"
+      "title": "Hemme’nin Öldüğü Günlerden Biri"
     },
     {
-      "id": "tmdb:1044098",
+      "tmdbId": 1044098",
       "type": "movie",
-      "name": "Annesinin Kuzusu"
+      "title": "Annesinin Kuzusu"
     },
     {
-      "id": "tmdb:1117308",
+      "tmdbId": 1117308",
       "type": "movie",
-      "name": "Bekle Beni Sevgilim"
+      "title": "Bekle Beni Sevgilim"
     },
     {
-      "id": "tmdb:988459",
+      "tmdbId": 988459",
       "type": "movie",
-      "name": "Sünnet Çocuğu"
+      "title": "Sünnet Çocuğu"
     },
     {
-      "id": "tmdb:1276050",
+      "tmdbId": 1276050",
       "type": "movie",
-      "name": "Beyaz Eşya"
+      "title": "Beyaz Eşya"
     },
     {
-      "id": "tmdb:1225623",
+      "tmdbId": 1225623",
       "type": "movie",
-      "name": "Biricik Sevgilim"
+      "title": "Biricik Sevgilim"
     },
     {
-      "id": "tmdb:1239385",
+      "tmdbId": 1239385",
       "type": "movie",
-      "name": "Afacanlar Kampta"
+      "title": "Afacanlar Kampta"
     },
     {
-      "id": "tmdb:1017285",
+      "tmdbId": 1017285",
       "type": "movie",
-      "name": "Aşka Dair"
+      "title": "Aşka Dair"
     },
     {
-      "id": "tmdb:1303574",
+      "tmdbId": 1303574",
       "type": "movie",
-      "name": "Kaptan Pengu ve Arkadaşları 4: Buzuldaki Sır"
+      "title": "Kaptan Pengu ve Arkadaşları 4: Buzuldaki Sır"
     },
     {
-      "id": "tmdb:1156208",
+      "tmdbId": 1156208",
       "type": "movie",
-      "name": "Yurt"
+      "title": "Yurt"
     },
     {
-      "id": "tmdb:1290867",
+      "tmdbId": 1290867",
       "type": "movie",
-      "name": "Pelesenk Ailesi"
+      "title": "Pelesenk Ailesi"
     },
     {
-      "id": "tmdb:1285495",
+      "tmdbId": 1285495",
       "type": "movie",
-      "name": "Takıntılar"
+      "title": "Takıntılar"
     },
     {
-      "id": "tmdb:1036487",
+      "tmdbId": 1036487",
       "type": "movie",
-      "name": "Eflâtun"
+      "title": "Eflâtun"
     },
     {
-      "id": "tmdb:1264975",
+      "tmdbId": 1264975",
       "type": "movie",
-      "name": "Büyük Kuşatma"
+      "title": "Büyük Kuşatma"
     },
     {
-      "id": "tmdb:1273171",
+      "tmdbId": 1273171",
       "type": "movie",
-      "name": "Bayramlık"
+      "title": "Bayramlık"
     },
     {
-      "id": "tmdb:1024754",
+      "tmdbId": 1024754",
       "type": "movie",
-      "name": "Sevda Mecburi İstikamet"
+      "title": "Sevda Mecburi İstikamet"
     },
     {
-      "id": "tmdb:263278",
+      "tmdbId": 263278",
       "type": "movie",
-      "name": "Senin Hikayen"
+      "title": "Senin Hikayen"
     },
     {
-      "id": "tmdb:1288455",
+      "tmdbId": 1288455",
       "type": "movie",
-      "name": "Gelin Takımı"
+      "title": "Gelin Takımı"
     },
     {
-      "id": "tmdb:1071222",
+      "tmdbId": 1071222",
       "type": "movie",
-      "name": "Demir Kadın: Neslican"
+      "title": "Demir Kadın: Neslican"
     },
     {
-      "id": "tmdb:1461090",
+      "tmdbId": 1461090",
       "type": "movie",
-      "name": "Para Konuşur"
+      "title": "Para Konuşur"
     },
     {
-      "id": "tmdb:1209857",
+      "tmdbId": 1209857",
       "type": "movie",
-      "name": "Aslan Hürkuş 3: Anka Adası"
+      "title": "Aslan Hürkuş 3: Anka Adası"
     },
     {
-      "id": "tmdb:1501698",
+      "tmdbId": 1501698",
       "type": "movie",
-      "name": "Son Sefer"
+      "title": "Son Sefer"
     },
     {
-      "id": "tmdb:1037839",
+      "tmdbId": 1037839",
       "type": "movie",
-      "name": "Aslan Hürkuş: Görevimiz Gökbey"
+      "title": "Aslan Hürkuş: Görevimiz Gökbey"
     },
     {
-      "id": "tmdb:1507618",
+      "tmdbId": 1507618",
       "type": "movie",
-      "name": "Kar Masalı"
+      "title": "Kar Masalı"
     },
     {
-      "id": "tmdb:930307",
+      "tmdbId": 930307",
       "type": "movie",
-      "name": "Osman Sekiz"
+      "title": "Osman Sekiz"
     },
     {
-      "id": "tmdb:1152590",
+      "tmdbId": 1152590",
       "type": "movie",
-      "name": "Babasının Kızı"
+      "title": "Babasının Kızı"
     },
     {
-      "id": "tmdb:865582",
+      "tmdbId": 865582",
       "type": "movie",
-      "name": "Zamanımızın Bir Kahramanı"
+      "title": "Zamanımızın Bir Kahramanı"
     },
     {
-      "id": "tmdb:477275",
+      "tmdbId": 477275",
       "type": "movie",
-      "name": "Koparan Kardeşler"
+      "title": "Koparan Kardeşler"
     },
     {
-      "id": "tmdb:1357125",
+      "tmdbId": 1357125",
       "type": "movie",
-      "name": "Leydi Di"
+      "title": "Leydi Di"
     },
     {
-      "id": "tmdb:983065",
+      "tmdbId": 983065",
       "type": "movie",
-      "name": "İlişki Doktoru"
+      "title": "İlişki Doktoru"
     },
     {
-      "id": "tmdb:52188",
+      "tmdbId": 52188",
       "type": "movie",
-      "name": "Bekleme Odası"
+      "title": "Bekleme Odası"
     },
     {
-      "id": "tmdb:1591181",
+      "tmdbId": 1591181",
       "type": "movie",
-      "name": "Aile Terbiyesi"
+      "title": "Aile Terbiyesi"
     },
     {
-      "id": "tmdb:823811",
+      "tmdbId": 823811",
       "type": "movie",
-      "name": "Mirasyedi"
+      "title": "Mirasyedi"
     },
     {
-      "id": "tmdb:1169649",
+      "tmdbId": 1169649",
       "type": "movie",
-      "name": "Karganın Uykusu"
+      "title": "Karganın Uykusu"
     },
     {
-      "id": "tmdb:1025377",
+      "tmdbId": 1025377",
       "type": "movie",
-      "name": "Tereddüt Çizgisi"
+      "title": "Tereddüt Çizgisi"
     },
     {
-      "id": "tmdb:477289",
+      "tmdbId": 477289",
       "type": "movie",
-      "name": "Geçmişteki Sır"
+      "title": "Geçmişteki Sır"
     },
     {
-      "id": "tmdb:1590782",
+      "tmdbId": 1590782",
       "type": "movie",
-      "name": "Sev Arkadaş"
+      "title": "Sev Arkadaş"
     },
     {
-      "id": "tmdb:1590780",
+      "tmdbId": 1590780",
       "type": "movie",
-      "name": "Yalandan Sevgilim"
+      "title": "Yalandan Sevgilim"
     },
     {
-      "id": "tmdb:1289477",
+      "tmdbId": 1289477",
       "type": "movie",
-      "name": "Veda Partisi"
+      "title": "Veda Partisi"
     },
     {
-      "id": "tmdb:599694",
+      "tmdbId": 599694",
       "type": "movie",
-      "name": "Aşk Masalı"
+      "title": "Aşk Masalı"
     },
     {
-      "id": "tmdb:1225710",
+      "tmdbId": 1225710",
       "type": "movie",
-      "name": "Tatlı Vatan"
+      "title": "Tatlı Vatan"
     },
     {
-      "id": "tmdb:1109443",
+      "tmdbId": 1109443",
       "type": "movie",
-      "name": "Filme Gel"
+      "title": "Filme Gel"
     },
     {
-      "id": "tmdb:1024179",
+      "tmdbId": 1024179",
       "type": "movie",
-      "name": "Bir Zamanlar Gelecek: 2121"
+      "title": "Bir Zamanlar Gelecek: 2121"
     },
     {
-      "id": "tmdb:1396802",
+      "tmdbId": 1396802",
       "type": "movie",
-      "name": "Satılık Değildir"
+      "title": "Satılık Değildir"
     },
     {
-      "id": "tmdb:1362898",
+      "tmdbId": 1362898",
       "type": "movie",
-      "name": "Anunnakiler"
+      "title": "Anunnakiler"
     },
     {
-      "id": "tmdb:653936",
+      "tmdbId": 653936",
       "type": "movie",
-      "name": "Zátopek"
+      "title": "Zátopek"
     },
     {
-      "id": "tmdb:1034060",
+      "tmdbId": 1034060",
       "type": "movie",
-      "name": "Ölü Mevsim"
+      "title": "Ölü Mevsim"
     },
     {
-      "id": "tmdb:1281192",
+      "tmdbId": 1281192",
       "type": "movie",
-      "name": "Bakkal Amca: Mahmut Tuncer"
+      "title": "Bakkal Amca: Mahmut Tuncer"
     },
     {
-      "id": "tmdb:1208364",
+      "tmdbId": 1208364",
       "type": "movie",
-      "name": "Su Yüzü"
+      "title": "Su Yüzü"
     },
     {
-      "id": "tmdb:1146248",
+      "tmdbId": 1146248",
       "type": "movie",
-      "name": "Geri Sayım"
+      "title": "Geri Sayım"
     },
     {
-      "id": "tmdb:1526788",
+      "tmdbId": 1526788",
       "type": "movie",
-      "name": "Yeniden Başlamak"
+      "title": "Yeniden Başlamak"
     },
     {
-      "id": "tmdb:1230436",
+      "tmdbId": 1230436",
       "type": "movie",
-      "name": "Bulutların Üstünde"
+      "title": "Bulutların Üstünde"
     },
     {
-      "id": "tmdb:1082308",
+      "tmdbId": 1082308",
       "type": "movie",
-      "name": "Türkler Çıldırmış Olmalı 2: Mavi Vatan"
+      "title": "Türkler Çıldırmış Olmalı 2: Mavi Vatan"
     },
     {
-      "id": "tmdb:943423",
+      "tmdbId": 943423",
       "type": "movie",
-      "name": "Devrim"
+      "title": "Devrim"
     },
     {
-      "id": "tmdb:1217192",
+      "tmdbId": 1217192",
       "type": "movie",
-      "name": "Arap Kadri"
+      "title": "Arap Kadri"
     },
     {
-      "id": "tmdb:1068259",
+      "tmdbId": 1068259",
       "type": "movie",
-      "name": "Ah Be Birader"
+      "title": "Ah Be Birader"
     },
     {
-      "id": "tmdb:121213",
+      "tmdbId": 121213",
       "type": "movie",
-      "name": "Öz Hakiki Karakol"
+      "title": "Öz Hakiki Karakol"
     },
     {
-      "id": "tmdb:326972",
+      "tmdbId": 326972",
       "type": "movie",
-      "name": "İksir"
+      "title": "İksir"
     },
     {
-      "id": "tmdb:244849",
+      "tmdbId": 244849",
       "type": "movie",
-      "name": "Süper İncir"
+      "title": "Süper İncir"
     },
     {
-      "id": "tmdb:1312277",
+      "tmdbId": 1312277",
       "type": "movie",
-      "name": "Yanlış Anlama 2"
+      "title": "Yanlış Anlama 2"
     },
     {
-      "id": "tmdb:779056",
+      "tmdbId": 779056",
       "type": "movie",
-      "name": "Mahalle Bakkalı"
+      "title": "Mahalle Bakkalı"
     },
     {
-      "id": "tmdb:1024520",
+      "tmdbId": 1024520",
       "type": "movie",
-      "name": "Suna"
+      "title": "Suna"
     },
     {
-      "id": "tmdb:1340071",
+      "tmdbId": 1340071",
       "type": "movie",
-      "name": "Mahşerin Üç Delisi"
+      "title": "Mahşerin Üç Delisi"
     },
     {
-      "id": "tmdb:1064361",
+      "tmdbId": 1064361",
       "type": "movie",
-      "name": "Katakulli 3: Tuzak"
+      "title": "Katakulli 3: Tuzak"
     },
     {
-      "id": "tmdb:1103369",
+      "tmdbId": 1103369",
       "type": "movie",
-      "name": "Yüzleşme"
+      "title": "Yüzleşme"
     },
     {
-      "id": "tmdb:1262152",
+      "tmdbId": 1262152",
       "type": "movie",
-      "name": "Sevmek Yüzünden"
+      "title": "Sevmek Yüzünden"
     },
     {
-      "id": "tmdb:1329411",
+      "tmdbId": 1329411",
       "type": "movie",
-      "name": "Ana Kuzusu"
+      "title": "Ana Kuzusu"
     },
     {
-      "id": "tmdb:1291738",
+      "tmdbId": 1291738",
       "type": "movie",
-      "name": "Kasada Parti"
+      "title": "Kasada Parti"
     },
     {
-      "id": "tmdb:1019294",
+      "tmdbId": 1019294",
       "type": "movie",
-      "name": "Hara"
+      "title": "Hara"
     },
     {
-      "id": "tmdb:1426547",
+      "tmdbId": 1426547",
       "type": "movie",
-      "name": "Oyunda Kal: Eğlence Arenası"
+      "title": "Oyunda Kal: Eğlence Arenası"
     },
     {
-      "id": "tmdb:51334",
+      "tmdbId": 51334",
       "type": "movie",
-      "name": "Beş Şehir"
+      "title": "Beş Şehir"
     },
     {
-      "id": "tmdb:289424",
+      "tmdbId": 289424",
       "type": "movie",
-      "name": "Bizum Hoca"
+      "title": "Bizum Hoca"
     },
     {
-      "id": "tmdb:1232895",
+      "tmdbId": 1232895",
       "type": "movie",
-      "name": "Zaferin Rengi"
+      "title": "Zaferin Rengi"
     },
     {
-      "id": "tmdb:969620",
+      "tmdbId": 969620",
       "type": "movie",
-      "name": "Anlatırsam Aşık Olurum"
+      "title": "Anlatırsam Aşık Olurum"
     },
     {
-      "id": "tmdb:1239328",
+      "tmdbId": 1239328",
       "type": "movie",
-      "name": "Kral Şakir: Devler Uyandı"
+      "title": "Kral Şakir: Devler Uyandı"
     },
     {
-      "id": "tmdb:1330413",
+      "tmdbId": 1330413",
       "type": "movie",
-      "name": "Arda Turan: Yüzleşme"
+      "title": "Arda Turan: Yüzleşme"
     },
     {
-      "id": "tmdb:1153239",
+      "tmdbId": 1153239",
       "type": "movie",
-      "name": "Yirmisekiz"
+      "title": "Yirmisekiz"
     },
     {
-      "id": "tmdb:1239276",
+      "tmdbId": 1239276",
       "type": "movie",
-      "name": "41 Kere Maşallah"
+      "title": "41 Kere Maşallah"
     },
     {
-      "id": "tmdb:847573",
+      "tmdbId": 847573",
       "type": "movie",
-      "name": "15/07 Şafak Vakti"
+      "title": "15/07 Şafak Vakti"
     },
     {
-      "id": "tmdb:728118",
+      "tmdbId": 728118",
       "type": "movie",
-      "name": "Nereye Gidiyorsun, Aida?"
+      "title": "Nereye Gidiyorsun, Aida?"
     },
     {
-      "id": "tmdb:1292294",
+      "tmdbId": 1292294",
       "type": "movie",
-      "name": "Üçkağıtçılar"
+      "title": "Üçkağıtçılar"
     },
     {
-      "id": "tmdb:1207960",
+      "tmdbId": 1207960",
       "type": "movie",
-      "name": "Bizim Hoca: Bezdum da!"
+      "title": "Bizim Hoca: Bezdum da!"
     },
     {
-      "id": "tmdb:721409",
+      "tmdbId": 721409",
       "type": "movie",
-      "name": "Körleşme"
+      "title": "Körleşme"
     },
     {
-      "id": "tmdb:1186476",
+      "tmdbId": 1186476",
       "type": "movie",
-      "name": "Bizim Hoca: Sıkıntı Yok"
+      "title": "Bizim Hoca: Sıkıntı Yok"
     },
     {
-      "id": "tmdb:1027735",
+      "tmdbId": 1027735",
       "type": "movie",
-      "name": "Bana Bir Aşk Şarkısı Söyle"
+      "title": "Bana Bir Aşk Şarkısı Söyle"
     },
     {
-      "id": "tmdb:37417",
+      "tmdbId": 37417",
       "type": "movie",
-      "name": "Güneşin Oğlu"
+      "title": "Güneşin Oğlu"
     },
     {
-      "id": "tmdb:1159676",
+      "tmdbId": 1159676",
       "type": "movie",
-      "name": "İtiraf"
+      "title": "İtiraf"
     },
     {
-      "id": "tmdb:1225297",
+      "tmdbId": 1225297",
       "type": "movie",
-      "name": "Öt Bakalım"
+      "title": "Öt Bakalım"
     },
     {
-      "id": "tmdb:963610",
+      "tmdbId": 963610",
       "type": "movie",
-      "name": "Kaptan Pengu ve Arkadaşları 2"
+      "title": "Kaptan Pengu ve Arkadaşları 2"
     },
     {
-      "id": "tmdb:816629",
+      "tmdbId": 816629",
       "type": "movie",
-      "name": "Bizum Hoca 2"
+      "title": "Bizum Hoca 2"
     },
     {
-      "id": "tmdb:1274921",
+      "tmdbId": 1274921",
       "type": "movie",
-      "name": "Masal Şatosu: Gizemli Misafir"
+      "title": "Masal Şatosu: Gizemli Misafir"
     },
     {
-      "id": "tmdb:1138196",
+      "tmdbId": 1138196",
       "type": "movie",
-      "name": "Karımı Gördünüz Mü?"
+      "title": "Karımı Gördünüz Mü?"
     },
     {
-      "id": "tmdb:484059",
+      "tmdbId": 484059",
       "type": "movie",
-      "name": "Hayati Tehlike"
+      "title": "Hayati Tehlike"
     },
     {
-      "id": "tmdb:1215261",
+      "tmdbId": 1215261",
       "type": "movie",
-      "name": "Beyond Bars"
+      "title": "Beyond Bars"
     },
     {
-      "id": "tmdb:1259363",
+      "tmdbId": 1259363",
       "type": "movie",
-      "name": "Kocamı Kim Öldürür?"
+      "title": "Kocamı Kim Öldürür?"
     },
     {
-      "id": "tmdb:1012876",
+      "tmdbId": 1012876",
       "type": "movie",
-      "name": "Kuzenler Firarda 2"
+      "title": "Kuzenler Firarda 2"
     },
     {
-      "id": "tmdb:1064194",
+      "tmdbId": 1064194",
       "type": "movie",
-      "name": "Güven Bana"
+      "title": "Güven Bana"
     },
     {
-      "id": "tmdb:345881",
+      "tmdbId": 345881",
       "type": "movie",
-      "name": "Tut Sözünü"
+      "title": "Tut Sözünü"
     },
     {
-      "id": "tmdb:1229504",
+      "tmdbId": 1229504",
       "type": "movie",
-      "name": "Yaşam Koçu"
+      "title": "Yaşam Koçu"
     },
     {
-      "id": "tmdb:1305728",
+      "tmdbId": 1305728",
       "type": "movie",
-      "name": "Dreamcoin"
+      "title": "Dreamcoin"
     },
     {
-      "id": "tmdb:1157091",
+      "tmdbId": 1157091",
       "type": "movie",
-      "name": "Öğretmen"
+      "title": "Öğretmen"
     },
     {
-      "id": "tmdb:1049518",
+      "tmdbId": 1049518",
       "type": "movie",
-      "name": "Her Şey Dahil"
+      "title": "Her Şey Dahil"
     },
     {
-      "id": "tmdb:1030225",
+      "tmdbId": 1030225",
       "type": "movie",
-      "name": "Aniden"
+      "title": "Aniden"
     },
     {
-      "id": "tmdb:1038522",
+      "tmdbId": 1038522",
       "type": "movie",
-      "name": "Tebessüm"
+      "title": "Tebessüm"
     },
     {
-      "id": "tmdb:1169058",
+      "tmdbId": 1169058",
       "type": "movie",
-      "name": "Ceylin"
+      "title": "Ceylin"
     },
     {
-      "id": "tmdb:1363947",
+      "tmdbId": 1363947",
       "type": "movie",
-      "name": "Baba Beni Güldürsene"
+      "title": "Baba Beni Güldürsene"
     },
     {
-      "id": "tmdb:1012874",
+      "tmdbId": 1012874",
       "type": "movie",
-      "name": "Kuzenler Firarda"
+      "title": "Kuzenler Firarda"
     },
     {
-      "id": "tmdb:1173807",
+      "tmdbId": 1173807",
       "type": "movie",
-      "name": "Her Şeye Rağmen"
+      "title": "Her Şeye Rağmen"
     },
     {
-      "id": "tmdb:38547",
+      "tmdbId": 38547",
       "type": "movie",
-      "name": "7 Kocalı Hürmüz"
+      "title": "7 Kocalı Hürmüz"
     },
     {
-      "id": "tmdb:462066",
+      "tmdbId": 462066",
       "type": "movie",
-      "name": "Sarı Sıcak"
+      "title": "Sarı Sıcak"
     },
     {
-      "id": "tmdb:1316400",
+      "tmdbId": 1316400",
       "type": "movie",
-      "name": "Aynı İpte Asılı"
+      "title": "Aynı İpte Asılı"
     },
     {
-      "id": "tmdb:1425260",
+      "tmdbId": 1425260",
       "type": "movie",
-      "name": "Sihirli Orman: Peri Kraliçesi"
+      "title": "Sihirli Orman: Peri Kraliçesi"
     },
     {
-      "id": "tmdb:839983",
+      "tmdbId": 839983",
       "type": "movie",
-      "name": "Yağmur Rengi"
+      "title": "Yağmur Rengi"
     },
     {
-      "id": "tmdb:1012161",
+      "tmdbId": 1012161",
       "type": "movie",
-      "name": "Amatör Hayat"
+      "title": "Amatör Hayat"
     },
     {
-      "id": "tmdb:1276922",
+      "tmdbId": 1276922",
       "type": "movie",
-      "name": "Para Nerede?"
+      "title": "Para Nerede?"
     },
     {
-      "id": "tmdb:1277258",
+      "tmdbId": 1277258",
       "type": "movie",
-      "name": "Çiftliğimin Hanımı"
+      "title": "Çiftliğimin Hanımı"
     },
     {
-      "id": "tmdb:1273786",
+      "tmdbId": 1273786",
       "type": "movie",
-      "name": "3. Gün"
+      "title": "3. Gün"
     },
     {
-      "id": "tmdb:1276770",
+      "tmdbId": 1276770",
       "type": "movie",
-      "name": "Torun Davası"
+      "title": "Torun Davası"
     },
     {
-      "id": "tmdb:980402",
+      "tmdbId": 980402",
       "type": "movie",
-      "name": "Kadın Kafası"
+      "title": "Kadın Kafası"
     },
     {
-      "id": "tmdb:1642880",
+      "tmdbId": 1642880",
       "type": "movie",
-      "name": "Ekip: Siberay - Güneş Fırtınası"
+      "title": "Ekip: Siberay - Güneş Fırtınası"
     },
     {
-      "id": "tmdb:1372074",
+      "tmdbId": 1372074",
       "type": "movie",
-      "name": "İbi: Doğu Ekspresi'nin Gizemi"
+      "title": "İbi: Doğu Ekspresi'nin Gizemi"
     },
     {
-      "id": "tmdb:1082604",
+      "tmdbId": 1082604",
       "type": "movie",
-      "name": "Cille 2069"
+      "title": "Cille 2069"
     },
     {
-      "id": "tmdb:1103375",
+      "tmdbId": 1103375",
       "type": "movie",
-      "name": "Cam Perde"
+      "title": "Cam Perde"
     },
     {
-      "id": "tmdb:880478",
+      "tmdbId": 880478",
       "type": "movie",
-      "name": "Zuhal"
+      "title": "Zuhal"
     },
     {
-      "id": "tmdb:1217805",
+      "tmdbId": 1217805",
       "type": "movie",
-      "name": "Faruk"
+      "title": "Faruk"
     },
     {
-      "id": "tmdb:1124931",
+      "tmdbId": 1124931",
       "type": "movie",
-      "name": "Aşkın Saati 19.03"
+      "title": "Aşkın Saati 19.03"
     },
     {
-      "id": "tmdb:1268791",
+      "tmdbId": 1268791",
       "type": "movie",
-      "name": "Biz Ayrılamayız"
+      "title": "Biz Ayrılamayız"
     },
     {
-      "id": "tmdb:1029125",
+      "tmdbId": 1029125",
       "type": "movie",
-      "name": "Tay"
+      "title": "Tay"
     },
     {
-      "id": "tmdb:1045026",
+      "tmdbId": 1045026",
       "type": "movie",
-      "name": "Cumali Ceber 666"
+      "title": "Cumali Ceber 666"
     },
     {
-      "id": "tmdb:1067202",
+      "tmdbId": 1067202",
       "type": "movie",
-      "name": "Allah Yazdıysa Bozsun"
+      "title": "Allah Yazdıysa Bozsun"
     },
     {
-      "id": "tmdb:1373062",
+      "tmdbId": 1373062",
       "type": "movie",
-      "name": "Köy Dügünü"
+      "title": "Köy Dügünü"
     },
     {
-      "id": "tmdb:1058872",
+      "tmdbId": 1058872",
       "type": "movie",
-      "name": "Sanki Her Şey Biraz Felaket"
+      "title": "Sanki Her Şey Biraz Felaket"
     },
     {
-      "id": "tmdb:1386784",
+      "tmdbId": 1386784",
       "type": "movie",
-      "name": "Kiralık Baba"
+      "title": "Kiralık Baba"
     },
     {
-      "id": "tmdb:1225330",
+      "tmdbId": 1225330",
       "type": "movie",
-      "name": "Altına Hücum"
+      "title": "Altına Hücum"
     },
     {
-      "id": "tmdb:1225288",
+      "tmdbId": 1225288",
       "type": "movie",
-      "name": "Bozuk Para"
+      "title": "Bozuk Para"
     },
     {
-      "id": "tmdb:1225234",
+      "tmdbId": 1225234",
       "type": "movie",
-      "name": "Balayı Olayı"
+      "title": "Balayı Olayı"
     },
     {
-      "id": "tmdb:1222756",
+      "tmdbId": 1222756",
       "type": "movie",
-      "name": "Dünya Evi"
+      "title": "Dünya Evi"
     },
     {
-      "id": "tmdb:1225619",
+      "tmdbId": 1225619",
       "type": "movie",
-      "name": "Merkez"
+      "title": "Merkez"
     },
     {
-      "id": "tmdb:1056979",
+      "tmdbId": 1056979",
       "type": "movie",
-      "name": "Bekleyiş"
+      "title": "Bekleyiş"
     },
     {
-      "id": "tmdb:1222750",
+      "tmdbId": 1222750",
       "type": "movie",
-      "name": "Bir Tatlı Huzur"
+      "title": "Bir Tatlı Huzur"
     },
     {
-      "id": "tmdb:559491",
+      "tmdbId": 559491",
       "type": "movie",
-      "name": "Son Çıkış"
+      "title": "Son Çıkış"
     },
     {
-      "id": "tmdb:1121715",
+      "tmdbId": 1121715",
       "type": "movie",
-      "name": "Mutlu Oyuncak Dükkanı"
+      "title": "Mutlu Oyuncak Dükkanı"
     },
     {
-      "id": "tmdb:1145045",
+      "tmdbId": 1145045",
       "type": "movie",
-      "name": "Adalet"
+      "title": "Adalet"
     },
     {
-      "id": "tmdb:986759",
+      "tmdbId": 986759",
       "type": "movie",
-      "name": "Soygun Oyunu: Büyük Vurgun"
+      "title": "Soygun Oyunu: Büyük Vurgun"
     },
     {
-      "id": "tmdb:879006",
+      "tmdbId": 879006",
       "type": "movie",
-      "name": "Turna Misali"
+      "title": "Turna Misali"
     },
     {
-      "id": "tmdb:976512",
+      "tmdbId": 976512",
       "type": "movie",
-      "name": "Bomboş"
+      "title": "Bomboş"
     },
     {
-      "id": "tmdb:271967",
+      "tmdbId": 271967",
       "type": "movie",
-      "name": "Koğuş Akademisi"
+      "title": "Koğuş Akademisi"
     },
     {
-      "id": "tmdb:1028175",
+      "tmdbId": 1028175",
       "type": "movie",
-      "name": "Oregon"
+      "title": "Oregon"
     },
     {
-      "id": "tmdb:1191781",
+      "tmdbId": 1191781",
       "type": "movie",
-      "name": "İki İyi İki Kötü Beş Adam"
+      "title": "İki İyi İki Kötü Beş Adam"
     },
     {
-      "id": "tmdb:1082038",
+      "tmdbId": 1082038",
       "type": "movie",
-      "name": "İz Sürücü"
+      "title": "İz Sürücü"
     },
     {
-      "id": "tmdb:1216163",
+      "tmdbId": 1216163",
       "type": "movie",
-      "name": "Ölü Yatırım"
+      "title": "Ölü Yatırım"
     },
     {
-      "id": "tmdb:985883",
+      "tmdbId": 985883",
       "type": "movie",
-      "name": "Do Not Disturb"
+      "title": "Do Not Disturb"
     },
     {
-      "id": "tmdb:1109317",
+      "tmdbId": 1109317",
       "type": "movie",
-      "name": "Üçlü Pürüz"
+      "title": "Üçlü Pürüz"
     },
     {
-      "id": "tmdb:720793",
+      "tmdbId": 720793",
       "type": "movie",
-      "name": "Selfi"
+      "title": "Selfi"
     },
     {
-      "id": "tmdb:1107598",
+      "tmdbId": 1107598",
       "type": "movie",
-      "name": "Gizemli Ada Mençuna"
+      "title": "Gizemli Ada Mençuna"
     },
     {
-      "id": "tmdb:79212",
+      "tmdbId": 79212",
       "type": "movie",
-      "name": "Celal Tan ve Ailesinin Aşırı Acıklı Hikayesi"
+      "title": "Celal Tan ve Ailesinin Aşırı Acıklı Hikayesi"
     },
     {
-      "id": "tmdb:549202",
+      "tmdbId": 549202",
       "type": "movie",
-      "name": "Sevgili Komşum"
+      "title": "Sevgili Komşum"
     },
     {
-      "id": "tmdb:608436",
+      "tmdbId": 608436",
       "type": "movie",
-      "name": "Adam Mısın!"
+      "title": "Adam Mısın!"
     },
     {
-      "id": "tmdb:1024182",
+      "tmdbId": 1024182",
       "type": "movie",
-      "name": "Kabahat"
+      "title": "Kabahat"
     },
     {
-      "id": "tmdb:718488",
+      "tmdbId": 718488",
       "type": "movie",
-      "name": "Dayı: Bir Adamın Hikâyesi"
+      "title": "Dayı: Bir Adamın Hikâyesi"
     },
     {
-      "id": "tmdb:1059005",
+      "tmdbId": 1059005",
       "type": "movie",
-      "name": "Katakulli 2 : Gözükaralar"
+      "title": "Katakulli 2 : Gözükaralar"
     },
     {
-      "id": "tmdb:1285829",
+      "tmdbId": 1285829",
       "type": "movie",
-      "name": "Annemin Gelini"
+      "title": "Annemin Gelini"
     },
     {
-      "id": "tmdb:1039431",
+      "tmdbId": 1039431",
       "type": "movie",
-      "name": "Uçuş 811"
+      "title": "Uçuş 811"
     },
     {
-      "id": "tmdb:588459",
+      "tmdbId": 588459",
       "type": "movie",
-      "name": "Türk İşi Dondurma"
+      "title": "Türk İşi Dondurma"
     },
     {
-      "id": "tmdb:1171104",
+      "tmdbId": 1171104",
       "type": "movie",
-      "name": "Engelli Aşk"
+      "title": "Engelli Aşk"
     },
     {
-      "id": "tmdb:718240",
+      "tmdbId": 718240",
       "type": "movie",
-      "name": "Müstakbel Damat"
+      "title": "Müstakbel Damat"
     },
     {
-      "id": "tmdb:628360",
+      "tmdbId": 628360",
       "type": "movie",
-      "name": "Yarım ile Yamalak"
+      "title": "Yarım ile Yamalak"
     },
     {
-      "id": "tmdb:674349",
+      "tmdbId": 674349",
       "type": "movie",
-      "name": "Bayi Toplantısı"
+      "title": "Bayi Toplantısı"
     },
     {
-      "id": "tmdb:362771",
+      "tmdbId": 362771",
       "type": "movie",
-      "name": "Ana Yurdu"
+      "title": "Ana Yurdu"
     },
     {
-      "id": "tmdb:1020304",
+      "tmdbId": 1020304",
       "type": "movie",
-      "name": "Soygun"
+      "title": "Soygun"
     },
     {
-      "id": "tmdb:502127",
+      "tmdbId": 502127",
       "type": "movie",
-      "name": "Aşk Uykusu"
+      "title": "Aşk Uykusu"
     },
     {
-      "id": "tmdb:300490",
+      "tmdbId": 300490",
       "type": "movie",
-      "name": "Unutursam Fısılda"
+      "title": "Unutursam Fısılda"
     },
     {
-      "id": "tmdb:662894",
+      "tmdbId": 662894",
       "type": "movie",
-      "name": "Meteler"
+      "title": "Meteler"
     },
     {
-      "id": "tmdb:1083127",
+      "tmdbId": 1083127",
       "type": "movie",
-      "name": "Kırmızı Başlıklı Kız ve Bizim Kahramanlar"
+      "title": "Kırmızı Başlıklı Kız ve Bizim Kahramanlar"
     },
     {
-      "id": "tmdb:1069440",
+      "tmdbId": 1069440",
       "type": "movie",
-      "name": "Ulan Salih"
+      "title": "Ulan Salih"
     },
     {
-      "id": "tmdb:527786",
+      "tmdbId": 527786",
       "type": "movie",
-      "name": "Deniz ve Güneş"
+      "title": "Deniz ve Güneş"
     },
     {
-      "id": "tmdb:937335",
+      "tmdbId": 937335",
       "type": "movie",
-      "name": "Olmadı Kaçarız"
+      "title": "Olmadı Kaçarız"
     },
     {
-      "id": "tmdb:477321",
+      "tmdbId": 477321",
       "type": "movie",
-      "name": "Poyraz Karayel: Küresel Sermaye"
+      "title": "Poyraz Karayel: Küresel Sermaye"
     },
     {
-      "id": "tmdb:353150",
+      "tmdbId": 353150",
       "type": "movie",
-      "name": "Eski Sevgiliyi Unutmanın 10 Yolu"
+      "title": "Eski Sevgiliyi Unutmanın 10 Yolu"
     },
     {
-      "id": "tmdb:161808",
+      "tmdbId": 161808",
       "type": "movie",
-      "name": "Celal ile Ceren"
+      "title": "Celal ile Ceren"
     },
     {
-      "id": "tmdb:481277",
+      "tmdbId": 481277",
       "type": "movie",
-      "name": "Babam"
+      "title": "Babam"
     },
     {
-      "id": "tmdb:645292",
+      "tmdbId": 645292",
       "type": "movie",
-      "name": "Biz Böyleyiz"
+      "title": "Biz Böyleyiz"
     },
     {
-      "id": "tmdb:759676",
+      "tmdbId": 759676",
       "type": "movie",
-      "name": "Nasipse Olur"
+      "title": "Nasipse Olur"
     },
     {
-      "id": "tmdb:474812",
+      "tmdbId": 474812",
       "type": "movie",
-      "name": "Korkacak Bi'şey Yok"
+      "title": "Korkacak Bi'şey Yok"
     },
     {
-      "id": "tmdb:602904",
+      "tmdbId": 602904",
       "type": "movie",
-      "name": "Enkaz"
+      "title": "Enkaz"
     },
     {
-      "id": "tmdb:92834",
+      "tmdbId": 92834",
       "type": "movie",
-      "name": "Vizontele Tuuba"
+      "title": "Vizontele Tuuba"
     },
     {
-      "id": "tmdb:1060456",
+      "tmdbId": 1060456",
       "type": "movie",
-      "name": "49"
+      "title": "49"
     },
     {
-      "id": "tmdb:1128513",
+      "tmdbId": 1128513",
       "type": "movie",
-      "name": "Buğday Tanesi"
+      "title": "Buğday Tanesi"
     },
     {
-      "id": "tmdb:442394",
+      "tmdbId": 442394",
       "type": "movie",
-      "name": "Yav He He"
+      "title": "Yav He He"
     },
     {
-      "id": "tmdb:393420",
+      "tmdbId": 393420",
       "type": "movie",
-      "name": "Yemekteydik ve Karar Verdim"
+      "title": "Yemekteydik ve Karar Verdim"
     },
     {
-      "id": "tmdb:1042633",
+      "tmdbId": 1042633",
       "type": "movie",
-      "name": "Kendi Yolumda"
+      "title": "Kendi Yolumda"
     },
     {
-      "id": "tmdb:1037406",
+      "tmdbId": 1037406",
       "type": "movie",
-      "name": "Bandırma Füze Kulübü"
+      "title": "Bandırma Füze Kulübü"
     },
     {
-      "id": "tmdb:1128568",
+      "tmdbId": 1128568",
       "type": "movie",
-      "name": "Merve Kült"
+      "title": "Merve Kült"
     },
     {
-      "id": "tmdb:683809",
+      "tmdbId": 683809",
       "type": "movie",
-      "name": "Zengo"
+      "title": "Zengo"
     },
     {
-      "id": "tmdb:477076",
+      "tmdbId": 477076",
       "type": "movie",
-      "name": "Dört Köşe"
+      "title": "Dört Köşe"
     },
     {
-      "id": "tmdb:540841",
+      "tmdbId": 540841",
       "type": "movie",
-      "name": "Deliler: Fatih'in Fermanı"
+      "title": "Deliler: Fatih'in Fermanı"
     },
     {
-      "id": "tmdb:462651",
+      "tmdbId": 462651",
       "type": "movie",
-      "name": "Öyle ya da Böyle"
+      "title": "Öyle ya da Böyle"
     },
     {
-      "id": "tmdb:608439",
+      "tmdbId": 608439",
       "type": "movie",
-      "name": "New York Masalı"
+      "title": "New York Masalı"
     },
     {
-      "id": "tmdb:527798",
+      "tmdbId": 527798",
       "type": "movie",
-      "name": "Bal Kaymak"
+      "title": "Bal Kaymak"
     },
     {
-      "id": "tmdb:586099",
+      "tmdbId": 586099",
       "type": "movie",
-      "name": "Çınar"
+      "title": "Çınar"
     },
     {
-      "id": "tmdb:512192",
+      "tmdbId": 512192",
       "type": "movie",
-      "name": "Tut Yüreğimden Anne"
+      "title": "Tut Yüreğimden Anne"
     },
     {
-      "id": "tmdb:442390",
+      "tmdbId": 442390",
       "type": "movie",
-      "name": "Pamuk Prens"
+      "title": "Pamuk Prens"
     },
     {
-      "id": "tmdb:446604",
+      "tmdbId": 446604",
       "type": "movie",
-      "name": "Bensiz"
+      "title": "Bensiz"
     },
     {
-      "id": "tmdb:738249",
+      "tmdbId": 738249",
       "type": "movie",
-      "name": "Döndüm Ben"
+      "title": "Döndüm Ben"
     },
     {
-      "id": "tmdb:528478",
+      "tmdbId": 528478",
       "type": "movie",
-      "name": "Ev Kira Semt Bizim"
+      "title": "Ev Kira Semt Bizim"
     },
     {
-      "id": "tmdb:13296",
+      "tmdbId": 13296",
       "type": "movie",
-      "name": "Hokkabaz"
+      "title": "Hokkabaz"
     },
     {
-      "id": "tmdb:1483091",
+      "tmdbId": 1483091",
       "type": "movie",
-      "name": "Çirkin Şansı"
+      "title": "Çirkin Şansı"
     },
     {
-      "id": "tmdb:602915",
+      "tmdbId": 602915",
       "type": "movie",
-      "name": "Saftirikler"
+      "title": "Saftirikler"
     },
     {
-      "id": "tmdb:1067815",
+      "tmdbId": 1067815",
       "type": "movie",
-      "name": "Yalancı Şahit"
+      "title": "Yalancı Şahit"
     },
     {
-      "id": "tmdb:255635",
+      "tmdbId": 255635",
       "type": "movie",
-      "name": "Tamam mıyız?"
+      "title": "Tamam mıyız?"
     },
     {
-      "id": "tmdb:635654",
+      "tmdbId": 635654",
       "type": "movie",
-      "name": "Bozkır: Kuşlara Bak Kuşlara"
+      "title": "Bozkır: Kuşlara Bak Kuşlara"
     },
     {
-      "id": "tmdb:477271",
+      "tmdbId": 477271",
       "type": "movie",
-      "name": "Taş"
+      "title": "Taş"
     },
     {
-      "id": "tmdb:577406",
+      "tmdbId": 577406",
       "type": "movie",
-      "name": "T.I.M: This Is Me"
+      "title": "T.I.M: This Is Me"
     },
     {
-      "id": "tmdb:528499",
+      "tmdbId": 528499",
       "type": "movie",
-      "name": "Umut Avcıları"
+      "title": "Umut Avcıları"
     },
     {
-      "id": "tmdb:516639",
+      "tmdbId": 516639",
       "type": "movie",
-      "name": "Aydede"
+      "title": "Aydede"
     },
     {
-      "id": "tmdb:540845",
+      "tmdbId": 540845",
       "type": "movie",
-      "name": "Bizi Hatırla"
+      "title": "Bizi Hatırla"
     },
     {
-      "id": "tmdb:625626",
+      "tmdbId": 625626",
       "type": "movie",
-      "name": "Bana Bir Soygun Yaz 2"
+      "title": "Bana Bir Soygun Yaz 2"
     },
     {
-      "id": "tmdb:507177",
+      "tmdbId": 507177",
       "type": "movie",
-      "name": "Yeni Başlayanlar İçin Hayatta Kalma Sanatı"
+      "title": "Yeni Başlayanlar İçin Hayatta Kalma Sanatı"
     },
     {
-      "id": "tmdb:788728",
+      "tmdbId": 788728",
       "type": "movie",
-      "name": "Kral Şakir: Mikrop Avcıları"
+      "title": "Kral Şakir: Mikrop Avcıları"
     },
     {
-      "id": "tmdb:522292",
+      "tmdbId": 522292",
       "type": "movie",
-      "name": "Abbas'ın Melekleri"
+      "title": "Abbas'ın Melekleri"
     },
     {
-      "id": "tmdb:491941",
+      "tmdbId": 491941",
       "type": "movie",
-      "name": "Parayı Bulduk"
+      "title": "Parayı Bulduk"
     },
     {
-      "id": "tmdb:295619",
+      "tmdbId": 295619",
       "type": "movie",
-      "name": "Uzun Yol"
+      "title": "Uzun Yol"
     },
     {
-      "id": "tmdb:477077",
+      "tmdbId": 477077",
       "type": "movie",
-      "name": "Kayseri Aslanı: Çin İşi"
+      "title": "Kayseri Aslanı: Çin İşi"
     },
     {
-      "id": "tmdb:187838",
+      "tmdbId": 187838",
       "type": "movie",
-      "name": "Şellale"
+      "title": "Şellale"
     },
     {
-      "id": "tmdb:599695",
+      "tmdbId": 599695",
       "type": "movie",
-      "name": "Ateş"
+      "title": "Ateş"
     },
     {
-      "id": "tmdb:447337",
+      "tmdbId": 447337",
       "type": "movie",
-      "name": "Benim Adım Feridun"
+      "title": "Benim Adım Feridun"
     },
     {
-      "id": "tmdb:564973",
+      "tmdbId": 564973",
       "type": "movie",
-      "name": "Nereden Nereye"
+      "title": "Nereden Nereye"
     },
     {
-      "id": "tmdb:656917",
+      "tmdbId": 656917",
       "type": "movie",
-      "name": "Geniş Aile: Komşu Kızı"
+      "title": "Geniş Aile: Komşu Kızı"
     },
     {
-      "id": "tmdb:38613",
+      "tmdbId": 38613",
       "type": "movie",
-      "name": "Veda"
+      "title": "Veda"
     },
     {
-      "id": "tmdb:436980",
+      "tmdbId": 436980",
       "type": "movie",
-      "name": "Yolculuk"
+      "title": "Yolculuk"
     },
     {
-      "id": "tmdb:630",
+      "tmdbId": 630",
       "type": "movie",
-      "name": "Oz Büyücüsü"
+      "title": "Oz Büyücüsü"
     },
     {
-      "id": "tmdb:549625",
+      "tmdbId": 549625",
       "type": "movie",
-      "name": "İçerdekiler"
+      "title": "İçerdekiler"
     },
     {
-      "id": "tmdb:740538",
+      "tmdbId": 740538",
       "type": "movie",
-      "name": "Konuşan Hayvanlar"
+      "title": "Konuşan Hayvanlar"
     },
     {
-      "id": "tmdb:740920",
+      "tmdbId": 740920",
       "type": "movie",
-      "name": "Vallahi Hortladı"
+      "title": "Vallahi Hortladı"
     },
     {
-      "id": "tmdb:533923",
+      "tmdbId": 533923",
       "type": "movie",
-      "name": "Kardeşler"
+      "title": "Kardeşler"
     },
     {
-      "id": "tmdb:64433",
+      "tmdbId": 64433",
       "type": "movie",
-      "name": "Pardon"
+      "title": "Pardon"
     },
     {
-      "id": "tmdb:708784",
+      "tmdbId": 708784",
       "type": "movie",
-      "name": "Akıllara Seza"
+      "title": "Akıllara Seza"
     },
     {
-      "id": "tmdb:584439",
+      "tmdbId": 584439",
       "type": "movie",
-      "name": "Yalan Dolan"
+      "title": "Yalan Dolan"
     },
     {
-      "id": "tmdb:603079",
+      "tmdbId": 603079",
       "type": "movie",
-      "name": "Bir Şey Değilim"
+      "title": "Bir Şey Değilim"
     },
     {
-      "id": "tmdb:625462",
+      "tmdbId": 625462",
       "type": "movie",
-      "name": "Masal Şatosu: Sihirli Davet"
+      "title": "Masal Şatosu: Sihirli Davet"
     },
     {
-      "id": "tmdb:1037402",
+      "tmdbId": 1037402",
       "type": "movie",
-      "name": "Mahalleden Arkadaşlar"
+      "title": "Mahalleden Arkadaşlar"
     },
     {
-      "id": "tmdb:551263",
+      "tmdbId": 551263",
       "type": "movie",
-      "name": "Göktaşı"
+      "title": "Göktaşı"
     },
     {
-      "id": "tmdb:442499",
+      "tmdbId": 442499",
       "type": "movie",
-      "name": "Dadaş"
+      "title": "Dadaş"
     },
     {
-      "id": "tmdb:593398",
+      "tmdbId": 593398",
       "type": "movie",
-      "name": "Bebek Geliyorum Demez"
+      "title": "Bebek Geliyorum Demez"
     },
     {
-      "id": "tmdb:691372",
+      "tmdbId": 691372",
       "type": "movie",
-      "name": "En Uzun Gece"
+      "title": "En Uzun Gece"
     },
     {
-      "id": "tmdb:537651",
+      "tmdbId": 537651",
       "type": "movie",
-      "name": "Sibel"
+      "title": "Sibel"
     },
     {
-      "id": "tmdb:674874",
+      "tmdbId": 674874",
       "type": "movie",
-      "name": "Masallardan Geriye Kalan"
+      "title": "Masallardan Geriye Kalan"
     },
     {
-      "id": "tmdb:419798",
+      "tmdbId": 419798",
       "type": "movie",
-      "name": "Misafir"
+      "title": "Misafir"
     },
     {
-      "id": "tmdb:528964",
+      "tmdbId": 528964",
       "type": "movie",
-      "name": "4N1K 2"
+      "title": "4N1K 2"
     },
     {
-      "id": "tmdb:328593",
+      "tmdbId": 328593",
       "type": "movie",
-      "name": "Neden Tarkovski Olamıyorum..."
+      "title": "Neden Tarkovski Olamıyorum..."
     },
     {
-      "id": "tmdb:468314",
+      "tmdbId": 468314",
       "type": "movie",
-      "name": "Rus'un Oyunu"
+      "title": "Rus'un Oyunu"
     },
     {
-      "id": "tmdb:338050",
+      "tmdbId": 338050",
       "type": "movie",
-      "name": "Kar Korsanları"
+      "title": "Kar Korsanları"
     },
     {
-      "id": "tmdb:659508",
+      "tmdbId": 659508",
       "type": "movie",
-      "name": "Sesinde Aşk Var"
+      "title": "Sesinde Aşk Var"
     },
     {
-      "id": "tmdb:595171",
+      "tmdbId": 595171",
       "type": "movie",
-      "name": "Kapı"
+      "title": "Kapı"
     },
     {
-      "id": "tmdb:477298",
+      "tmdbId": 477298",
       "type": "movie",
-      "name": "Seni Gidi Seni"
+      "title": "Seni Gidi Seni"
     },
     {
-      "id": "tmdb:584960",
+      "tmdbId": 584960",
       "type": "movie",
-      "name": "Kariyer"
+      "title": "Kariyer"
     },
     {
-      "id": "tmdb:602875",
+      "tmdbId": 602875",
       "type": "movie",
-      "name": "Firak"
+      "title": "Firak"
     },
     {
-      "id": "tmdb:538105",
+      "tmdbId": 538105",
       "type": "movie",
-      "name": "Yuva"
+      "title": "Yuva"
     },
     {
-      "id": "tmdb:672269",
+      "tmdbId": 672269",
       "type": "movie",
-      "name": "Kuşatma Yedi Uyuyanlar"
+      "title": "Kuşatma Yedi Uyuyanlar"
     },
     {
-      "id": "tmdb:1084146",
+      "tmdbId": 1084146",
       "type": "movie",
-      "name": "Kaptan Pengu ve Arkadaşları 3: Buz Mandası Efsanesi"
+      "title": "Kaptan Pengu ve Arkadaşları 3: Buz Mandası Efsanesi"
     },
     {
-      "id": "tmdb:985103",
+      "tmdbId": 985103",
       "type": "movie",
-      "name": "Kral Şakir: Geri Dönüşüm"
+      "title": "Kral Şakir: Geri Dönüşüm"
     },
     {
-      "id": "tmdb:891471",
+      "tmdbId": 891471",
       "type": "movie",
-      "name": "Grev"
+      "title": "Grev"
     },
     {
-      "id": "tmdb:393322",
+      "tmdbId": 393322",
       "type": "movie",
-      "name": "Çırak"
+      "title": "Çırak"
     },
     {
-      "id": "tmdb:1158433",
+      "tmdbId": 1158433",
       "type": "movie",
-      "name": "Bulmaca Kulesi 2: Eve Dönüş"
+      "title": "Bulmaca Kulesi 2: Eve Dönüş"
     },
     {
-      "id": "tmdb:529488",
+      "tmdbId": 529488",
       "type": "movie",
-      "name": "Her Şey Seninle Güzel"
+      "title": "Her Şey Seninle Güzel"
     },
     {
-      "id": "tmdb:1030215",
+      "tmdbId": 1030215",
       "type": "movie",
-      "name": "Bir Tutam Karanfil"
+      "title": "Bir Tutam Karanfil"
     },
     {
-      "id": "tmdb:528495",
+      "tmdbId": 528495",
       "type": "movie",
-      "name": "Eyvah Karım"
+      "title": "Eyvah Karım"
     },
     {
-      "id": "tmdb:477269",
+      "tmdbId": 477269",
       "type": "movie",
-      "name": "Bir Nefes Yeter"
+      "title": "Bir Nefes Yeter"
     },
     {
-      "id": "tmdb:481271",
+      "tmdbId": 481271",
       "type": "movie",
-      "name": "Murtaza"
+      "title": "Murtaza"
     },
     {
-      "id": "tmdb:406013",
+      "tmdbId": 406013",
       "type": "movie",
-      "name": "Sol Şerit"
+      "title": "Sol Şerit"
     },
     {
-      "id": "tmdb:394612",
+      "tmdbId": 394612",
       "type": "movie",
-      "name": "Oflu Hoca'nın Şifresi 2"
+      "title": "Oflu Hoca'nın Şifresi 2"
     },
     {
-      "id": "tmdb:523393",
+      "tmdbId": 523393",
       "type": "movie",
-      "name": "Aşık"
+      "title": "Aşık"
     },
     {
-      "id": "tmdb:717906",
+      "tmdbId": 717906",
       "type": "movie",
-      "name": "Biz Babasız Büyüdük"
+      "title": "Biz Babasız Büyüdük"
     },
     {
-      "id": "tmdb:501962",
+      "tmdbId": 501962",
       "type": "movie",
-      "name": "Oldu Mu Şimdi?"
+      "title": "Oldu Mu Şimdi?"
     },
     {
-      "id": "tmdb:612603",
+      "tmdbId": 612603",
       "type": "movie",
-      "name": "Yıldızlar da Kayar: Das Borak"
+      "title": "Yıldızlar da Kayar: Das Borak"
     },
     {
-      "id": "tmdb:570090",
+      "tmdbId": 570090",
       "type": "movie",
-      "name": "Nasıl Yani"
+      "title": "Nasıl Yani"
     },
     {
-      "id": "tmdb:846043",
+      "tmdbId": 846043",
       "type": "movie",
-      "name": "Ademin Eli"
+      "title": "Ademin Eli"
     },
     {
-      "id": "tmdb:578796",
+      "tmdbId": 578796",
       "type": "movie",
-      "name": "Toz"
+      "title": "Toz"
     },
     {
-      "id": "tmdb:385194",
+      "tmdbId": 385194",
       "type": "movie",
-      "name": "Git Başımdan"
+      "title": "Git Başımdan"
     },
     {
-      "id": "tmdb:315840",
+      "tmdbId": 315840",
       "type": "movie",
-      "name": "Buğday"
+      "title": "Buğday"
     },
     {
-      "id": "tmdb:643725",
+      "tmdbId": 643725",
       "type": "movie",
-      "name": "Merhaba Güzel Vatanım"
+      "title": "Merhaba Güzel Vatanım"
     },
     {
-      "id": "tmdb:679440",
+      "tmdbId": 679440",
       "type": "movie",
-      "name": "Ah Bir Ataş Ver"
+      "title": "Ah Bir Ataş Ver"
     },
     {
-      "id": "tmdb:468261",
+      "tmdbId": 468261",
       "type": "movie",
-      "name": "Sonsuz Aşk"
+      "title": "Sonsuz Aşk"
     },
     {
-      "id": "tmdb:528369",
+      "tmdbId": 528369",
       "type": "movie",
-      "name": "3 Vakte Kadar"
+      "title": "3 Vakte Kadar"
     },
     {
-      "id": "tmdb:669734",
+      "tmdbId": 669734",
       "type": "movie",
-      "name": "Adım Adım"
+      "title": "Adım Adım"
     },
     {
-      "id": "tmdb:500004",
+      "tmdbId": 500004",
       "type": "movie",
-      "name": "Emicem Hospital"
+      "title": "Emicem Hospital"
     },
     {
-      "id": "tmdb:585973",
+      "tmdbId": 585973",
       "type": "movie",
-      "name": "Bir Aşk İki Hayat"
+      "title": "Bir Aşk İki Hayat"
     },
     {
-      "id": "tmdb:474809",
+      "tmdbId": 474809",
       "type": "movie",
-      "name": "Cenaze İşleri"
+      "title": "Cenaze İşleri"
     },
     {
-      "id": "tmdb:602919",
+      "tmdbId": 602919",
       "type": "movie",
-      "name": "Tutmayın Beni"
+      "title": "Tutmayın Beni"
     },
     {
-      "id": "tmdb:444085",
+      "tmdbId": 444085",
       "type": "movie",
-      "name": "1 Kezban 1 Mahmut: Adana Yollarında"
+      "title": "1 Kezban 1 Mahmut: Adana Yollarında"
     },
     {
-      "id": "tmdb:477309",
+      "tmdbId": 477309",
       "type": "movie",
-      "name": "Sagu & Pagu: Büyük Define"
+      "title": "Sagu & Pagu: Büyük Define"
     },
     {
-      "id": "tmdb:1392498",
+      "tmdbId": 1392498",
       "type": "movie",
-      "name": "Alabora Aşk"
+      "title": "Alabora Aşk"
     },
     {
-      "id": "tmdb:1064827",
+      "tmdbId": 1064827",
       "type": "movie",
-      "name": "Katakulli 4: Tam Zamanı"
+      "title": "Katakulli 4: Tam Zamanı"
     },
     {
-      "id": "tmdb:584556",
+      "tmdbId": 584556",
       "type": "movie",
-      "name": "Aslı Gibidir"
+      "title": "Aslı Gibidir"
     },
     {
-      "id": "tmdb:398250",
+      "tmdbId": 398250",
       "type": "movie",
-      "name": "Ankara Yazı: Veda Mektubu"
+      "title": "Ankara Yazı: Veda Mektubu"
     },
     {
-      "id": "tmdb:603069",
+      "tmdbId": 603069",
       "type": "movie",
-      "name": "Krallar Kulübü"
+      "title": "Krallar Kulübü"
     },
     {
-      "id": "tmdb:634583",
+      "tmdbId": 634583",
       "type": "movie",
-      "name": "Fırıncının Karısı"
+      "title": "Fırıncının Karısı"
     },
     {
-      "id": "tmdb:602883",
+      "tmdbId": 602883",
       "type": "movie",
-      "name": "Yağmurlarda Yıkansam"
+      "title": "Yağmurlarda Yıkansam"
     },
     {
-      "id": "tmdb:382487",
+      "tmdbId": 382487",
       "type": "movie",
-      "name": "Toz Bezi"
+      "title": "Toz Bezi"
     },
     {
-      "id": "tmdb:341288",
+      "tmdbId": 341288",
       "type": "movie",
-      "name": "Seni Seviyorum Adamım"
+      "title": "Seni Seviyorum Adamım"
     },
     {
-      "id": "tmdb:434664",
+      "tmdbId": 434664",
       "type": "movie",
-      "name": "OT Umut Peşinde"
+      "title": "OT Umut Peşinde"
     },
     {
-      "id": "tmdb:389116",
+      "tmdbId": 389116",
       "type": "movie",
-      "name": "Rauf"
+      "title": "Rauf"
     },
     {
-      "id": "tmdb:656505",
+      "tmdbId": 656505",
       "type": "movie",
-      "name": "Kırk Yalan"
+      "title": "Kırk Yalan"
     },
     {
-      "id": "tmdb:101682",
+      "tmdbId": 101682",
       "type": "movie",
-      "name": "Kurtuluş Son Durak"
+      "title": "Kurtuluş Son Durak"
     },
     {
-      "id": "tmdb:32313",
+      "tmdbId": 32313",
       "type": "movie",
-      "name": "Hababam Sınıfı Askerde"
+      "title": "Hababam Sınıfı Askerde"
     },
     {
-      "id": "tmdb:1089800",
+      "tmdbId": 1089800",
       "type": "movie",
-      "name": "Payidar: Gazi'nin Büyük Tablosu"
+      "title": "Payidar: Gazi'nin Büyük Tablosu"
     },
     {
-      "id": "tmdb:1092315",
+      "tmdbId": 1092315",
       "type": "movie",
-      "name": "Fazla Şaapma"
+      "title": "Fazla Şaapma"
     },
     {
-      "id": "tmdb:750715",
+      "tmdbId": 750715",
       "type": "movie",
-      "name": "Erkek Tarafı: Testosteron"
+      "title": "Erkek Tarafı: Testosteron"
     },
     {
-      "id": "tmdb:439559",
+      "tmdbId": 439559",
       "type": "movie",
-      "name": "Piyasadan Büyük Alacağımız Var"
+      "title": "Piyasadan Büyük Alacağımız Var"
     },
     {
-      "id": "tmdb:474721",
+      "tmdbId": 474721",
       "type": "movie",
-      "name": "Ver Kaç"
+      "title": "Ver Kaç"
     },
     {
-      "id": "tmdb:338924",
+      "tmdbId": 338924",
       "type": "movie",
-      "name": "Senden Bana Kalan"
+      "title": "Senden Bana Kalan"
     },
     {
-      "id": "tmdb:848846",
+      "tmdbId": 848846",
       "type": "movie",
-      "name": "Vay Babam Vay!"
+      "title": "Vay Babam Vay!"
     },
     {
-      "id": "tmdb:543994",
+      "tmdbId": 543994",
       "type": "movie",
-      "name": "Saf"
+      "title": "Saf"
     },
     {
-      "id": "tmdb:77862",
+      "tmdbId": 77862",
       "type": "movie",
-      "name": "Anadolu Kartalları"
+      "title": "Anadolu Kartalları"
     },
     {
-      "id": "tmdb:594385",
+      "tmdbId": 594385",
       "type": "movie",
-      "name": "Vargit Zamanı"
+      "title": "Vargit Zamanı"
     },
     {
-      "id": "tmdb:492849",
+      "tmdbId": 492849",
       "type": "movie",
-      "name": "Papatya"
+      "title": "Papatya"
     },
     {
-      "id": "tmdb:542573",
+      "tmdbId": 542573",
       "type": "movie",
-      "name": "Bana Git De"
+      "title": "Bana Git De"
     },
     {
-      "id": "tmdb:32311",
+      "tmdbId": 32311",
       "type": "movie",
-      "name": "Hababam Sınıfı Üç Buçuk"
+      "title": "Hababam Sınıfı Üç Buçuk"
     },
     {
-      "id": "tmdb:470970",
+      "tmdbId": 470970",
       "type": "movie",
-      "name": "Mezarcı"
+      "title": "Mezarcı"
     },
     {
-      "id": "tmdb:448112",
+      "tmdbId": 448112",
       "type": "movie",
-      "name": "Ve Panayır Köyden Gider"
+      "title": "Ve Panayır Köyden Gider"
     },
     {
-      "id": "tmdb:671566",
+      "tmdbId": 671566",
       "type": "movie",
-      "name": "2 Yaka Yarım Aşk"
+      "title": "2 Yaka Yarım Aşk"
     },
     {
-      "id": "tmdb:1045160",
+      "tmdbId": 1045160",
       "type": "movie",
-      "name": "Şimdi Yandık"
+      "title": "Şimdi Yandık"
     },
     {
-      "id": "tmdb:650329",
+      "tmdbId": 650329",
       "type": "movie",
-      "name": "Çılgın Kamp"
+      "title": "Çılgın Kamp"
     },
     {
-      "id": "tmdb:46733",
+      "tmdbId": 46733",
       "type": "movie",
-      "name": "Çok Filim Hareketler Bunlar"
+      "title": "Çok Filim Hareketler Bunlar"
     },
     {
-      "id": "tmdb:520572",
+      "tmdbId": 520572",
       "type": "movie",
-      "name": "Organik Aşk Hikayeleri"
+      "title": "Organik Aşk Hikayeleri"
     },
     {
-      "id": "tmdb:179737",
+      "tmdbId": 179737",
       "type": "movie",
-      "name": "Bana Bir Soygun Yaz"
+      "title": "Bana Bir Soygun Yaz"
     },
     {
-      "id": "tmdb:630191",
+      "tmdbId": 630191",
       "type": "movie",
-      "name": "Annem"
+      "title": "Annem"
     },
     {
-      "id": "tmdb:527996",
+      "tmdbId": 527996",
       "type": "movie",
-      "name": "Hasret Bitti"
+      "title": "Hasret Bitti"
     },
     {
-      "id": "tmdb:364516",
+      "tmdbId": 364516",
       "type": "movie",
-      "name": "Yaktın Beni"
+      "title": "Yaktın Beni"
     },
     {
-      "id": "tmdb:552405",
+      "tmdbId": 552405",
       "type": "movie",
-      "name": "Şeytan Tüyü"
+      "title": "Şeytan Tüyü"
     },
     {
-      "id": "tmdb:87328",
+      "tmdbId": 87328",
       "type": "movie",
-      "name": "Sümela'nın Şifresi: Temel"
+      "title": "Sümela'nın Şifresi: Temel"
     },
     {
-      "id": "tmdb:283706",
+      "tmdbId": 283706",
       "type": "movie",
-      "name": "Sivas"
+      "title": "Sivas"
     },
     {
-      "id": "tmdb:481492",
+      "tmdbId": 481492",
       "type": "movie",
-      "name": "Ağustos Böcekleri ve Karıncalar"
+      "title": "Ağustos Böcekleri ve Karıncalar"
     },
     {
-      "id": "tmdb:528185",
+      "tmdbId": 528185",
       "type": "movie",
-      "name": "Vay Başıma Gelenler! 2 Buçuk"
+      "title": "Vay Başıma Gelenler! 2 Buçuk"
     },
     {
-      "id": "tmdb:402578",
+      "tmdbId": 402578",
       "type": "movie",
-      "name": "Kümes"
+      "title": "Kümes"
     },
     {
-      "id": "tmdb:411449",
+      "tmdbId": 411449",
       "type": "movie",
-      "name": "Senarist"
+      "title": "Senarist"
     },
     {
-      "id": "tmdb:602916",
+      "tmdbId": 602916",
       "type": "movie",
-      "name": "Sevdam Gözlerinde Kaldı"
+      "title": "Sevdam Gözlerinde Kaldı"
     },
     {
-      "id": "tmdb:1078253",
+      "tmdbId": 1078253",
       "type": "movie",
-      "name": "Gitme Baba"
+      "title": "Gitme Baba"
     },
     {
-      "id": "tmdb:393518",
+      "tmdbId": 393518",
       "type": "movie",
-      "name": "Albüm"
+      "title": "Albüm"
     },
     {
-      "id": "tmdb:493902",
+      "tmdbId": 493902",
       "type": "movie",
-      "name": "Güvercin"
+      "title": "Güvercin"
     },
     {
-      "id": "tmdb:573007",
+      "tmdbId": 573007",
       "type": "movie",
-      "name": "Trileçe"
+      "title": "Trileçe"
     },
     {
-      "id": "tmdb:658795",
+      "tmdbId": 658795",
       "type": "movie",
-      "name": "Feride"
+      "title": "Feride"
     },
     {
-      "id": "tmdb:161805",
+      "tmdbId": 161805",
       "type": "movie",
-      "name": "Çanakkale 1915"
+      "title": "Çanakkale 1915"
     },
     {
-      "id": "tmdb:50046",
+      "tmdbId": 50046",
       "type": "movie",
-      "name": "Hacivat Karagöz Neden Öldürüldü?"
+      "title": "Hacivat Karagöz Neden Öldürüldü?"
     },
     {
-      "id": "tmdb:537961",
+      "tmdbId": 537961",
       "type": "movie",
-      "name": "Nebula"
+      "title": "Nebula"
     },
     {
-      "id": "tmdb:411308",
+      "tmdbId": 411308",
       "type": "movie",
-      "name": "91.1"
+      "title": "91.1"
     },
     {
-      "id": "tmdb:468274",
+      "tmdbId": 468274",
       "type": "movie",
-      "name": "İşe Yarar Bir Şey"
+      "title": "İşe Yarar Bir Şey"
     },
     {
-      "id": "tmdb:564432",
+      "tmdbId": 564432",
       "type": "movie",
-      "name": "Sükut Evi"
+      "title": "Sükut Evi"
     },
     {
-      "id": "tmdb:620316",
+      "tmdbId": 620316",
       "type": "movie",
-      "name": "Ali"
+      "title": "Ali"
     },
     {
-      "id": "tmdb:474711",
+      "tmdbId": 474711",
       "type": "movie",
-      "name": "Bekar Bekir"
+      "title": "Bekar Bekir"
     },
     {
-      "id": "tmdb:548263",
+      "tmdbId": 548263",
       "type": "movie",
-      "name": "Güvercin Hırsızları"
+      "title": "Güvercin Hırsızları"
     },
     {
-      "id": "tmdb:27959",
+      "tmdbId": 27959",
       "type": "movie",
-      "name": "Sınav"
+      "title": "Sınav"
     },
     {
-      "id": "tmdb:52148",
+      "tmdbId": 52148",
       "type": "movie",
-      "name": "Vicdan"
+      "title": "Vicdan"
     },
     {
-      "id": "tmdb:516055",
+      "tmdbId": 516055",
       "type": "movie",
-      "name": "Halef"
+      "title": "Halef"
     },
     {
-      "id": "tmdb:474606",
+      "tmdbId": 474606",
       "type": "movie",
-      "name": "Mezeci Çırağı"
+      "title": "Mezeci Çırağı"
     },
     {
-      "id": "tmdb:607245",
+      "tmdbId": 607245",
       "type": "movie",
-      "name": "Beni de Götür"
+      "title": "Beni de Götür"
     },
     {
-      "id": "tmdb:417024",
+      "tmdbId": 417024",
       "type": "movie",
-      "name": "Babaların Babası"
+      "title": "Babaların Babası"
     },
     {
-      "id": "tmdb:665766",
+      "tmdbId": 665766",
       "type": "movie",
-      "name": "Türkler Geliyor: Adaletin Kılıcı"
+      "title": "Türkler Geliyor: Adaletin Kılıcı"
     },
     {
-      "id": "tmdb:49833",
+      "tmdbId": 49833",
       "type": "movie",
-      "name": "Ay Lav Yu"
+      "title": "Ay Lav Yu"
     },
     {
-      "id": "tmdb:271957",
+      "tmdbId": 271957",
       "type": "movie",
-      "name": "Erkekler"
+      "title": "Erkekler"
     },
     {
-      "id": "tmdb:669738",
+      "tmdbId": 669738",
       "type": "movie",
-      "name": "Aşk-ı Suzan"
+      "title": "Aşk-ı Suzan"
     },
     {
-      "id": "tmdb:637831",
+      "tmdbId": 637831",
       "type": "movie",
-      "name": "Kim Daha Mutlu"
+      "title": "Kim Daha Mutlu"
     },
     {
-      "id": "tmdb:271955",
+      "tmdbId": 271955",
       "type": "movie",
-      "name": "Kadın İşi Banka Soygunu"
+      "title": "Kadın İşi Banka Soygunu"
     },
     {
-      "id": "tmdb:542566",
+      "tmdbId": 542566",
       "type": "movie",
-      "name": "Bambaşka: Başka Bir Aşk Hikayesi"
+      "title": "Bambaşka: Başka Bir Aşk Hikayesi"
     },
     {
-      "id": "tmdb:622225",
+      "tmdbId": 622225",
       "type": "movie",
-      "name": "Kraliçe Lear"
+      "title": "Kraliçe Lear"
     },
     {
-      "id": "tmdb:1053054",
+      "tmdbId": 1053054",
       "type": "movie",
-      "name": "Sil Baştan Kaynanam"
+      "title": "Sil Baştan Kaynanam"
     },
     {
-      "id": "tmdb:607337",
+      "tmdbId": 607337",
       "type": "movie",
-      "name": "Yanımda Kal"
+      "title": "Yanımda Kal"
     },
     {
-      "id": "tmdb:840431",
+      "tmdbId": 840431",
       "type": "movie",
-      "name": "Bembeyaz"
+      "title": "Bembeyaz"
     },
     {
-      "id": "tmdb:645972",
+      "tmdbId": 645972",
       "type": "movie",
-      "name": "Hür Köle"
+      "title": "Hür Köle"
     },
     {
-      "id": "tmdb:212778",
+      "tmdbId": 212778",
       "type": "movie",
-      "name": "Şef"
+      "title": "Şef"
     },
     {
-      "id": "tmdb:528008",
+      "tmdbId": 528008",
       "type": "movie",
-      "name": "İyi ki Doğdun Abla"
+      "title": "İyi ki Doğdun Abla"
     },
     {
-      "id": "tmdb:442398",
+      "tmdbId": 442398",
       "type": "movie",
-      "name": "Kızkaçıran"
+      "title": "Kızkaçıran"
     },
     {
-      "id": "tmdb:610616",
+      "tmdbId": 610616",
       "type": "movie",
-      "name": "Keşif"
+      "title": "Keşif"
     },
     {
-      "id": "tmdb:615282",
+      "tmdbId": 615282",
       "type": "movie",
-      "name": "Güller"
+      "title": "Güller"
     },
     {
-      "id": "tmdb:629583",
+      "tmdbId": 629583",
       "type": "movie",
-      "name": "Dünya Hali"
+      "title": "Dünya Hali"
     },
     {
-      "id": "tmdb:51243",
+      "tmdbId": 51243",
       "type": "movie",
-      "name": "Vay Arkadaş"
+      "title": "Vay Arkadaş"
     },
     {
-      "id": "tmdb:696191",
+      "tmdbId": 696191",
       "type": "movie",
-      "name": "Benden Hikayesi"
+      "title": "Benden Hikayesi"
     },
     {
-      "id": "tmdb:417333",
+      "tmdbId": 417333",
       "type": "movie",
-      "name": "Yola Geldik"
+      "title": "Yola Geldik"
     },
     {
-      "id": "tmdb:422040",
+      "tmdbId": 422040",
       "type": "movie",
-      "name": "Rüzgarda Salınan Nilüfer"
+      "title": "Rüzgarda Salınan Nilüfer"
     },
     {
-      "id": "tmdb:445340",
+      "tmdbId": 445340",
       "type": "movie",
-      "name": "Bayram Abi"
+      "title": "Bayram Abi"
     },
     {
-      "id": "tmdb:613976",
+      "tmdbId": 613976",
       "type": "movie",
-      "name": "Aşk Bu Mu?"
+      "title": "Aşk Bu Mu?"
     },
     {
-      "id": "tmdb:658263",
+      "tmdbId": 658263",
       "type": "movie",
-      "name": "Sorma Neden?"
+      "title": "Sorma Neden?"
     },
     {
-      "id": "tmdb:1008668",
+      "tmdbId": 1008668",
       "type": "movie",
-      "name": "Kurtuluş Hattı"
+      "title": "Kurtuluş Hattı"
     },
     {
-      "id": "tmdb:582167",
+      "tmdbId": 582167",
       "type": "movie",
-      "name": "Alemde Bir Gece"
+      "title": "Alemde Bir Gece"
     },
     {
-      "id": "tmdb:474723",
+      "tmdbId": 474723",
       "type": "movie",
-      "name": "Oha Diyorum"
+      "title": "Oha Diyorum"
     },
     {
-      "id": "tmdb:604251",
+      "tmdbId": 604251",
       "type": "movie",
-      "name": "Köpek Filmi"
+      "title": "Köpek Filmi"
     },
     {
-      "id": "tmdb:403978",
+      "tmdbId": 403978",
       "type": "movie",
-      "name": "Leblebi Tozu"
+      "title": "Leblebi Tozu"
     },
     {
-      "id": "tmdb:438077",
+      "tmdbId": 438077",
       "type": "movie",
-      "name": "Babaannem"
+      "title": "Babaannem"
     },
     {
-      "id": "tmdb:602865",
+      "tmdbId": 602865",
       "type": "movie",
-      "name": "Beyaz Balina"
+      "title": "Beyaz Balina"
     },
     {
-      "id": "tmdb:655753",
+      "tmdbId": 655753",
       "type": "movie",
-      "name": "Kuklalı Köşk"
+      "title": "Kuklalı Köşk"
     },
     {
-      "id": "tmdb:564133",
+      "tmdbId": 564133",
       "type": "movie",
-      "name": "Değiştir Bakalım"
+      "title": "Değiştir Bakalım"
     },
     {
-      "id": "tmdb:434992",
+      "tmdbId": 434992",
       "type": "movie",
-      "name": "Yolsuzlar Çetesi"
+      "title": "Yolsuzlar Çetesi"
     },
     {
-      "id": "tmdb:464497",
+      "tmdbId": 464497",
       "type": "movie",
-      "name": "Oğlan Bizim Kız Bizim"
+      "title": "Oğlan Bizim Kız Bizim"
     },
     {
-      "id": "tmdb:913760",
+      "tmdbId": 913760",
       "type": "movie",
-      "name": "Klondike"
+      "title": "Klondike"
     },
     {
-      "id": "tmdb:683393",
+      "tmdbId": 683393",
       "type": "movie",
-      "name": "Birlikte Öleceğiz"
+      "title": "Birlikte Öleceğiz"
     },
     {
-      "id": "tmdb:880482",
+      "tmdbId": 880482",
       "type": "movie",
-      "name": "Diyalog"
+      "title": "Diyalog"
     },
     {
-      "id": "tmdb:688864",
+      "tmdbId": 688864",
       "type": "movie",
-      "name": "Pırdino Sürpriz Yumurta"
+      "title": "Pırdino Sürpriz Yumurta"
     },
     {
-      "id": "tmdb:520028",
+      "tmdbId": 520028",
       "type": "movie",
-      "name": "Oflu Hoca Trakya'da"
+      "title": "Oflu Hoca Trakya'da"
     },
     {
-      "id": "tmdb:573790",
+      "tmdbId": 573790",
       "type": "movie",
-      "name": "Organik Aşk"
+      "title": "Organik Aşk"
     },
     {
-      "id": "tmdb:431092",
+      "tmdbId": 431092",
       "type": "movie",
-      "name": "Dolanma"
+      "title": "Dolanma"
     },
     {
-      "id": "tmdb:438176",
+      "tmdbId": 438176",
       "type": "movie",
-      "name": "Sözün Bittiği Yer"
+      "title": "Sözün Bittiği Yer"
     },
     {
-      "id": "tmdb:357485",
+      "tmdbId": 357485",
       "type": "movie",
-      "name": "Delisin! Delisin!"
+      "title": "Delisin! Delisin!"
     },
     {
-      "id": "tmdb:527799",
+      "tmdbId": 527799",
       "type": "movie",
-      "name": "Kiraz Mevsimi"
+      "title": "Kiraz Mevsimi"
     },
     {
-      "id": "tmdb:719755",
+      "tmdbId": 719755",
       "type": "movie",
-      "name": "Kiki ile Miki: Alatura"
+      "title": "Kiki ile Miki: Alatura"
     },
     {
-      "id": "tmdb:470125",
+      "tmdbId": 470125",
       "type": "movie",
-      "name": "Batlır"
+      "title": "Batlır"
     },
     {
-      "id": "tmdb:562280",
+      "tmdbId": 562280",
       "type": "movie",
-      "name": "Kafalar Karışık"
+      "title": "Kafalar Karışık"
     },
     {
-      "id": "tmdb:1062235",
+      "tmdbId": 1062235",
       "type": "movie",
-      "name": "Sonsuza Dek Nedime"
+      "title": "Sonsuza Dek Nedime"
     },
     {
-      "id": "tmdb:361583",
+      "tmdbId": 361583",
       "type": "movie",
-      "name": "Adana İşi"
+      "title": "Adana İşi"
     },
     {
-      "id": "tmdb:495356",
+      "tmdbId": 495356",
       "type": "movie",
-      "name": "Kaybedenler Kulübü Yolda"
+      "title": "Kaybedenler Kulübü Yolda"
     },
     {
-      "id": "tmdb:1112101",
+      "tmdbId": 1112101",
       "type": "movie",
-      "name": "Niloya"
+      "title": "Niloya"
     },
     {
-      "id": "tmdb:462659",
+      "tmdbId": 462659",
       "type": "movie",
-      "name": "Baba Mirası"
+      "title": "Baba Mirası"
     },
     {
-      "id": "tmdb:554962",
+      "tmdbId": 554962",
       "type": "movie",
-      "name": "Belalılar"
+      "title": "Belalılar"
     },
     {
-      "id": "tmdb:1065000",
+      "tmdbId": 1065000",
       "type": "movie",
-      "name": "Ali Çevlik"
+      "title": "Ali Çevlik"
     },
     {
-      "id": "tmdb:328845",
+      "tmdbId": 328845",
       "type": "movie",
-      "name": "İnşaat 2: On Yılda Bir"
+      "title": "İnşaat 2: On Yılda Bir"
     },
     {
-      "id": "tmdb:346098",
+      "tmdbId": 346098",
       "type": "movie",
-      "name": "Oflu Hoca'nın Şifresi"
+      "title": "Oflu Hoca'nın Şifresi"
     },
     {
-      "id": "tmdb:482022",
+      "tmdbId": 482022",
       "type": "movie",
-      "name": "Baş Belası"
+      "title": "Baş Belası"
     },
     {
-      "id": "tmdb:348840",
+      "tmdbId": 348840",
       "type": "movie",
-      "name": "Vay Başıma Gelenler!"
+      "title": "Vay Başıma Gelenler!"
     },
     {
-      "id": "tmdb:468270",
+      "tmdbId": 468270",
       "type": "movie",
-      "name": "Bütün Saadetler Mümkündür"
+      "title": "Bütün Saadetler Mümkündür"
     },
     {
-      "id": "tmdb:653805",
+      "tmdbId": 653805",
       "type": "movie",
-      "name": "Hemen Döneriz"
+      "title": "Hemen Döneriz"
     },
     {
-      "id": "tmdb:470795",
+      "tmdbId": 470795",
       "type": "movie",
-      "name": "Temel ile Dursun İstanbul'da"
+      "title": "Temel ile Dursun İstanbul'da"
     },
     {
-      "id": "tmdb:528305",
+      "tmdbId": 528305",
       "type": "movie",
-      "name": "Canavar Gibi: Türk İşi Frankeştayn"
+      "title": "Canavar Gibi: Türk İşi Frankeştayn"
     },
     {
-      "id": "tmdb:412369",
+      "tmdbId": 412369",
       "type": "movie",
-      "name": "Koca Dünya"
+      "title": "Koca Dünya"
     },
     {
-      "id": "tmdb:539197",
+      "tmdbId": 539197",
       "type": "movie",
-      "name": "Eski Köye Yeni Adet"
+      "title": "Eski Köye Yeni Adet"
     },
     {
-      "id": "tmdb:686924",
+      "tmdbId": 686924",
       "type": "movie",
-      "name": "Hasbihal"
+      "title": "Hasbihal"
     },
     {
-      "id": "tmdb:450928",
+      "tmdbId": 450928",
       "type": "movie",
-      "name": "B.O.K.: Bi O Kalmıştı"
+      "title": "B.O.K.: Bi O Kalmıştı"
     },
     {
-      "id": "tmdb:1070247",
+      "tmdbId": 1070247",
       "type": "movie",
-      "name": "Randıman"
+      "title": "Randıman"
     },
     {
-      "id": "tmdb:372232",
+      "tmdbId": 372232",
       "type": "movie",
-      "name": "Rüzgarın Hatıraları"
+      "title": "Rüzgarın Hatıraları"
     },
     {
-      "id": "tmdb:674384",
+      "tmdbId": 674384",
       "type": "movie",
-      "name": "Laz Kit"
+      "title": "Laz Kit"
     },
     {
-      "id": "tmdb:687888",
+      "tmdbId": 687888",
       "type": "movie",
-      "name": "Bizum Uşaklar"
+      "title": "Bizum Uşaklar"
     },
     {
-      "id": "tmdb:554960",
+      "tmdbId": 554960",
       "type": "movie",
-      "name": "Maskeli Krolar"
+      "title": "Maskeli Krolar"
     },
     {
-      "id": "tmdb:595870",
+      "tmdbId": 595870",
       "type": "movie",
-      "name": "Mazlum Kuzey & Kuddusi 2: La! Kasada Para Var!"
+      "title": "Mazlum Kuzey & Kuddusi 2: La! Kasada Para Var!"
     },
     {
-      "id": "tmdb:1054513",
+      "tmdbId": 1054513",
       "type": "movie",
-      "name": "Özel Ders"
+      "title": "Özel Ders"
     },
     {
-      "id": "tmdb:745518",
+      "tmdbId": 745518",
       "type": "movie",
-      "name": "Çatlak"
+      "title": "Çatlak"
     },
     {
-      "id": "tmdb:677053",
+      "tmdbId": 677053",
       "type": "movie",
-      "name": "İki Şafak Arasında"
+      "title": "İki Şafak Arasında"
     },
     {
-      "id": "tmdb:721413",
+      "tmdbId": 721413",
       "type": "movie",
-      "name": "Plaza"
+      "title": "Plaza"
     },
     {
-      "id": "tmdb:699395",
+      "tmdbId": 699395",
       "type": "movie",
-      "name": "Malazgirt 1071"
+      "title": "Malazgirt 1071"
     },
     {
-      "id": "tmdb:776659",
+      "tmdbId": 776659",
       "type": "movie",
-      "name": "Okul Tıraşı"
+      "title": "Okul Tıraşı"
     },
     {
-      "id": "tmdb:1029826",
+      "tmdbId": 1029826",
       "type": "movie",
-      "name": "Kimsesizler Oteli"
+      "title": "Kimsesizler Oteli"
     },
     {
-      "id": "tmdb:685805",
+      "tmdbId": 685805",
       "type": "movie",
-      "name": "Dalavere"
+      "title": "Dalavere"
     },
     {
-      "id": "tmdb:745523",
+      "tmdbId": 745523",
       "type": "movie",
-      "name": "Dirlik Düzenlik"
+      "title": "Dirlik Düzenlik"
     },
     {
-      "id": "tmdb:1040263",
+      "tmdbId": 1040263",
       "type": "movie",
-      "name": "Kal"
+      "title": "Kal"
     },
     {
-      "id": "tmdb:1026822",
+      "tmdbId": 1026822",
       "type": "movie",
-      "name": "Cici"
+      "title": "Cici"
     },
     {
-      "id": "tmdb:1033027",
+      "tmdbId": 1033027",
       "type": "movie",
-      "name": "Aşk Çağırırsan Gelir"
+      "title": "Aşk Çağırırsan Gelir"
     },
     {
-      "id": "tmdb:943107",
+      "tmdbId": 943107",
       "type": "movie",
-      "name": "Bir Dilek Tut"
+      "title": "Bir Dilek Tut"
     },
     {
-      "id": "tmdb:1022997",
+      "tmdbId": 1022997",
       "type": "movie",
-      "name": "Son Parti"
+      "title": "Son Parti"
     },
     {
-      "id": "tmdb:1023435",
+      "tmdbId": 1023435",
       "type": "movie",
-      "name": "İşin Aslı"
+      "title": "İşin Aslı"
     },
     {
-      "id": "tmdb:361417",
+      "tmdbId": 361417",
       "type": "movie",
-      "name": "Çilek"
+      "title": "Çilek"
     },
     {
-      "id": "tmdb:1034001",
+      "tmdbId": 1034001",
       "type": "movie",
-      "name": "Katakulli"
+      "title": "Katakulli"
     },
     {
-      "id": "tmdb:402455",
+      "tmdbId": 402455",
       "type": "movie",
-      "name": "Ertuğrul 1890"
+      "title": "Ertuğrul 1890"
     },
     {
-      "id": "tmdb:832841",
+      "tmdbId": 832841",
       "type": "movie",
-      "name": "Aile Hükümeti"
+      "title": "Aile Hükümeti"
     },
     {
-      "id": "tmdb:855837",
+      "tmdbId": 855837",
       "type": "movie",
-      "name": "Pota"
+      "title": "Pota"
     },
     {
-      "id": "tmdb:855293",
+      "tmdbId": 855293",
       "type": "movie",
-      "name": "Anadolu Leoparı"
+      "title": "Anadolu Leoparı"
     },
     {
-      "id": "tmdb:1026998",
+      "tmdbId": 1026998",
       "type": "movie",
-      "name": "Doru: Macera Ormanı"
+      "title": "Doru: Macera Ormanı"
     },
     {
-      "id": "tmdb:518473",
+      "tmdbId": 518473",
       "type": "movie",
-      "name": "Gri Değil, Siyah: Ankara Rocks!"
+      "title": "Gri Değil, Siyah: Ankara Rocks!"
     },
     {
-      "id": "tmdb:636687",
+      "tmdbId": 636687",
       "type": "movie",
-      "name": "Topal Şükran'ın Maceraları"
+      "title": "Topal Şükran'ın Maceraları"
     },
     {
-      "id": "tmdb:605279",
+      "tmdbId": 605279",
       "type": "movie",
-      "name": "Küçük Şeyler"
+      "title": "Küçük Şeyler"
     },
     {
-      "id": "tmdb:887107",
+      "tmdbId": 887107",
       "type": "movie",
-      "name": "Hep Yek 4: Bela Okuma Altan"
+      "title": "Hep Yek 4: Bela Okuma Altan"
     },
     {
-      "id": "tmdb:1501700",
+      "tmdbId": 1501700",
       "type": "movie",
-      "name": "Bizim Semtin Çocukları"
+      "title": "Bizim Semtin Çocukları"
     },
     {
-      "id": "tmdb:1138193",
+      "tmdbId": 1138193",
       "type": "movie",
-      "name": "Ben Böyle Şansın"
+      "title": "Ben Böyle Şansın"
     },
     {
-      "id": "tmdb:785537",
+      "tmdbId": 785537",
       "type": "movie",
-      "name": "Geçen Yaz"
+      "title": "Geçen Yaz"
     },
     {
-      "id": "tmdb:684697",
+      "tmdbId": 684697",
       "type": "movie",
-      "name": "Stray"
+      "title": "Stray"
     },
     {
-      "id": "tmdb:664348",
+      "tmdbId": 664348",
       "type": "movie",
-      "name": "Nasipse Adayız"
+      "title": "Nasipse Adayız"
     },
     {
-      "id": "tmdb:757597",
+      "tmdbId": 757597",
       "type": "movie",
-      "name": "Sadece Farklı"
+      "title": "Sadece Farklı"
     },
     {
-      "id": "tmdb:809236",
+      "tmdbId": 809236",
       "type": "movie",
-      "name": "Sen Hiç Ateş Böceği Gördün mü?"
+      "title": "Sen Hiç Ateş Böceği Gördün mü?"
     },
     {
-      "id": "tmdb:682262",
+      "tmdbId": 682262",
       "type": "movie",
-      "name": "Sabit Kanca: Son Soru"
+      "title": "Sabit Kanca: Son Soru"
     },
     {
-      "id": "tmdb:785534",
+      "tmdbId": 785534",
       "type": "movie",
-      "name": "Kağıttan Hayatlar"
+      "title": "Kağıttan Hayatlar"
     },
     {
-      "id": "tmdb:591495",
+      "tmdbId": 591495",
       "type": "movie",
-      "name": "Özgür Dünya"
+      "title": "Özgür Dünya"
     },
     {
-      "id": "tmdb:798422",
+      "tmdbId": 798422",
       "type": "movie",
-      "name": "Bir Nükhet Duru Filmi: Duru Olmak"
+      "title": "Bir Nükhet Duru Filmi: Duru Olmak"
     },
     {
-      "id": "tmdb:752973",
+      "tmdbId": 752973",
       "type": "movie",
-      "name": "İyi ki Yapmışım"
+      "title": "İyi ki Yapmışım"
     },
     {
-      "id": "tmdb:527749",
+      "tmdbId": 527749",
       "type": "movie",
-      "name": "Tatlı Bela"
+      "title": "Tatlı Bela"
     },
     {
-      "id": "tmdb:646955",
+      "tmdbId": 646955",
       "type": "movie",
-      "name": "Azizler"
+      "title": "Azizler"
     },
     {
-      "id": "tmdb:671858",
+      "tmdbId": 671858",
       "type": "movie",
-      "name": "Ağır Romantik"
+      "title": "Ağır Romantik"
     },
     {
-      "id": "tmdb:745520",
+      "tmdbId": 745520",
       "type": "movie",
-      "name": "Dersaadet Apartmanı"
+      "title": "Dersaadet Apartmanı"
     },
     {
-      "id": "tmdb:654823",
+      "tmdbId": 654823",
       "type": "movie",
-      "name": "Aman Reis Duymasın"
+      "title": "Aman Reis Duymasın"
     },
     {
-      "id": "tmdb:668156",
+      "tmdbId": 668156",
       "type": "movie",
-      "name": "9 Kere Leyla"
+      "title": "9 Kere Leyla"
     },
     {
-      "id": "tmdb:511586",
+      "tmdbId": 511586",
       "type": "movie",
-      "name": "Rüzgar"
+      "title": "Rüzgar"
     },
     {
-      "id": "tmdb:528488",
+      "tmdbId": 528488",
       "type": "movie",
-      "name": "Kardeşim İçin: Der'a"
+      "title": "Kardeşim İçin: Der'a"
     },
     {
-      "id": "tmdb:409899",
+      "tmdbId": 409899",
       "type": "movie",
-      "name": "Devir"
+      "title": "Devir"
     },
     {
-      "id": "tmdb:327038",
+      "tmdbId": 327038",
       "type": "movie",
-      "name": "Olur Olur!"
+      "title": "Olur Olur!"
     },
     {
-      "id": "tmdb:657229",
+      "tmdbId": 657229",
       "type": "movie",
-      "name": "Şuursuz Aşk"
+      "title": "Şuursuz Aşk"
     },
     {
-      "id": "tmdb:271958",
+      "tmdbId": 271958",
       "type": "movie",
-      "name": "Karnaval"
+      "title": "Karnaval"
     },
     {
-      "id": "tmdb:517112",
+      "tmdbId": 517112",
       "type": "movie",
-      "name": "Taksim Hold'em"
+      "title": "Taksim Hold'em"
     },
     {
-      "id": "tmdb:495339",
+      "tmdbId": 495339",
       "type": "movie",
-      "name": "Enes Batur: Hayal mi Gerçek mi?"
+      "title": "Enes Batur: Hayal mi Gerçek mi?"
     },
     {
-      "id": "tmdb:837348",
+      "tmdbId": 837348",
       "type": "movie",
-      "name": "Koyver Gitsin"
+      "title": "Koyver Gitsin"
     },
     {
-      "id": "tmdb:657223",
+      "tmdbId": 657223",
       "type": "movie",
-      "name": "Aslan Parçam"
+      "title": "Aslan Parçam"
     },
     {
-      "id": "tmdb:640154",
+      "tmdbId": 640154",
       "type": "movie",
-      "name": "Karakomik Filmler: 2 Arada"
+      "title": "Karakomik Filmler: 2 Arada"
     },
     {
-      "id": "tmdb:665090",
+      "tmdbId": 665090",
       "type": "movie",
-      "name": "Karakomik Filmler 2: Deli"
+      "title": "Karakomik Filmler 2: Deli"
     },
     {
-      "id": "tmdb:664593",
+      "tmdbId": 664593",
       "type": "movie",
-      "name": "Eltilerin Savaşı"
+      "title": "Eltilerin Savaşı"
     },
     {
-      "id": "tmdb:665089",
+      "tmdbId": 665089",
       "type": "movie",
-      "name": "Karakomik Filmler 2: Emanet"
+      "title": "Karakomik Filmler 2: Emanet"
     },
     {
-      "id": "tmdb:682426",
+      "tmdbId": 682426",
       "type": "movie",
-      "name": "Yarına Tek Bilet"
+      "title": "Yarına Tek Bilet"
     },
     {
-      "id": "tmdb:640155",
+      "tmdbId": 640155",
       "type": "movie",
-      "name": "Karakomik Filmler: Kaçamak"
+      "title": "Karakomik Filmler: Kaçamak"
     },
     {
-      "id": "tmdb:657247",
+      "tmdbId": 657247",
       "type": "movie",
-      "name": "Baba Parası"
+      "title": "Baba Parası"
     },
     {
-      "id": "tmdb:568021",
+      "tmdbId": 568021",
       "type": "movie",
-      "name": "Bizim İçin Şampiyon"
+      "title": "Bizim İçin Şampiyon"
     },
     {
-      "id": "tmdb:590096",
+      "tmdbId": 590096",
       "type": "movie",
-      "name": "Mucize 2: Aşk"
+      "title": "Mucize 2: Aşk"
     },
     {
-      "id": "tmdb:594170",
+      "tmdbId": 594170",
       "type": "movie",
-      "name": "Hababam Sınıfı Yeniden"
+      "title": "Hababam Sınıfı Yeniden"
     },
     {
-      "id": "tmdb:583247",
+      "tmdbId": 583247",
       "type": "movie",
-      "name": "İyi Oyun"
+      "title": "İyi Oyun"
     },
     {
-      "id": "tmdb:777330",
+      "tmdbId": 777330",
       "type": "movie",
-      "name": "Karınca"
+      "title": "Karınca"
     },
     {
-      "id": "tmdb:557289",
+      "tmdbId": 557289",
       "type": "movie",
-      "name": "Arapsaçı"
+      "title": "Arapsaçı"
     },
     {
-      "id": "tmdb:844875",
+      "tmdbId": 844875",
       "type": "movie",
-      "name": "Adı Aşk"
+      "title": "Adı Aşk"
     },
     {
-      "id": "tmdb:527791",
+      "tmdbId": 527791",
       "type": "movie",
-      "name": "Hürkuş: Göklerdeki Kahraman"
+      "title": "Hürkuş: Göklerdeki Kahraman"
     },
     {
-      "id": "tmdb:477340",
+      "tmdbId": 477340",
       "type": "movie",
-      "name": "Çat Kapı Aşk"
+      "title": "Çat Kapı Aşk"
     },
     {
-      "id": "tmdb:697325",
+      "tmdbId": 697325",
       "type": "movie",
-      "name": "Acı Kiraz"
+      "title": "Acı Kiraz"
     },
     {
-      "id": "tmdb:1067948",
+      "tmdbId": 1067948",
       "type": "movie",
-      "name": "Müsaadenizle Büyükler"
+      "title": "Müsaadenizle Büyükler"
     },
     {
-      "id": "tmdb:507295",
+      "tmdbId": 507295",
       "type": "movie",
-      "name": "Görevimiz Tatil"
+      "title": "Görevimiz Tatil"
     },
     {
-      "id": "tmdb:477312",
+      "tmdbId": 477312",
       "type": "movie",
-      "name": "Hep Yek 3: Titrettin Beni…"
+      "title": "Hep Yek 3: Titrettin Beni…"
     },
     {
-      "id": "tmdb:504318",
+      "tmdbId": 504318",
       "type": "movie",
-      "name": "Kar"
+      "title": "Kar"
     },
     {
-      "id": "tmdb:450456",
+      "tmdbId": 450456",
       "type": "movie",
-      "name": "Biz Size Döneriz"
+      "title": "Biz Size Döneriz"
     },
     {
-      "id": "tmdb:477277",
+      "tmdbId": 477277",
       "type": "movie",
-      "name": "Dünyanın En Güzel Kokusu 2"
+      "title": "Dünyanın En Güzel Kokusu 2"
     },
     {
-      "id": "tmdb:477337",
+      "tmdbId": 477337",
       "type": "movie",
-      "name": "Martıların Efendisi"
+      "title": "Martıların Efendisi"
     },
     {
-      "id": "tmdb:392011",
+      "tmdbId": 392011",
       "type": "movie",
-      "name": "Kedi"
+      "title": "Kedi"
     },
     {
-      "id": "tmdb:477288",
+      "tmdbId": 477288",
       "type": "movie",
-      "name": "Yol Ayrımı"
+      "title": "Yol Ayrımı"
     },
     {
-      "id": "tmdb:443041",
+      "tmdbId": 443041",
       "type": "movie",
-      "name": "Vezir Parmağı"
+      "title": "Vezir Parmağı"
     },
     {
-      "id": "tmdb:445944",
+      "tmdbId": 445944",
       "type": "movie",
-      "name": "Deli Aşk"
+      "title": "Deli Aşk"
     },
     {
-      "id": "tmdb:464847",
+      "tmdbId": 464847",
       "type": "movie",
-      "name": "Yaşamak Güzel Şey"
+      "title": "Yaşamak Güzel Şey"
     },
     {
-      "id": "tmdb:448760",
+      "tmdbId": 448760",
       "type": "movie",
-      "name": "Çok Uzak Fazla Yakın"
+      "title": "Çok Uzak Fazla Yakın"
     },
     {
-      "id": "tmdb:477287",
+      "tmdbId": 477287",
       "type": "movie",
-      "name": "Yanlış Anlama"
+      "title": "Yanlış Anlama"
     },
     {
-      "id": "tmdb:193544",
+      "tmdbId": 193544",
       "type": "movie",
-      "name": "Sen Aydınlatırsın Geceyi"
+      "title": "Sen Aydınlatırsın Geceyi"
     },
     {
-      "id": "tmdb:477292",
+      "tmdbId": 477292",
       "type": "movie",
-      "name": "Bizim Küçük Günahlarımız"
+      "title": "Bizim Küçük Günahlarımız"
     },
     {
-      "id": "tmdb:351462",
+      "tmdbId": 351462",
       "type": "movie",
-      "name": "Tehlikeyle Flört"
+      "title": "Tehlikeyle Flört"
     },
     {
-      "id": "tmdb:466056",
+      "tmdbId": 466056",
       "type": "movie",
-      "name": "Sinyalciler"
+      "title": "Sinyalciler"
     },
     {
-      "id": "tmdb:27205",
+      "tmdbId": 27205",
       "type": "movie",
-      "name": "Başlangıç"
+      "title": "Başlangıç"
     },
     {
-      "id": "tmdb:558024",
+      "tmdbId": 558024",
       "type": "movie",
-      "name": "Sarıkamış Çocukları"
+      "title": "Sarıkamış Çocukları"
     },
     {
-      "id": "tmdb:470121",
+      "tmdbId": 470121",
       "type": "movie",
-      "name": "Cumali Ceber: Allah Seni Alsın"
+      "title": "Cumali Ceber: Allah Seni Alsın"
     },
     {
-      "id": "tmdb:482601",
+      "tmdbId": 482601",
       "type": "movie",
-      "name": "Firardayız"
+      "title": "Firardayız"
     },
     {
-      "id": "tmdb:474824",
+      "tmdbId": 474824",
       "type": "movie",
-      "name": "Benim Varoş Hikayem"
+      "title": "Benim Varoş Hikayem"
     },
     {
-      "id": "tmdb:546511",
+      "tmdbId": 546511",
       "type": "movie",
-      "name": "Gürbüz: Hadi Allah'a Emanet"
+      "title": "Gürbüz: Hadi Allah'a Emanet"
     },
     {
-      "id": "tmdb:241187",
+      "tmdbId": 241187",
       "type": "movie",
-      "name": "Ben O Değilim"
+      "title": "Ben O Değilim"
     },
     {
-      "id": "tmdb:539186",
+      "tmdbId": 539186",
       "type": "movie",
-      "name": "Kız Kardeşler"
+      "title": "Kız Kardeşler"
     },
     {
-      "id": "tmdb:518439",
+      "tmdbId": 518439",
       "type": "movie",
-      "name": "Yol Kenarı"
+      "title": "Yol Kenarı"
     },
     {
-      "id": "tmdb:601326",
+      "tmdbId": 601326",
       "type": "movie",
-      "name": "Çakallarla Dans 5"
+      "title": "Çakallarla Dans 5"
     },
     {
-      "id": "tmdb:631475",
+      "tmdbId": 631475",
       "type": "movie",
-      "name": "Kovan"
+      "title": "Kovan"
     },
     {
-      "id": "tmdb:644920",
+      "tmdbId": 644920",
       "type": "movie",
-      "name": "Bulmaca Kulesi: Dev Kuşun Gizemi"
+      "title": "Bulmaca Kulesi: Dev Kuşun Gizemi"
     },
     {
-      "id": "tmdb:569712",
+      "tmdbId": 569712",
       "type": "movie",
-      "name": "Bir Damla Aşk"
+      "title": "Bir Damla Aşk"
     },
     {
-      "id": "tmdb:437486",
+      "tmdbId": 437486",
       "type": "movie",
-      "name": "Kötü Çocuk"
+      "title": "Kötü Çocuk"
     },
     {
-      "id": "tmdb:477300",
+      "tmdbId": 477300",
       "type": "movie",
-      "name": "Kardeşim Benim 2"
+      "title": "Kardeşim Benim 2"
     },
     {
-      "id": "tmdb:542008",
+      "tmdbId": 542008",
       "type": "movie",
-      "name": "Babamın Ceketi"
+      "title": "Babamın Ceketi"
     },
     {
-      "id": "tmdb:499473",
+      "tmdbId": 499473",
       "type": "movie",
-      "name": "Hadi Be Oğlum"
+      "title": "Hadi Be Oğlum"
     },
     {
-      "id": "tmdb:695778",
+      "tmdbId": 695778",
       "type": "movie",
-      "name": "Umudun Kıyısında"
+      "title": "Umudun Kıyısında"
     },
     {
-      "id": "tmdb:494502",
+      "tmdbId": 494502",
       "type": "movie",
-      "name": "Her Şey Mümkün"
+      "title": "Her Şey Mümkün"
     },
     {
-      "id": "tmdb:599602",
+      "tmdbId": 599602",
       "type": "movie",
-      "name": "Prangalı Yarim"
+      "title": "Prangalı Yarim"
     },
     {
-      "id": "tmdb:114222",
+      "tmdbId": 114222",
       "type": "movie",
-      "name": "Tatil Kitabı"
+      "title": "Tatil Kitabı"
     },
     {
-      "id": "tmdb:386373",
+      "tmdbId": 386373",
       "type": "movie",
-      "name": "Dünyanın En Güzel Kokusu"
+      "title": "Dünyanın En Güzel Kokusu"
     },
     {
-      "id": "tmdb:52284",
+      "tmdbId": 52284",
       "type": "movie",
-      "name": "Aşk Tutulması"
+      "title": "Aşk Tutulması"
     },
     {
-      "id": "tmdb:445650",
+      "tmdbId": 445650",
       "type": "movie",
-      "name": "Sen Benim Her Şeyimsin"
+      "title": "Sen Benim Her Şeyimsin"
     },
     {
-      "id": "tmdb:586202",
+      "tmdbId": 586202",
       "type": "movie",
-      "name": "Melekleri Taşıyan Adam"
+      "title": "Melekleri Taşıyan Adam"
     },
     {
-      "id": "tmdb:468956",
+      "tmdbId": 468956",
       "type": "movie",
-      "name": "Bordo Bereliler: Suriye"
+      "title": "Bordo Bereliler: Suriye"
     },
     {
-      "id": "tmdb:1824",
+      "tmdbId": 1824",
       "type": "movie",
-      "name": "50 İlk Öpücük"
+      "title": "50 İlk Öpücük"
     },
     {
-      "id": "tmdb:386376",
+      "tmdbId": 386376",
       "type": "movie",
-      "name": "Osman Pazarlama"
+      "title": "Osman Pazarlama"
     },
     {
-      "id": "tmdb:462653",
+      "tmdbId": 462653",
       "type": "movie",
-      "name": "İkinci Şans"
+      "title": "İkinci Şans"
     },
     {
-      "id": "tmdb:412200",
+      "tmdbId": 412200",
       "type": "movie",
-      "name": "Tereddüt"
+      "title": "Tereddüt"
     },
     {
-      "id": "tmdb:446210",
+      "tmdbId": 446210",
       "type": "movie",
-      "name": "Yok Artık! 2"
+      "title": "Yok Artık! 2"
     },
     {
-      "id": "tmdb:394159",
+      "tmdbId": 394159",
       "type": "movie",
-      "name": "Kor"
+      "title": "Kor"
     },
     {
-      "id": "tmdb:348750",
+      "tmdbId": 348750",
       "type": "movie",
-      "name": "8 Saniye"
+      "title": "8 Saniye"
     },
     {
-      "id": "tmdb:480737",
+      "tmdbId": 480737",
       "type": "movie",
-      "name": "Köstebekgiller 2: Gölge'nin Tılsımı"
+      "title": "Köstebekgiller 2: Gölge'nin Tılsımı"
     },
     {
-      "id": "tmdb:129119",
+      "tmdbId": 129119",
       "type": "movie",
-      "name": "Araf"
+      "title": "Araf"
     },
     {
-      "id": "tmdb:70937",
+      "tmdbId": 70937",
       "type": "movie",
-      "name": "Bifo & CMYLMZ"
+      "title": "Bifo & CMYLMZ"
     },
     {
-      "id": "tmdb:528804",
+      "tmdbId": 528804",
       "type": "movie",
-      "name": "Put Şeylere"
+      "title": "Put Şeylere"
     },
     {
-      "id": "tmdb:569387",
+      "tmdbId": 569387",
       "type": "movie",
-      "name": "Müthiş Bir Film"
+      "title": "Müthiş Bir Film"
     },
     {
-      "id": "tmdb:422991",
+      "tmdbId": 422991",
       "type": "movie",
-      "name": "Ekşi Elmalar"
+      "title": "Ekşi Elmalar"
     },
     {
-      "id": "tmdb:630631",
+      "tmdbId": 630631",
       "type": "movie",
-      "name": "Mehmet Salih"
+      "title": "Mehmet Salih"
     },
     {
-      "id": "tmdb:484924",
+      "tmdbId": 484924",
       "type": "movie",
-      "name": "Tatlı Şeyler"
+      "title": "Tatlı Şeyler"
     },
     {
-      "id": "tmdb:375625",
+      "tmdbId": 375625",
       "type": "movie",
-      "name": "Robinson Crusoe ve Cuma"
+      "title": "Robinson Crusoe ve Cuma"
     },
     {
-      "id": "tmdb:573499",
+      "tmdbId": 573499",
       "type": "movie",
-      "name": "Bende Kal"
+      "title": "Bende Kal"
     },
     {
-      "id": "tmdb:391649",
+      "tmdbId": 391649",
       "type": "movie",
-      "name": "Küçük Esnaf"
+      "title": "Küçük Esnaf"
     },
     {
-      "id": "tmdb:85409",
+      "tmdbId": 85409",
       "type": "movie",
-      "name": "Mommo: Kız Kardeşim"
+      "title": "Mommo: Kız Kardeşim"
     },
     {
-      "id": "tmdb:468955",
+      "tmdbId": 468955",
       "type": "movie",
-      "name": "Sümela'nın Şifresi 3: Cünyor Temel"
+      "title": "Sümela'nın Şifresi 3: Cünyor Temel"
     },
     {
-      "id": "tmdb:393418",
+      "tmdbId": 393418",
       "type": "movie",
-      "name": "Genç Pehlivanlar"
+      "title": "Genç Pehlivanlar"
     },
     {
-      "id": "tmdb:383640",
+      "tmdbId": 383640",
       "type": "movie",
-      "name": "Uzaklarda Arama"
+      "title": "Uzaklarda Arama"
     },
     {
-      "id": "tmdb:459914",
+      "tmdbId": 459914",
       "type": "movie",
-      "name": "4N1K"
+      "title": "4N1K"
     },
     {
-      "id": "tmdb:451153",
+      "tmdbId": 451153",
       "type": "movie",
-      "name": "Seni Seven Ölsün"
+      "title": "Seni Seven Ölsün"
     },
     {
-      "id": "tmdb:511074",
+      "tmdbId": 511074",
       "type": "movie",
-      "name": "Çam Yarması"
+      "title": "Çam Yarması"
     },
     {
-      "id": "tmdb:52667",
+      "tmdbId": 52667",
       "type": "movie",
-      "name": "Neşeli Hayat"
+      "title": "Neşeli Hayat"
     },
     {
-      "id": "tmdb:477314",
+      "tmdbId": 477314",
       "type": "movie",
-      "name": "Maide'nin Altın Günü"
+      "title": "Maide'nin Altın Günü"
     },
     {
-      "id": "tmdb:412672",
+      "tmdbId": 412672",
       "type": "movie",
-      "name": "Babamın Kanatları"
+      "title": "Babamın Kanatları"
     },
     {
-      "id": "tmdb:541765",
+      "tmdbId": 541765",
       "type": "movie",
-      "name": "Sevimli Emojiler 2"
+      "title": "Sevimli Emojiler 2"
     },
     {
-      "id": "tmdb:354659",
+      "tmdbId": 354659",
       "type": "movie",
-      "name": "Aşk Olsun"
+      "title": "Aşk Olsun"
     },
     {
-      "id": "tmdb:333886",
+      "tmdbId": 333886",
       "type": "movie",
-      "name": "Limonata"
+      "title": "Limonata"
     },
     {
-      "id": "tmdb:411514",
+      "tmdbId": 411514",
       "type": "movie",
-      "name": "Deliormanlı"
+      "title": "Deliormanlı"
     },
     {
-      "id": "tmdb:429235",
+      "tmdbId": 429235",
       "type": "movie",
-      "name": "Görümce"
+      "title": "Görümce"
     },
     {
-      "id": "tmdb:416953",
+      "tmdbId": 416953",
       "type": "movie",
-      "name": "Arama Moturu"
+      "title": "Arama Moturu"
     },
     {
-      "id": "tmdb:456669",
+      "tmdbId": 456669",
       "type": "movie",
-      "name": "Dönerse Senindir"
+      "title": "Dönerse Senindir"
     },
     {
-      "id": "tmdb:436379",
+      "tmdbId": 436379",
       "type": "movie",
-      "name": "Emanet"
+      "title": "Emanet"
     },
     {
-      "id": "tmdb:447234",
+      "tmdbId": 447234",
       "type": "movie",
-      "name": "Ali Kundilli 2"
+      "title": "Ali Kundilli 2"
     },
     {
-      "id": "tmdb:848168",
+      "tmdbId": 848168",
       "type": "movie",
-      "name": "Ağır Kelepçe"
+      "title": "Ağır Kelepçe"
     },
     {
-      "id": "tmdb:34420",
+      "tmdbId": 34420",
       "type": "movie",
-      "name": "Uzak İhtimal"
+      "title": "Uzak İhtimal"
     },
     {
-      "id": "tmdb:435246",
+      "tmdbId": 435246",
       "type": "movie",
-      "name": "Çakallarla Dans 4"
+      "title": "Çakallarla Dans 4"
     },
     {
-      "id": "tmdb:324492",
+      "tmdbId": 324492",
       "type": "movie",
-      "name": "Nefesim kesilene kadar"
+      "title": "Nefesim kesilene kadar"
     },
     {
-      "id": "tmdb:435241",
+      "tmdbId": 435241",
       "type": "movie",
-      "name": "Geniş Aile 2: Her Türlü"
+      "title": "Geniş Aile 2: Her Türlü"
     },
     {
-      "id": "tmdb:381938",
+      "tmdbId": 381938",
       "type": "movie",
-      "name": "Kardeşim Benim"
+      "title": "Kardeşim Benim"
     },
     {
-      "id": "tmdb:194963",
+      "tmdbId": 194963",
       "type": "movie",
-      "name": "Maskeli Beşler: Kıbrıs"
+      "title": "Maskeli Beşler: Kıbrıs"
     },
     {
-      "id": "tmdb:80983",
+      "tmdbId": 80983",
       "type": "movie",
-      "name": "Ata Demirer: Tek Kişilik Dev Kadro 2"
+      "title": "Ata Demirer: Tek Kişilik Dev Kadro 2"
     },
     {
-      "id": "tmdb:380464",
+      "tmdbId": 380464",
       "type": "movie",
-      "name": "İftarlık Gazoz"
+      "title": "İftarlık Gazoz"
     },
     {
-      "id": "tmdb:138574",
+      "tmdbId": 138574",
       "type": "movie",
-      "name": "Tepenin Ardı"
+      "title": "Tepenin Ardı"
     },
     {
-      "id": "tmdb:79682",
+      "tmdbId": 79682",
       "type": "movie",
-      "name": "Gelecek Uzun Sürer"
+      "title": "Gelecek Uzun Sürer"
     },
     {
-      "id": "tmdb:215525",
+      "tmdbId": 215525",
       "type": "movie",
-      "name": "Şarkı Söyleyen Kadınlar"
+      "title": "Şarkı Söyleyen Kadınlar"
     },
     {
-      "id": "tmdb:355525",
+      "tmdbId": 355525",
       "type": "movie",
-      "name": "Güvercin Uçuverdi"
+      "title": "Güvercin Uçuverdi"
     },
     {
-      "id": "tmdb:381803",
+      "tmdbId": 381803",
       "type": "movie",
-      "name": "Yok Artık!"
+      "title": "Yok Artık!"
     },
     {
-      "id": "tmdb:346296",
+      "tmdbId": 346296",
       "type": "movie",
-      "name": "Kırımlı"
+      "title": "Kırımlı"
     },
     {
-      "id": "tmdb:345807",
+      "tmdbId": 345807",
       "type": "movie",
-      "name": "İçimdeki Ses"
+      "title": "İçimdeki Ses"
     },
     {
-      "id": "tmdb:64468",
+      "tmdbId": 64468",
       "type": "movie",
-      "name": "Çalgı Çengi"
+      "title": "Çalgı Çengi"
     },
     {
-      "id": "tmdb:329160",
+      "tmdbId": 329160",
       "type": "movie",
-      "name": "Çekmeceler"
+      "title": "Çekmeceler"
     },
     {
-      "id": "tmdb:12497",
+      "tmdbId": 12497",
       "type": "movie",
-      "name": "Bir Tutam Baharat"
+      "title": "Bir Tutam Baharat"
     },
     {
-      "id": "tmdb:304765",
+      "tmdbId": 304765",
       "type": "movie",
-      "name": "Toz Ruhu"
+      "title": "Toz Ruhu"
     },
     {
-      "id": "tmdb:314469",
+      "tmdbId": 314469",
       "type": "movie",
-      "name": "Asasız Musa"
+      "title": "Asasız Musa"
     },
     {
-      "id": "tmdb:389446",
+      "tmdbId": 389446",
       "type": "movie",
-      "name": "Çekmeköy Underground"
+      "title": "Çekmeköy Underground"
     },
     {
-      "id": "tmdb:1274104",
+      "tmdbId": 1274104",
       "type": "movie",
-      "name": "Yeni Hayat"
+      "title": "Yeni Hayat"
     },
     {
-      "id": "tmdb:412493",
+      "tmdbId": 412493",
       "type": "movie",
-      "name": "Madımak: Carina'nın Günlüğü"
+      "title": "Madımak: Carina'nın Günlüğü"
     },
     {
-      "id": "tmdb:140485",
+      "tmdbId": 140485",
       "type": "movie",
-      "name": "Sağ Salim"
+      "title": "Sağ Salim"
     },
     {
-      "id": "tmdb:439396",
+      "tmdbId": 439396",
       "type": "movie",
-      "name": "Mavi Gece"
+      "title": "Mavi Gece"
     },
     {
-      "id": "tmdb:453486",
+      "tmdbId": 453486",
       "type": "movie",
-      "name": "İçimdeki İnsan"
+      "title": "İçimdeki İnsan"
     },
     {
-      "id": "tmdb:527631",
+      "tmdbId": 527631",
       "type": "movie",
-      "name": "Aşkopat"
+      "title": "Aşkopat"
     },
     {
-      "id": "tmdb:441600",
+      "tmdbId": 441600",
       "type": "movie",
-      "name": "Can Tertip"
+      "title": "Can Tertip"
     },
     {
-      "id": "tmdb:368787",
+      "tmdbId": 368787",
       "type": "movie",
-      "name": "Geniş Aile: Yapıştır"
+      "title": "Geniş Aile: Yapıştır"
     },
     {
-      "id": "tmdb:374867",
+      "tmdbId": 374867",
       "type": "movie",
-      "name": "Kafes"
+      "title": "Kafes"
     },
     {
-      "id": "tmdb:374074",
+      "tmdbId": 374074",
       "type": "movie",
-      "name": "Nadide Hayat"
+      "title": "Nadide Hayat"
     },
     {
-      "id": "tmdb:320035",
+      "tmdbId": 320035",
       "type": "movie",
-      "name": "Karışık Kaset"
+      "title": "Karışık Kaset"
     },
     {
-      "id": "tmdb:133176",
+      "tmdbId": 133176",
       "type": "movie",
-      "name": "Küf"
+      "title": "Küf"
     },
     {
-      "id": "tmdb:410867",
+      "tmdbId": 410867",
       "type": "movie",
-      "name": "Maskeli Beşler: Irak"
+      "title": "Maskeli Beşler: Irak"
     },
     {
-      "id": "tmdb:4887",
+      "tmdbId": 4887",
       "type": "movie",
-      "name": "Takva"
+      "title": "Takva"
     },
     {
-      "id": "tmdb:80982",
+      "tmdbId": 80982",
       "type": "movie",
-      "name": "Ata Demirer: Tek Kişilik Dev Kadro"
+      "title": "Ata Demirer: Tek Kişilik Dev Kadro"
     },
     {
-      "id": "tmdb:382988",
+      "tmdbId": 382988",
       "type": "movie",
-      "name": "Guruldayan Kalpler"
+      "title": "Guruldayan Kalpler"
     },
     {
-      "id": "tmdb:52192",
+      "tmdbId": 52192",
       "type": "movie",
-      "name": "Ayakta Kal"
+      "title": "Ayakta Kal"
     },
     {
-      "id": "tmdb:239534",
+      "tmdbId": 239534",
       "type": "movie",
-      "name": "Beni Unutma"
+      "title": "Beni Unutma"
     },
     {
-      "id": "tmdb:37419",
+      "tmdbId": 37419",
       "type": "movie",
-      "name": "Korkuyorum Anne"
+      "title": "Korkuyorum Anne"
     },
     {
-      "id": "tmdb:5850",
+      "tmdbId": 5850",
       "type": "movie",
-      "name": "Beş Vakit"
+      "title": "Beş Vakit"
     },
     {
-      "id": "tmdb:37573",
+      "tmdbId": 37573",
       "type": "movie",
-      "name": "Hayat Var"
+      "title": "Hayat Var"
     },
     {
-      "id": "tmdb:300618",
+      "tmdbId": 300618",
       "type": "movie",
-      "name": "Pus"
+      "title": "Pus"
     },
     {
-      "id": "tmdb:43908",
+      "tmdbId": 43908",
       "type": "movie",
-      "name": "Kosmos"
+      "title": "Kosmos"
     },
     {
-      "id": "tmdb:165140",
+      "tmdbId": 165140",
       "type": "movie",
-      "name": "Jîn"
+      "title": "Jîn"
     },
     {
-      "id": "tmdb:472973",
+      "tmdbId": 472973",
       "type": "movie",
-      "name": "The İmam"
+      "title": "The İmam"
     },
     {
-      "id": "tmdb:12417",
+      "tmdbId": 12417",
       "type": "movie",
-      "name": "Sonbahar"
+      "title": "Sonbahar"
     },
     {
-      "id": "tmdb:35173",
+      "tmdbId": 35173",
       "type": "movie",
-      "name": "Acı Aşk"
+      "title": "Acı Aşk"
     },
     {
-      "id": "tmdb:37575",
+      "tmdbId": 37575",
       "type": "movie",
-      "name": "Türkler Çıldırmış Olmalı"
+      "title": "Türkler Çıldırmış Olmalı"
     },
     {
-      "id": "tmdb:183093",
+      "tmdbId": 183093",
       "type": "movie",
-      "name": "Lal Gece"
+      "title": "Lal Gece"
     },
     {
-      "id": "tmdb:468369",
+      "tmdbId": 468369",
       "type": "movie",
-      "name": "Ayas"
+      "title": "Ayas"
     },
     {
-      "id": "tmdb:376050",
+      "tmdbId": 376050",
       "type": "movie",
-      "name": "Bizim Hikaye"
+      "title": "Bizim Hikaye"
     },
     {
-      "id": "tmdb:64335",
+      "tmdbId": 64335",
       "type": "movie",
-      "name": "İncir Reçeli"
+      "title": "İncir Reçeli"
     },
     {
-      "id": "tmdb:238802",
+      "tmdbId": 238802",
       "type": "movie",
-      "name": "İlk Aşk"
+      "title": "İlk Aşk"
     },
     {
-      "id": "tmdb:37572",
+      "tmdbId": 37572",
       "type": "movie",
-      "name": "Deli Deli Olma"
+      "title": "Deli Deli Olma"
     },
     {
-      "id": "tmdb:325134",
+      "tmdbId": 325134",
       "type": "movie",
-      "name": "Sevimli Tehlikeli"
+      "title": "Sevimli Tehlikeli"
     },
     {
-      "id": "tmdb:128015",
+      "tmdbId": 128015",
       "type": "movie",
-      "name": "Gölgeler ve Suretler"
+      "title": "Gölgeler ve Suretler"
     },
     {
-      "id": "tmdb:300617",
+      "tmdbId": 300617",
       "type": "movie",
-      "name": "Saç"
+      "title": "Saç"
     },
     {
-      "id": "tmdb:171179",
+      "tmdbId": 171179",
       "type": "movie",
-      "name": "Romantik Komedi 2: Bekarlığa Veda"
+      "title": "Romantik Komedi 2: Bekarlığa Veda"
     },
     {
-      "id": "tmdb:138725",
+      "tmdbId": 138725",
       "type": "movie",
-      "name": "SüperTürk"
+      "title": "SüperTürk"
     },
     {
-      "id": "tmdb:177332",
+      "tmdbId": 177332",
       "type": "movie",
-      "name": "Rina"
+      "title": "Rina"
     },
     {
-      "id": "tmdb:326474",
+      "tmdbId": 326474",
       "type": "movie",
-      "name": "Hadi İnşallah"
+      "title": "Hadi İnşallah"
     },
     {
-      "id": "tmdb:109671",
+      "tmdbId": 109671",
       "type": "movie",
-      "name": "Maskeli Beşler: İntikam Peşinde"
+      "title": "Maskeli Beşler: İntikam Peşinde"
     },
     {
-      "id": "tmdb:11688",
+      "tmdbId": 11688",
       "type": "movie",
-      "name": "Şaşkın İmparator"
+      "title": "Şaşkın İmparator"
     },
     {
-      "id": "tmdb:52130",
+      "tmdbId": 52130",
       "type": "movie",
-      "name": "Eve Dönüş"
+      "title": "Eve Dönüş"
     },
     {
-      "id": "tmdb:396621",
+      "tmdbId": 396621",
       "type": "movie",
-      "name": "Suna"
+      "title": "Suna"
     },
     {
-      "id": "tmdb:232345",
+      "tmdbId": 232345",
       "type": "movie",
-      "name": "Sabit Kanca"
+      "title": "Sabit Kanca"
     },
     {
-      "id": "tmdb:309853",
+      "tmdbId": 309853",
       "type": "movie",
-      "name": "Deliha"
+      "title": "Deliha"
     },
     {
-      "id": "tmdb:278475",
+      "tmdbId": 278475",
       "type": "movie",
-      "name": "Şevkat Yerimdar"
+      "title": "Şevkat Yerimdar"
     },
     {
-      "id": "tmdb:31026",
+      "tmdbId": 31026",
       "type": "movie",
-      "name": "Uzak"
+      "title": "Uzak"
     },
     {
-      "id": "tmdb:272835",
+      "tmdbId": 272835",
       "type": "movie",
-      "name": "Hemşo"
+      "title": "Hemşo"
     },
     {
-      "id": "tmdb:10799",
+      "tmdbId": 10799",
       "type": "movie",
-      "name": "Kurtlar İmparatorluğu"
+      "title": "Kurtlar İmparatorluğu"
     },
     {
-      "id": "tmdb:29987",
+      "tmdbId": 29987",
       "type": "movie",
-      "name": "Karşı Pencere"
+      "title": "Karşı Pencere"
     },
     {
-      "id": "tmdb:52076",
+      "tmdbId": 52076",
       "type": "movie",
-      "name": "Gelecekten Bir Gün"
+      "title": "Gelecekten Bir Gün"
     },
     {
-      "id": "tmdb:347480",
+      "tmdbId": 347480",
       "type": "movie",
-      "name": "Hiçbiryerde"
+      "title": "Hiçbiryerde"
     },
     {
-      "id": "tmdb:363",
+      "tmdbId": 363",
       "type": "movie",
-      "name": "Duvara Karşı"
+      "title": "Duvara Karşı"
     },
     {
-      "id": "tmdb:336292",
+      "tmdbId": 336292",
       "type": "movie",
-      "name": "Çakallarla Dans 3: Sıfır Sıkıntı"
+      "title": "Çakallarla Dans 3: Sıfır Sıkıntı"
     },
     {
-      "id": "tmdb:187976",
+      "tmdbId": 187976",
       "type": "movie",
-      "name": "Çakallarla Dans 2: Hastasıyız Dede!"
+      "title": "Çakallarla Dans 2: Hastasıyız Dede!"
     },
     {
-      "id": "tmdb:271954",
+      "tmdbId": 271954",
       "type": "movie",
-      "name": "Su ve Ateş"
+      "title": "Su ve Ateş"
     },
     {
-      "id": "tmdb:47978",
+      "tmdbId": 47978",
       "type": "movie",
-      "name": "Cenneti Beklerken"
+      "title": "Cenneti Beklerken"
     },
     {
-      "id": "tmdb:54424",
+      "tmdbId": 54424",
       "type": "movie",
-      "name": "Çoğunluk"
+      "title": "Çoğunluk"
     },
     {
-      "id": "tmdb:1256814",
+      "tmdbId": 1256814",
       "type": "movie",
-      "name": "Aile Çıkmazı"
+      "title": "Aile Çıkmazı"
     },
     {
-      "id": "tmdb:85782",
+      "tmdbId": 85782",
       "type": "movie",
-      "name": "Berlin Kaplanı"
+      "title": "Berlin Kaplanı"
     },
     {
-      "id": "tmdb:38614",
+      "tmdbId": 38614",
       "type": "movie",
-      "name": "Romantik Komedi"
+      "title": "Romantik Komedi"
     },
     {
-      "id": "tmdb:1182877",
+      "tmdbId": 1182877",
       "type": "movie",
-      "name": "Meksika Açmazı"
+      "title": "Meksika Açmazı"
     },
     {
-      "id": "tmdb:199326",
+      "tmdbId": 199326",
       "type": "movie",
-      "name": "Deli Yürek: Bumerang Cehennemi"
+      "title": "Deli Yürek: Bumerang Cehennemi"
     },
     {
-      "id": "tmdb:59811",
+      "tmdbId": 59811",
       "type": "movie",
-      "name": "Çakallarla Dans"
+      "title": "Çakallarla Dans"
     },
     {
-      "id": "tmdb:75640",
+      "tmdbId": 75640",
       "type": "movie",
-      "name": "Kolpaçino: Bomba"
+      "title": "Kolpaçino: Bomba"
     },
     {
-      "id": "tmdb:50025",
+      "tmdbId": 50025",
       "type": "movie",
-      "name": "Kolpaçino"
+      "title": "Kolpaçino"
     },
     {
-      "id": "tmdb:59935",
+      "tmdbId": 59935",
       "type": "movie",
-      "name": "Bir An Özgürlük İçin"
+      "title": "Bir An Özgürlük İçin"
     }
   ]
 }
